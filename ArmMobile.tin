@@ -1,0 +1,43 @@
+#CONFIG {COLOR MODE} {256}
+#CONFIG {CHARSET} {UTF-8}
+#CONFIG {COLOR PATCH} {OFF}
+#CONFIG {COMMAND COLOR} {<g08>}
+#CONFIG {COMMAND ECHO} {ON}
+#CONFIG {PACKET PATCH} {0.5}
+#CONFIG {REPEAT CHAR} {!}
+#CONFIG {SPEEDWALK} {ON}
+
+#highlight {[armed]} {<ffe>}
+#highlight {[sneaking]} {<ffe>}
+
+#ALIAS {InstallInfobar} {
+#NOP PROMPT_time_day_hunger_thirst_drunk_mood_LINEONE;
+#NOP PROMPT_hp_maxhp_stamina_maxstamina_stun_maxstun_focus_maxfocus_mana_maxmana_armed_position_encumbrance_LINETWO;
+#NOP PROMPT_speed_riding_accentlanguage_scan_listen_LINETHREE;
+#send {prompt PROMPT_%e_%d_%u_%U_%R_%O_LINEONE\\nPROMPT_%h_%H_%v_%V_%t_%T_%x_%X_%m_%M_%A_%s_%E_LINETWO\\nPROMPT_%w_%k_%a_%o_%p_%P_LINETHREE\\n}
+}
+
+#ACTION {PROMPT_%1_%2_%3_%4_%5_%6_LINEONE} {
+#showme {- [%1 on %2] [%3] [%4] [%5] Mood: %6 - } {1}
+} {1} 
+
+#ACTION {PROMPT_%1_%2_%3_%4_%5_%6_%7_%8_%9_%10_%11_%12_%13_LINETWO} {
+   #if {"$Mana" == "Off"} {#showme {- hp:%1/%2 mv:%3/%4 st:%5/%6 fs:%7/%8 [%11] [%12] [%13] -} {-6}}; #else {
+   #showme {- hp:%1/%2 mv:%3/%4 st:%5/%6 fs:%7/%8 mn:%9/%10 [%11] [%12] [%13] -} {-6}}
+} {1}
+
+#ACTION {PROMPT_%1_%2_%3_%4_%5_%6_LINETHREE} {
+  #showme {- [%1] [%2] [%3 %4] [%5 %6] -} {-5}
+} {1}
+
+#GAG {PROMPT_%*_LINEONE} 
+#GAG {PROMPT_%*_LINETWO} 
+#GAG {PROMPT_%*_LINETHREE} 
+
+#var Mana Off
+#alias ManaOn {#var Mana On; #showme Displaying mana values}
+#alias ManaOff {#var Mana Off; #showme Hiding mana values}
+
+#split 2 4 0 0 3
+
+#session Armageddon ginka.armageddon.org 4050
