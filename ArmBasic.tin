@@ -1,0 +1,367 @@
+#CONFIG {AUTO TAB} {5000}
+#CONFIG {BUFFER SIZE} {1000000}
+#CONFIG {CHARSET} {UTF-8}
+#CONFIG {COLOR MODE} {256}
+#CONFIG {COLOR PATCH} {ON}
+#CONFIG {COMMAND COLOR} {<g08>}
+#CONFIG {COMMAND ECHO} {ON}
+#CONFIG {COMPACT} {OFF}
+#CONFIG {CONNECT RETRY} {15.0}
+#CONFIG {HISTORY SIZE} {1000}
+#CONFIG {LOG MODE} {HTML}
+#CONFIG {MOUSE} {ON}
+#CONFIG {PACKET PATCH} {0.50}
+#CONFIG {REPEAT CHAR} {!}
+#CONFIG {REPEAT ENTER} {OFF}
+#CONFIG {SCREEN READER} {OFF}
+#CONFIG {SCROLL LOCK} {ON}
+#CONFIG {SPEEDWALK} {ON}
+#CONFIG {TELNET} {ON}
+#CONFIG {TINTIN CHAR} {#}
+#CONFIG {VERBATIM} {OFF}
+#CONFIG {VERBATIM CHAR} {\}
+#CONFIG {VERBOSE} {OFF}
+#CONFIG {WORDWRAP} {ON}
+
+#nop -------------------------------------------------------------------------
+#nop HIGHLIGHT PACKAGE: InstallInfobar reduces the amount of default colours
+#nop used and creates client highlighting. Alias 'colorpalette' shows colcodes
+#nop -------------------------------------------------------------------------
+
+#HIGHLIGHT {A foreign presence contacts your mind%*} {<aff>} {5}
+#HIGHLIGHT {A loud bell chimes, echoing across the city%*} {<aff>} {5}
+#HIGHLIGHT {A staff member sends} {<aff>} {5}
+#HIGHLIGHT {The body of } {<add>} {5}
+#HIGHLIGHT {The head of } {<add>} {5}
+#HIGHLIGHT {To the {north|south|west|east}} {<add>} {5}
+#HIGHLIGHT {You already have} {<aff>} {5}
+#HIGHLIGHT {You are dehydrated%*} {<ffa>} {5}
+#HIGHLIGHT {You are famished%*} {<dda>} {5}
+#HIGHLIGHT {You are starving%*} {<ffa>} {5}
+#HIGHLIGHT {You are wanted in} {bold} {5}
+#HIGHLIGHT {You feel burning poison in your blood, and suffer%*} {<ffa>} {5}
+#HIGHLIGHT {You follow} {<add>} {5}
+#HIGHLIGHT {You lost your concentration} {<178>} {5}
+#HIGHLIGHT {You notice } {<add>} {5}
+#HIGHLIGHT {You subdue} {<ffa>} {5}
+#HIGHLIGHT {You suffer from dehydration%*} {<ffa>} {5}
+#HIGHLIGHT {You're now wanted%*} {bold} {5}
+#HIGHLIGHT {Your psychic barrier is crushed%*} {<aff>} {5}
+#HIGHLIGHT {[armed]} {<ffe>} {5}
+#HIGHLIGHT {[running]} {<ffe>} {5}
+#HIGHLIGHT {[sneaking]} {<ffe>} {5}
+#HIGHLIGHT {^     "%0"} {<cfa>} {5}
+#HIGHLIGHT {^<both hands> %*} {<add>} {5}
+#HIGHLIGHT {^<primary hand> %*} {<add>} {5}
+#HIGHLIGHT {^<secondary hand> %*} {<add>} {5}
+#HIGHLIGHT {^At your table,} {<add>} {5}
+#HIGHLIGHT {a glowing leather-strapped} {<bea>} {5}
+#HIGHLIGHT {a strange taste} {<ffa>} {5}
+#HIGHLIGHT {and knocks you over} {<ffa>} {5}
+#HIGHLIGHT {arrow flies in from} {<faa>} {5}
+#HIGHLIGHT {asks you,} {<aff>} {5}
+#HIGHLIGHT {attack reversed} {<faa>} {5}
+#HIGHLIGHT {attacks {the|a} } {<faa>} {5}
+#HIGHLIGHT {bat you} {<ffa>} {5}
+#HIGHLIGHT {begins fighting} {<ffa>} {5}
+#HIGHLIGHT {begins guarding } {<ffa>} {5}
+#HIGHLIGHT {chasm} {<faa>} {5}
+#HIGHLIGHT {crumples to the ground} {<faa>} {5}
+#HIGHLIGHT {darts in front of you} {<ffa>} {5}
+#HIGHLIGHT {fail the rescue} {<ffa>} {5}
+#HIGHLIGHT {falls in behind you} {<add>} {5}
+#HIGHLIGHT {from your hands} {<ffa>} {5}
+#HIGHLIGHT {fumble and drop} {<faa>} {5}
+#HIGHLIGHT {fumbles} {<faa>} {5}
+#HIGHLIGHT {gives you} {light <add>} {5}
+#HIGHLIGHT {has arrived from %*} {<ffa>} {5}
+#HIGHLIGHT {is not fighting anyone} {<ffa>} {5}
+#HIGHLIGHT {looks really sick, and shivers uncomfortably} {<ffa>} {5}
+#HIGHLIGHT {nimbly avoids your bash} {<ffa>} {5}
+#HIGHLIGHT {out of character} {<aff>} {5}
+#HIGHLIGHT {protects you from harm} {<faa>} {5}
+#HIGHLIGHT {refuses to move} {<add>} {5}
+#HIGHLIGHT {rescues the} {<ffa>} {5}
+#HIGHLIGHT {rolls with your charge} {<ffa>} {5}
+#HIGHLIGHT {says to you} {<aff>} {5}
+#HIGHLIGHT {sends you sprawling} {<ffa>} {5}
+#HIGHLIGHT {stops attacking} {<ffa>} {5}
+#HIGHLIGHT {stops fighting} {<ffa>} {5}
+#HIGHLIGHT {subdues you, despite your attempts} {<faa>} {5}
+#HIGHLIGHT {throws} {<ffa>} {5}
+#HIGHLIGHT {throws you from its back} {<add>} {5}
+#HIGHLIGHT {too fast for you, so you lag behind} {<add>} {5}
+#HIGHLIGHT {tries to protect} {<ffa>} {5}
+#HIGHLIGHT {tries unsuccessfully to dart in front} {<ffa>} {5}
+#HIGHLIGHT {{North|South|West|East} of here} {<add>} {5}
+#HIGHLIGHT {{carru|templar|tarantula|scrab|anakore|gortok|gith|bahamet|mekillot|cylops|ciclops|raptor} has arrived} {<faa>} {5}
+#HIGHLIGHT {{charge|charges} into the fight} {<ffa>} {5}
+#HIGHLIGHT {{knocks|knock} a } {<faa>} {5}
+#HIGHLIGHT {{leaps|leap} in front of } {<ffa>} {5}
+#HIGHLIGHT {{reel|reels} from the blow} {<faa>} {5}
+#HIGHLIGHT {{seem|seems} to have {your|his|her|its} hands full} {<aff>} {5}
+#HIGHLIGHT {{walks|runs|sneaks|run|sneak|walk} {north|south|west|east|up|down}} {<add>} {5}
+
+#nop Regex colour substitutions to make it clearer who you are attacking.
+
+#substitute {%1 {attacks you.}} {
+  <fef>%1<099> %2
+}
+
+#substitute {%1 {lightly|solidly|brutally|viciously} {gores|bites|claws|pecks|hits|chops|stings|stabs|whips|pinches|bludgeons|slashes|pierces} {at you|your|you}%5} {
+<fef>%1<099> %2 <170>%3<099> %4%5
+}
+
+#substitute {%1 {gores|bites|claws|pecks|hits|chops|stings|stabs|whips|pinches|bludgeons|slashes|pierces} {your|you}%4} {
+<fef>%1<099> <170>%2<099> %3%4
+}
+
+#substitute {%1 {gores|bites|claws|pecks|hits|chops|stings|stabs|whips|pinches|bludgeons|slashes|pierces} %3{'s|, barely} %5} {
+<fef>%1<099> <170>%2<099> <fef>%3<099>%4 %5
+}
+
+#substitute {%1 {lightly|solidly|brutally|viciously} {gores|bites|claws|pecks|hits|chops|stings|stabs|whips|pinches|bludgeons|slashes|pierces} %4 on %6} {
+<fef>%1<099> <170>%2 %3<099> <fef>%4<099> on %6
+}
+
+#substitute {%1 {gores|bites|claws|pecks|hits|chops|stings|stabs|whips|pinches|bludgeons|slashes|pierces} %3 on %5} {
+<fef>%1<099> <170>%2<099> <fef>%3<099> on %5
+}
+
+#substitute {{You} {lightly|solidly|brutally|viciously} {nick|slash|chop|stab|whip|bludgeon|hit|pierce} %4{'s} %6} {
+  %1 %2 %3 <fef>%4<099>%5 %6
+}
+
+#substitute {{You} {nick|slash|chop|stab|whip|bludgeon|hit|pierce} %3{'s} %5} {
+%1 %2 <fef>%3<099>%4 %5
+}
+
+#substitute {{You} {lightly|solidly|brutally|viciously} {nick|slash|chop|stab|whip|bludgeon|hit|pierce} %4 {very|on}} {
+%1 %2 %3 <fef>%4<099> %5
+}
+
+#substitute {{You} {nick|slash|chop|stab|whip|bludgeon|hit|pierce} %3{, barely| very| on}} {
+  %1 %2 <fef>%3<099>%4
+}
+
+#substitute {{You inflict a grievous wound on} %2{'s} %4} {
+  %1 <fef>%2<099>%3 %4
+}
+
+#substitute {{You wound} %2 {on} %4} {
+  %1 <fef>%2<099> %3 %4
+}
+
+#substitute {{You do unspeakable damage to} %2{'s} %4} {
+  %1 <fef>%2<099>%3 %4
+
+}
+#substitute {{You land a solid} {nick|slash|chop|stab|whip|bludgeon|hit|pierce} {to} %4{'s} %6} {
+  %1 %2 %3 <fef>%4<099>%5 %6
+}
+
+#ALIAS {colorpalette}
+{
+    #foreach {a;b;c;d;e;f} {cnt1}
+    {
+        #foreach {a;b;c;d;e;f} {cnt2}
+        {
+            #variable result <000>;
+            #foreach {a;b;c;d;e;f} {cnt3}
+            {
+                #variable result $result  <$cnt1$cnt2$cnt3> <<888>$cnt1$cnt2$cnt3><088>
+            };
+            #showme $result
+        }
+    }
+}
+
+#nop -------------------------------------------------------------------------
+#nop SOUNDS ALERTS: Uses default bell command which should system beep
+#nop experiences may vary depending on what system/terminal you use
+#nop -------------------------------------------------------------------------
+
+#ACTION {beeps you.$}
+{
+    #bell
+}
+
+#ACTION {^A foreign}
+{
+    #bell
+}
+
+#ACTION {^SYSTEM:}
+{
+    #bell
+}
+
+#nop -------------------------------------------------------------------------
+#nop MOUSE NAV: can click in input bar to move cursor and use scroll wheel for
+#nop the buffer. Issue is right-click-paste doesn't work. use shift+rght clk
+#nop -------------------------------------------------------------------------
+
+#EVENT {PRESSED INPUT MOUSE BUTTON ONE}
+{
+    #cursor position %0 %1
+}
+
+#EVENT {SCROLLED MOUSE WHEEL DOWN}
+{
+    #buffer down 4
+}
+
+#EVENT {SCROLLED MOUSE WHEEL UP}
+{
+    #buffer up 4
+}
+
+#nop -------------------------------------------------------------------------
+#nop PROMPT/INFOBAR: InstallInfobar installs prompt and new arm default colors
+#nop use ManaOff or ManaOn to disable/enable mana in the infobar
+#nop -------------------------------------------------------------------------
+
+#ALIAS {InstallInfobar}
+{
+    #nop PROMPT_time_day_hunger_thirst_drunk_mood_LINEONE;
+    #nop PROMPT_hp_maxhp_stamina_maxstamina_stun_maxstun_focus_maxfocus_mana_maxmana_armed_position_encumbrance_LINETWO;
+    #nop PROMPT_speed_riding_accent_language_scan_listen_LINETHREE;
+    #send {prompt PROMPT_%e_%d_%u_%U_%R_%O_LINEONE\\nPROMPT_%h_%H_%v_%V_%t_%T_%x_%X_%m_%M_%A_%s_%E_LINETWO\\nPROMPT_%w_%k_%a_%o_%p_%P_LINETHREE\\n};
+    change color none;
+    change color fg_room_name 11;
+    change color fg_room_exits 208;
+    change color fg_object 14;
+    change color fg_char 142;
+    change color emphasize off
+}
+
+#ALIAS {ManaOff}
+{
+    #variable Mana Off;
+    #showme Hiding mana values
+}
+
+#ALIAS {ManaOn}
+{
+    #variable Mana On;
+    #showme Displaying mana values
+}
+
+#VARIABLE {Mana} {Off}
+
+#nop cval is for colour highlighting of stat values
+#ALIAS {cval}
+{
+    #variable %3 %1;
+    #math {p_h} {%1.00 / %2.00};
+    #if {$p_h <= 0.80 && $p_h > 0.70}
+    {
+        #variable %3 <ffe>${%3}<090>
+    };
+    #elseif {$p_h <= 0.70 && $p_h > 0.55}
+    {
+        #variable %3 <ffa>${%3}<090>
+    };
+    #elseif {$p_h <= 0.55 && $p_h > 0.25}
+    {
+        #variable %3 <fba>${%3}<090>
+    };
+    #elseif {$p_h <= 0.25}
+    {
+        #variable %3 <faa>${%3}<090>
+    }
+}
+
+#nop top bar
+#ACTION {PROMPT_%1_%2_%3_%4_%5_%6_LINEONE}
+{
+    #showme {- [%1 on %2] [%3] [%4] [%5] Mood: %6 - } {1}
+}
+{1}
+#nop bottom bar
+#ACTION {PROMPT_%1_%2_%3_%4_%5_%6_%7_%8_%9_%10_%11_%12_%13_LINETWO}
+{
+    cval {%1} {%2} {h};
+    cval {%3} {%4} {v};
+    cval {%5} {%6} {t};
+    cval {%7} {%8} {f};
+    cval {%9} {%10} {m};
+    #if {"$Mana" == "Off"}
+    {
+        #showme {- hp:${h}/%2 mv:${v}/%4 st:${t}/%6 fs:${f}/%8 [%11] [%12] [%13] -} {-6}
+    };
+    #else
+    {
+        #showme {- hp:${h}/%2 mv:${v}/%4 st:${t}/%6 fs:${f}/%8 mn:${m}/%10 [%11] [%12] [%13] -} {-6}
+    }
+}
+{1}
+#nop bottom bar
+#ACTION {PROMPT_%1_%2_%3_%4_%5_%6_LINETHREE}
+{
+    #showme {- [%1] [%2] [%3 %4] [%5 %6] -} {-5};
+    #variable speed %1;
+    #variable riding %2
+}
+{1}
+
+#GAG {PROMPT_%*_LINEONE}
+#GAG {PROMPT_%*_LINETHREE}
+#GAG {PROMPT_%*_LINETWO}
+
+#nop -------------------------------------------------------------------------
+#nop LOGGING: logs to HTML file with current date.
+#nop the command log can be used to turn logging on and off. 
+#nop -------------------------------------------------------------------------
+
+#SCRIPT {LogDir} {mkdir -p ~/ArmLogs; cd ~/ArmLogs; pwd}
+
+#ALIAS {log}
+{
+    #if {"%0" == "on"}
+    {
+        #if {"$logging" != "on"}
+        {
+            #format {logfile} {$LogDir[1]/%t.html} {%Y-%m-%d};
+            #log append $logfile;
+            #showme Starting logging.;
+            #variable logging on
+        };
+        #else
+        {
+            #showme You are already logging.
+        }
+    };
+    #elseif {"%0" == "off"}
+    {
+        #if {"$logging" == "on"}
+        {
+            #showme Stopping logging.;
+            #log off;
+            #variable logging off
+        };
+        #else
+        {
+            #showme You are not logging.
+        }
+    };
+    #else
+    {
+        #showme Logging is currently $logging ...
+    }
+}
+
+#nop -------------------------------------------------------------------------
+#nop SCREEN SETUP AND CONNECTION
+#nop 
+#nop -------------------------------------------------------------------------
+
+#SPLIT 2 4 0 0 3
+
+#SESSION Armageddon ginka.armageddon.org 4050
+
+#nop logging is on by default to linux personal directory. -------------------
+#FORMAT {logfile} {$LogDir[1]/%t.html} {%Y-%m-%d};
+#LOG append $logfile
+#VARIABLE {logging} {on}
+#nop -------------------------------------------------------------------------
