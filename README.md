@@ -1,15 +1,23 @@
 # ArmageddonMUD
 
-## ArmMobile.tin
+## Arm Scripts
 Follow the instructions https://tintin.mudhalla.net/install.php#iOS
 
-Then, after that, return to the home directory and download the script below by:
-
+Then, after that, return to the home directory
 * cd ~
+
+Then choose to download one of the following scripts
+
+For a minimalist script which only gives you an infobar but does nothing else, good for those who want to do their own customizing:
 * wget https://raw.githubusercontent.com/mdfx01/ArmageddonMUD/main/ArmMobile.tin
 
-Then run the script with:
+For a more full featured script which does infobar, logging, highlighting, mousewheel/inputbar clicking
+* wget https://raw.githubusercontent.com/mdfx01/ArmageddonMUD/main/ArmBasic.tin
 
+For all of the above plus mapping capabilities:
+* COMING SOME DAY
+
+Then run the script with:
 * tt++ ArmMobile.tin
 
 The commands are the same as the Mushclient infobar to make it work properly.  Run:
