@@ -1,5 +1,7 @@
 library(ggpubr)
 library(shiny)
+library(shinythemes)
+library(ggdark)
 options(warn=-1)
 
 class <- read.csv('class_data.csv', colClasses=c(rep('character',6), 'numeric'))
@@ -25,10 +27,12 @@ subclasslist <- c("", unique(subclass$subclass))
 
 
 # Define UI for application that draws a histogram
-ui <- fluidPage(
+ui <- fluidPage(theme = shinytheme("cyborg"),
+              
 
     # Application title
     titlePanel("MarshallDFX's ArmageddonMud Skill Comparison Graph"),
+    tags$style("#selected.class1 {border: 2px solid #dd4b39;}"),
 
     # Sidebar with a slider input for number of bins 
     sidebarLayout(
@@ -42,6 +46,7 @@ ui <- fluidPage(
           actionButton("lmbutton", "Light Mercantile"),
           actionButton("hmbutton", "Heavy Mercantile"),
           actionButton("clearbutton", "Clear All"),
+        
             selectInput(
                 "selected.class1",
                 "Class1",
@@ -153,9 +158,11 @@ ui <- fluidPage(
           plotOutput("plotPerception", height="500px"),
           plotOutput("plotStealth", height="400px"),
           plotOutput("plotBarter", height="200px"),
-          plotOutput("plotCraft", height="1100px")
+          plotOutput("plotCraft", height="1100px"),
+          plotOutput("plotPerk", height="750px")
         )
     )
+
 )
 
 # Define server logic required to draw a histogram
@@ -283,9 +290,11 @@ server <- function(input, output, session) {
       ggdotchart(plotdat[plotdat$skill_group == skillgroup, ], x="skill", y="skill_number", group="classcombo", rotate=TRUE,
                  color = "classcombo", main=skillgroup, legend.title = "Class/Subclass", legend='right',
                  add = "segments",  dot.size=3,  position = position_dodge(-0.6),
-                 xlab='',  ggtheme = theme_classic(), sorting='none') + 
+                 xlab='',   sorting='none') + 
         coord_flip(ylim = c(0, 4)) + 
-          scale_y_continuous(name ="",  labels=c("0"="Novice", "1"="Apprentice", "2"="Journeyman", "3"="Advanced", "4"="Master"))  +theme(text=element_text(size=20))
+         dark_theme_gray() +  scale_y_continuous(name ="",  labels=c("0"="Novice", "1"="Apprentice", "2"="Journeyman", "3"="Advanced", "4"="Master"))  +
+        theme(text=element_text(size=20)  )  
+ 
     })
     
     output$plotCraft <- renderPlot({
@@ -295,7 +304,7 @@ server <- function(input, output, session) {
         ggdotchart(plotdat[plotdat$skill_group == skillgroup, ], x="skill", y="skill_number", group="classcombo", rotate=TRUE,
                    color = "classcombo", main=skillgroup, legend.title = "Class/Subclass", legend='right',
                    add = "segments", position = position_dodge(-0.6), dot.size=3,
-                   xlab='',  ggtheme = theme_classic(), sorting='none') + 
+                   xlab='',  sorting='none') +  dark_theme_gray() +
           coord_flip(ylim = c(0, 4)) + 
             scale_y_continuous(name ="",  labels=c("0"="Novice", "1"="Apprentice", "2"="Journeyman", "3"="Advanced", "4"="Master"))  +theme(text=element_text(size=20))
     })
@@ -307,7 +316,7 @@ server <- function(input, output, session) {
         ggdotchart(plotdat[plotdat$skill_group == skillgroup, ], x="skill", y="skill_number", group="classcombo", rotate=TRUE,
                    color = "classcombo", main=skillgroup, legend.title = "Class/Subclass", legend='right',
                    add = "segments", position = position_dodge(-0.6), dot.size=3,
-                   xlab='',  ggtheme = theme_classic(), sorting='none') + 
+                   xlab='', sorting='none') +  dark_theme_gray() +
           coord_flip(ylim = c(0, 4)) + 
             scale_y_continuous(name ="",  labels=c("0"="Novice", "1"="Apprentice", "2"="Journeyman", "3"="Advanced", "4"="Master"))  +theme(text=element_text(size=20))
     })
@@ -320,7 +329,7 @@ server <- function(input, output, session) {
                      rotate=TRUE,
                    color = "classcombo", main=skillgroup, legend.title = "Class/Subclass", legend='right',
                    add = "segments", position = position_dodge(-0.6), dot.size=3,
-                   xlab='',  ggtheme = theme_classic(), sorting='none') + 
+                   xlab='',  sorting='none') +  dark_theme_gray() +
           coord_flip(ylim = c(0, 4)) + 
           scale_y_continuous(name ="",  labels=c("0"="Novice", "1"="Apprentice", "2"="Journeyman", "3"="Advanced", "4"="Master"))  +theme(text=element_text(size=20))
     })
@@ -332,7 +341,7 @@ server <- function(input, output, session) {
         ggdotchart(plotdat[plotdat$skill_group == skillgroup, ], x="skill", y="skill_number", group="classcombo", rotate=TRUE,
                    color = "classcombo", main=skillgroup, legend.title = "Class/Subclass", legend='right',
                    add = "segments", position = position_dodge(-0.6), dot.size=3,
-                   xlab='',  ggtheme = theme_classic(), sorting='none') + 
+                   xlab='', sorting='none') +  dark_theme_gray() +
           coord_flip(ylim = c(0, 4)) + 
             scale_y_continuous(name ="",  labels=c("0"="Novice", "1"="Apprentice", "2"="Journeyman", "3"="Advanced", "4"="Master"))  +theme(text=element_text(size=20))
     })
@@ -344,7 +353,7 @@ server <- function(input, output, session) {
         ggdotchart(plotdat[plotdat$skill_group == skillgroup, ], x="skill", y="skill_number", group="classcombo", rotate=TRUE,
                    color = "classcombo", main=skillgroup, legend.title = "Class/Subclass", legend='right',
                    add = "segments", position = position_dodge(-0.6), dot.size=3,
-                   xlab='',  ggtheme = theme_classic(), sorting='none') + 
+                   xlab='', sorting='none') +  dark_theme_gray() +
           coord_flip(ylim = c(0, 4)) + 
             scale_y_continuous(name ="",  labels=c("0"="Novice", "1"="Apprentice", "2"="Journeyman", "3"="Advanced", "4"="Master"))  +theme(text=element_text(size=20))
     })
@@ -356,10 +365,24 @@ server <- function(input, output, session) {
         ggdotchart(plotdat[plotdat$skill_group == skillgroup, ], x="skill", y="skill_number", group="classcombo", rotate=TRUE,
                    color = "classcombo", main=skillgroup, legend.title = "Class/Subclass", legend='right',
                    add = "segments", position = position_dodge(-0.6), dot.size=3,
-                   xlab='',  ggtheme = theme_classic(), sorting='none') + 
+                   xlab='',  sorting='none') +  dark_theme_gray() +
           coord_flip(ylim = c(0, 4)) + 
             scale_y_continuous(name ="",  labels=c("0"="Novice", "1"="Apprentice", "2"="Journeyman", "3"="Advanced", "4"="Master"))  +theme(text=element_text(size=20))
     })
+    
+    
+    output$plotPerk <- renderPlot({
+      plotdat <- alldat()
+      skillgroup <- 'Perk'
+      ggdotchart(plotdat[plotdat$skill_group == skillgroup, ], x="skill", y="skill_number", group="classcombo", rotate=TRUE,
+                 color = "classcombo", main=skillgroup, legend.title = "Class/Subclass", legend='right',
+                 add = "segments", position = position_dodge(-0.6), dot.size=3, 
+                 xlab='',  sorting='none') +  dark_theme_gray() +
+        coord_flip(ylim = c(0, 4)) + 
+        scale_y_continuous(name ="",  labels=c("0"="No", "1"="Yes", "", "", ""))  +theme(text=element_text(size=20))
+    })
+    
+
     
 
     observeEvent(input$crimbutton, {
