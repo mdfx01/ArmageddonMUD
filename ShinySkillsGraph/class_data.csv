@@ -1,1516 +1,1516 @@
-"advantage","competency","class","skill_group","skill","skill_level","skill_number"
-"City","Heavy combat","Fighter","Barter","Haggle","",0
-"City","Heavy combat","Fighter","Barter","Value","",0
-"City","Heavy combat","Fighter","Combat","Archery","master",4
-"City","Heavy combat","Fighter","Combat","Backstab","",0
-"City","Heavy combat","Fighter","Combat","Bash","master",4
-"City","Heavy combat","Fighter","Combat","Blind Fighting","master",4
-"City","Heavy combat","Fighter","Combat","Blowgun Use","",0
-"City","Heavy combat","Fighter","Combat","Charge","",0
-"City","Heavy combat","Fighter","Combat","Crossbow Use","master",4
-"City","Heavy combat","Fighter","Combat","Disarm","master",4
-"City","Heavy combat","Fighter","Combat","Dual Wield","master",4
-"City","Heavy combat","Fighter","Combat","Flee","master",4
-"City","Heavy combat","Fighter","Combat","Guarding","master",4
-"City","Heavy combat","Fighter","Combat","Hack","master",4
-"City","Heavy combat","Fighter","Combat","Kick","master",4
-"City","Heavy combat","Fighter","Combat","Parry","master",4
-"City","Heavy combat","Fighter","Combat","Rescue","master",4
-"City","Heavy combat","Fighter","Combat","Riposte","master",4
-"City","Heavy combat","Fighter","Combat","Sap","",0
-"City","Heavy combat","Fighter","Combat","Shield Use","master",4
-"City","Heavy combat","Fighter","Combat","Sling Use","master",4
-"City","Heavy combat","Fighter","Combat","Subdue","advanced",3
-"City","Heavy combat","Fighter","Combat","Threaten","master",4
-"City","Heavy combat","Fighter","Combat","Throw","master",4
-"City","Heavy combat","Fighter","Combat","Two Handed","master",4
-"City","Heavy combat","Fighter","Craft","Armor Making","",0
-"City","Heavy combat","Fighter","Craft","Armor Repair","advanced",3
-"City","Heavy combat","Fighter","Craft","Axe Making","",0
-"City","Heavy combat","Fighter","Craft","Bandage Making","",0
-"City","Heavy combat","Fighter","Craft","Basketweaving","",0
-"City","Heavy combat","Fighter","Craft","Bow Making","",0
-"City","Heavy combat","Fighter","Craft","Brew","",0
-"City","Heavy combat","Fighter","Craft","Clayworking","",0
-"City","Heavy combat","Fighter","Craft","Clothworking","",0
-"City","Heavy combat","Fighter","Craft","Club Making","",0
-"City","Heavy combat","Fighter","Craft","Cooking","journeyman",2
-"City","Heavy combat","Fighter","Craft","Dyeing","",0
-"City","Heavy combat","Fighter","Craft","Feather Working","",0
-"City","Heavy combat","Fighter","Craft","Fletchery","",0
-"City","Heavy combat","Fighter","Craft","Floristry","",0
-"City","Heavy combat","Fighter","Craft","Instrument Making","",0
-"City","Heavy combat","Fighter","Craft","Jewelry Making","",0
-"City","Heavy combat","Fighter","Craft","Knife Making","",0
-"City","Heavy combat","Fighter","Craft","Leatherworking","",0
-"City","Heavy combat","Fighter","Craft","Lumberjacking","",0
-"City","Heavy combat","Fighter","Craft","Pick Making","",0
-"City","Heavy combat","Fighter","Craft","Spear Making","",0
-"City","Heavy combat","Fighter","Craft","Stonecrafting","",0
-"City","Heavy combat","Fighter","Craft","Sword Making","",0
-"City","Heavy combat","Fighter","Craft","Tanning","",0
-"City","Heavy combat","Fighter","Craft","Tent Making","",0
-"City","Heavy combat","Fighter","Craft","Tool Making","",0
-"City","Heavy combat","Fighter","Craft","Wagon Making","",0
-"City","Heavy combat","Fighter","Craft","Woodworking","",0
-"City","Heavy combat","Fighter","Language","Allundean","",0
-"City","Heavy combat","Fighter","Language","Bendune","",0
-"City","Heavy combat","Fighter","Language","Cavilish","",0
-"City","Heavy combat","Fighter","Language","Mirukkium","",0
-"City","Heavy combat","Fighter","Language","Tribal Accent","",0
-"City","Heavy combat","Fighter","Manipulation","Bandage","advanced",3
-"City","Heavy combat","Fighter","Manipulation","Pick","",0
-"City","Heavy combat","Fighter","Manipulation","Pilot","",0
-"City","Heavy combat","Fighter","Manipulation","Poisoning","",0
-"City","Heavy combat","Fighter","Manipulation","Ride","",0
-"City","Heavy combat","Fighter","Manipulation","Skinning","",0
-"City","Heavy combat","Fighter","Manipulation","Sleight of Hand","",0
-"City","Heavy combat","Fighter","Manipulation","Steal","",0
-"City","Heavy combat","Fighter","Perception","Direction Sense","",0
-"City","Heavy combat","Fighter","Perception","Forage","journeyman",2
-"City","Heavy combat","Fighter","Perception","Hunt (city)","",0
-"City","Heavy combat","Fighter","Perception","Hunt (wilderness)","",0
-"City","Heavy combat","Fighter","Perception","Listen (city)","advanced",3
-"City","Heavy combat","Fighter","Perception","Listen (wilderness)","",0
-"City","Heavy combat","Fighter","Perception","Peek","",0
-"City","Heavy combat","Fighter","Perception","Scan","",0
-"City","Heavy combat","Fighter","Perception","Search","",0
-"City","Heavy combat","Fighter","Perception","Watch","journeyman",2
-"City","Heavy combat","Fighter","Perk","Alcohol Tolerance Perk","",0
-"City","Heavy combat","Fighter","Perk","Better Movement Regeneration","",0
-"City","Heavy combat","Fighter","Perk","City Forage","",0
-"City","Heavy combat","Fighter","Perk","City Hunt","",0
-"City","Heavy combat","Fighter","Perk","City Stealth","",0
-"City","Heavy combat","Fighter","Perk","Customcraft","",0
-"City","Heavy combat","Fighter","Perk","Hitch 2 Mounts","",0
-"City","Heavy combat","Fighter","Perk","Learn Languages Perk","",0
-"City","Heavy combat","Fighter","Perk","Learn Ride Faster","",0
-"City","Heavy combat","Fighter","Perk","Pain Tolerance Perk","x",NA
-"City","Heavy combat","Fighter","Perk","Tame Mounts","",0
-"City","Heavy combat","Fighter","Perk","Wilderness Forage","",0
-"City","Heavy combat","Fighter","Perk","Wilderness Hunt","",0
-"City","Heavy combat","Fighter","Perk","Wilderness Quit","",0
-"City","Heavy combat","Fighter","Perk","Wilderness Stealth","",0
-"City","Heavy combat","Fighter","Stealth","Climb","",0
-"City","Heavy combat","Fighter","Stealth","Hide (city)","",0
-"City","Heavy combat","Fighter","Stealth","Hide (wilderness)","",0
-"City","Heavy combat","Fighter","Stealth","Sneak (city)","",0
-"City","Heavy combat","Fighter","Stealth","Sneak (wilderness)","",0
-"City","Heavy combat","Fighter","Weapon","Bludgeoning Weapons","master",4
-"City","Heavy combat","Fighter","Weapon","Chopping Weapons","master",4
-"City","Heavy combat","Fighter","Weapon","Piercing Weapons","master",4
-"City","Heavy combat","Fighter","Weapon","Slashing Weapons","master",4
-"City","Light combat","Soldier","Barter","Haggle","",0
-"City","Light combat","Soldier","Barter","Value","",0
-"City","Light combat","Soldier","Combat","Archery","master",4
-"City","Light combat","Soldier","Combat","Backstab","",0
-"City","Light combat","Soldier","Combat","Bash","advanced",3
-"City","Light combat","Soldier","Combat","Blind Fighting","",0
-"City","Light combat","Soldier","Combat","Blowgun Use","",0
-"City","Light combat","Soldier","Combat","Charge","",0
-"City","Light combat","Soldier","Combat","Crossbow Use","master",4
-"City","Light combat","Soldier","Combat","Disarm","advanced",3
-"City","Light combat","Soldier","Combat","Dual Wield","master",4
-"City","Light combat","Soldier","Combat","Flee","advanced",3
-"City","Light combat","Soldier","Combat","Guarding","master",4
-"City","Light combat","Soldier","Combat","Hack","master",4
-"City","Light combat","Soldier","Combat","Kick","advanced",3
-"City","Light combat","Soldier","Combat","Parry","advanced",3
-"City","Light combat","Soldier","Combat","Rescue","master",4
-"City","Light combat","Soldier","Combat","Riposte","master",4
-"City","Light combat","Soldier","Combat","Sap","",0
-"City","Light combat","Soldier","Combat","Shield Use","advanced",3
-"City","Light combat","Soldier","Combat","Sling Use","master",4
-"City","Light combat","Soldier","Combat","Subdue","master",4
-"City","Light combat","Soldier","Combat","Threaten","",0
-"City","Light combat","Soldier","Combat","Throw","",0
-"City","Light combat","Soldier","Combat","Two Handed","master",4
-"City","Light combat","Soldier","Craft","Armor Making","",0
-"City","Light combat","Soldier","Craft","Armor Repair","advanced",3
-"City","Light combat","Soldier","Craft","Axe Making","advanced",3
-"City","Light combat","Soldier","Craft","Bandage Making","advanced",3
-"City","Light combat","Soldier","Craft","Basketweaving","",0
-"City","Light combat","Soldier","Craft","Bow Making","",0
-"City","Light combat","Soldier","Craft","Brew","",0
-"City","Light combat","Soldier","Craft","Clayworking","",0
-"City","Light combat","Soldier","Craft","Clothworking","",0
-"City","Light combat","Soldier","Craft","Club Making","advanced",3
-"City","Light combat","Soldier","Craft","Cooking","advanced",3
-"City","Light combat","Soldier","Craft","Dyeing","",0
-"City","Light combat","Soldier","Craft","Feather Working","",0
-"City","Light combat","Soldier","Craft","Fletchery","advanced",3
-"City","Light combat","Soldier","Craft","Floristry","",0
-"City","Light combat","Soldier","Craft","Instrument Making","",0
-"City","Light combat","Soldier","Craft","Jewelry Making","",0
-"City","Light combat","Soldier","Craft","Knife Making","advanced",3
-"City","Light combat","Soldier","Craft","Leatherworking","",0
-"City","Light combat","Soldier","Craft","Lumberjacking","",0
-"City","Light combat","Soldier","Craft","Pick Making","",0
-"City","Light combat","Soldier","Craft","Spear Making","advanced",3
-"City","Light combat","Soldier","Craft","Stonecrafting","",0
-"City","Light combat","Soldier","Craft","Sword Making","advanced",3
-"City","Light combat","Soldier","Craft","Tanning","",0
-"City","Light combat","Soldier","Craft","Tent Making","",0
-"City","Light combat","Soldier","Craft","Tool Making","",0
-"City","Light combat","Soldier","Craft","Wagon Making","",0
-"City","Light combat","Soldier","Craft","Woodworking","",0
-"City","Light combat","Soldier","Language","Allundean","",0
-"City","Light combat","Soldier","Language","Bendune","",0
-"City","Light combat","Soldier","Language","Cavilish","",0
-"City","Light combat","Soldier","Language","Mirukkium","",0
-"City","Light combat","Soldier","Language","Tribal Accent","",0
-"City","Light combat","Soldier","Manipulation","Bandage","advanced",3
-"City","Light combat","Soldier","Manipulation","Pick","",0
-"City","Light combat","Soldier","Manipulation","Pilot","",0
-"City","Light combat","Soldier","Manipulation","Poisoning","",0
-"City","Light combat","Soldier","Manipulation","Ride","",0
-"City","Light combat","Soldier","Manipulation","Skinning","",0
-"City","Light combat","Soldier","Manipulation","Sleight of Hand","",0
-"City","Light combat","Soldier","Manipulation","Steal","",0
-"City","Light combat","Soldier","Perception","Direction Sense","",0
-"City","Light combat","Soldier","Perception","Forage","advanced",3
-"City","Light combat","Soldier","Perception","Hunt (city)","",0
-"City","Light combat","Soldier","Perception","Hunt (wilderness)","",0
-"City","Light combat","Soldier","Perception","Listen (city)","advanced",3
-"City","Light combat","Soldier","Perception","Listen (wilderness)","",0
-"City","Light combat","Soldier","Perception","Peek","",0
-"City","Light combat","Soldier","Perception","Scan","master",4
-"City","Light combat","Soldier","Perception","Search","",0
-"City","Light combat","Soldier","Perception","Watch","advanced",3
-"City","Light combat","Soldier","Perk","Alcohol Tolerance Perk","",0
-"City","Light combat","Soldier","Perk","Better Movement Regeneration","",0
-"City","Light combat","Soldier","Perk","City Forage","",0
-"City","Light combat","Soldier","Perk","City Hunt","",0
-"City","Light combat","Soldier","Perk","City Stealth","",0
-"City","Light combat","Soldier","Perk","Customcraft","",0
-"City","Light combat","Soldier","Perk","Hitch 2 Mounts","",0
-"City","Light combat","Soldier","Perk","Learn Languages Perk","",0
-"City","Light combat","Soldier","Perk","Learn Ride Faster","",0
-"City","Light combat","Soldier","Perk","Pain Tolerance Perk","x",NA
-"City","Light combat","Soldier","Perk","Tame Mounts","",0
-"City","Light combat","Soldier","Perk","Wilderness Forage","",0
-"City","Light combat","Soldier","Perk","Wilderness Hunt","",0
-"City","Light combat","Soldier","Perk","Wilderness Quit","",0
-"City","Light combat","Soldier","Perk","Wilderness Stealth","",0
-"City","Light combat","Soldier","Stealth","Climb","",0
-"City","Light combat","Soldier","Stealth","Hide (city)","",0
-"City","Light combat","Soldier","Stealth","Hide (wilderness)","",0
-"City","Light combat","Soldier","Stealth","Sneak (city)","",0
-"City","Light combat","Soldier","Stealth","Sneak (wilderness)","",0
-"City","Light combat","Soldier","Weapon","Bludgeoning Weapons","advanced",3
-"City","Light combat","Soldier","Weapon","Chopping Weapons","advanced",3
-"City","Light combat","Soldier","Weapon","Piercing Weapons","advanced",3
-"City","Light combat","Soldier","Weapon","Slashing Weapons","advanced",3
-"City","Mixed","Labourer","Barter","Haggle","",0
-"City","Mixed","Labourer","Barter","Value","",0
-"City","Mixed","Labourer","Combat","Archery","",0
-"City","Mixed","Labourer","Combat","Backstab","",0
-"City","Mixed","Labourer","Combat","Bash","advanced",3
-"City","Mixed","Labourer","Combat","Blind Fighting","",0
-"City","Mixed","Labourer","Combat","Blowgun Use","",0
-"City","Mixed","Labourer","Combat","Charge","",0
-"City","Mixed","Labourer","Combat","Crossbow Use","advanced",3
-"City","Mixed","Labourer","Combat","Disarm","advanced",3
-"City","Mixed","Labourer","Combat","Dual Wield","advanced",3
-"City","Mixed","Labourer","Combat","Flee","advanced",3
-"City","Mixed","Labourer","Combat","Guarding","advanced",3
-"City","Mixed","Labourer","Combat","Hack","advanced",3
-"City","Mixed","Labourer","Combat","Kick","advanced",3
-"City","Mixed","Labourer","Combat","Parry","advanced",3
-"City","Mixed","Labourer","Combat","Rescue","advanced",3
-"City","Mixed","Labourer","Combat","Riposte","",0
-"City","Mixed","Labourer","Combat","Sap","",0
-"City","Mixed","Labourer","Combat","Shield Use","advanced",3
-"City","Mixed","Labourer","Combat","Sling Use","advanced",3
-"City","Mixed","Labourer","Combat","Subdue","apprentice",1
-"City","Mixed","Labourer","Combat","Threaten","",0
-"City","Mixed","Labourer","Combat","Throw","",0
-"City","Mixed","Labourer","Combat","Two Handed","advanced",3
-"City","Mixed","Labourer","Craft","Armor Making","",0
-"City","Mixed","Labourer","Craft","Armor Repair","advanced",3
-"City","Mixed","Labourer","Craft","Axe Making","advanced",3
-"City","Mixed","Labourer","Craft","Bandage Making","advanced",3
-"City","Mixed","Labourer","Craft","Basketweaving","advanced",3
-"City","Mixed","Labourer","Craft","Bow Making","",0
-"City","Mixed","Labourer","Craft","Brew","",0
-"City","Mixed","Labourer","Craft","Clayworking","advanced",3
-"City","Mixed","Labourer","Craft","Clothworking","advanced",3
-"City","Mixed","Labourer","Craft","Club Making","",0
-"City","Mixed","Labourer","Craft","Cooking","advanced",3
-"City","Mixed","Labourer","Craft","Dyeing","",0
-"City","Mixed","Labourer","Craft","Feather Working","",0
-"City","Mixed","Labourer","Craft","Fletchery","advanced",3
-"City","Mixed","Labourer","Craft","Floristry","",0
-"City","Mixed","Labourer","Craft","Instrument Making","",0
-"City","Mixed","Labourer","Craft","Jewelry Making","",0
-"City","Mixed","Labourer","Craft","Knife Making","advanced",3
-"City","Mixed","Labourer","Craft","Leatherworking","",0
-"City","Mixed","Labourer","Craft","Lumberjacking","advanced",3
-"City","Mixed","Labourer","Craft","Pick Making","",0
-"City","Mixed","Labourer","Craft","Spear Making","",0
-"City","Mixed","Labourer","Craft","Stonecrafting","advanced",3
-"City","Mixed","Labourer","Craft","Sword Making","advanced",3
-"City","Mixed","Labourer","Craft","Tanning","advanced",3
-"City","Mixed","Labourer","Craft","Tent Making","",0
-"City","Mixed","Labourer","Craft","Tool Making","advanced",3
-"City","Mixed","Labourer","Craft","Wagon Making","",0
-"City","Mixed","Labourer","Craft","Woodworking","",0
-"City","Mixed","Labourer","Language","Allundean","",0
-"City","Mixed","Labourer","Language","Bendune","",0
-"City","Mixed","Labourer","Language","Cavilish","",0
-"City","Mixed","Labourer","Language","Mirukkium","",0
-"City","Mixed","Labourer","Language","Tribal Accent","",0
-"City","Mixed","Labourer","Manipulation","Bandage","",0
-"City","Mixed","Labourer","Manipulation","Pick","",0
-"City","Mixed","Labourer","Manipulation","Pilot","",0
-"City","Mixed","Labourer","Manipulation","Poisoning","",0
-"City","Mixed","Labourer","Manipulation","Ride","",0
-"City","Mixed","Labourer","Manipulation","Skinning","",0
-"City","Mixed","Labourer","Manipulation","Sleight of Hand","",0
-"City","Mixed","Labourer","Manipulation","Steal","",0
-"City","Mixed","Labourer","Perception","Direction Sense","",0
-"City","Mixed","Labourer","Perception","Forage","master",4
-"City","Mixed","Labourer","Perception","Hunt (city)","",0
-"City","Mixed","Labourer","Perception","Hunt (wilderness)","",0
-"City","Mixed","Labourer","Perception","Listen (city)","master",4
-"City","Mixed","Labourer","Perception","Listen (wilderness)","",0
-"City","Mixed","Labourer","Perception","Peek","",0
-"City","Mixed","Labourer","Perception","Scan","master",4
-"City","Mixed","Labourer","Perception","Search","",0
-"City","Mixed","Labourer","Perception","Watch","master",4
-"City","Mixed","Labourer","Perk","Alcohol Tolerance Perk","",0
-"City","Mixed","Labourer","Perk","Better Movement Regeneration","",0
-"City","Mixed","Labourer","Perk","City Forage","",0
-"City","Mixed","Labourer","Perk","City Hunt","",0
-"City","Mixed","Labourer","Perk","City Stealth","",0
-"City","Mixed","Labourer","Perk","Customcraft","",0
-"City","Mixed","Labourer","Perk","Hitch 2 Mounts","",0
-"City","Mixed","Labourer","Perk","Learn Languages Perk","",0
-"City","Mixed","Labourer","Perk","Learn Ride Faster","",0
-"City","Mixed","Labourer","Perk","Pain Tolerance Perk","x",NA
-"City","Mixed","Labourer","Perk","Tame Mounts","",0
-"City","Mixed","Labourer","Perk","Wilderness Forage","",0
-"City","Mixed","Labourer","Perk","Wilderness Hunt","",0
-"City","Mixed","Labourer","Perk","Wilderness Quit","",0
-"City","Mixed","Labourer","Perk","Wilderness Stealth","",0
-"City","Mixed","Labourer","Stealth","Climb","",0
-"City","Mixed","Labourer","Stealth","Hide (city)","",0
-"City","Mixed","Labourer","Stealth","Hide (wilderness)","",0
-"City","Mixed","Labourer","Stealth","Sneak (city)","",0
-"City","Mixed","Labourer","Stealth","Sneak (wilderness)","",0
-"City","Mixed","Labourer","Weapon","Bludgeoning Weapons","advanced",3
-"City","Mixed","Labourer","Weapon","Chopping Weapons","advanced",3
-"City","Mixed","Labourer","Weapon","Piercing Weapons","advanced",3
-"City","Mixed","Labourer","Weapon","Slashing Weapons","advanced",3
-"City","Light mercantile","Craftsperson","Barter","Haggle","master",4
-"City","Light mercantile","Craftsperson","Barter","Value","master",4
-"City","Light mercantile","Craftsperson","Combat","Archery","",0
-"City","Light mercantile","Craftsperson","Combat","Backstab","",0
-"City","Light mercantile","Craftsperson","Combat","Bash","",0
-"City","Light mercantile","Craftsperson","Combat","Blind Fighting","",0
-"City","Light mercantile","Craftsperson","Combat","Blowgun Use","",0
-"City","Light mercantile","Craftsperson","Combat","Charge","",0
-"City","Light mercantile","Craftsperson","Combat","Crossbow Use","advanced",3
-"City","Light mercantile","Craftsperson","Combat","Disarm","",0
-"City","Light mercantile","Craftsperson","Combat","Dual Wield","advanced",3
-"City","Light mercantile","Craftsperson","Combat","Flee","journeyman",2
-"City","Light mercantile","Craftsperson","Combat","Guarding","",0
-"City","Light mercantile","Craftsperson","Combat","Hack","",0
-"City","Light mercantile","Craftsperson","Combat","Kick","journeyman",2
-"City","Light mercantile","Craftsperson","Combat","Parry","",0
-"City","Light mercantile","Craftsperson","Combat","Rescue","",0
-"City","Light mercantile","Craftsperson","Combat","Riposte","",0
-"City","Light mercantile","Craftsperson","Combat","Sap","",0
-"City","Light mercantile","Craftsperson","Combat","Shield Use","journeyman",2
-"City","Light mercantile","Craftsperson","Combat","Sling Use","advanced",3
-"City","Light mercantile","Craftsperson","Combat","Subdue","",0
-"City","Light mercantile","Craftsperson","Combat","Threaten","",0
-"City","Light mercantile","Craftsperson","Combat","Throw","",0
-"City","Light mercantile","Craftsperson","Combat","Two Handed","advanced",3
-"City","Light mercantile","Craftsperson","Craft","Armor Making","master",4
-"City","Light mercantile","Craftsperson","Craft","Armor Repair","master",4
-"City","Light mercantile","Craftsperson","Craft","Axe Making","master",4
-"City","Light mercantile","Craftsperson","Craft","Bandage Making","master",4
-"City","Light mercantile","Craftsperson","Craft","Basketweaving","master",4
-"City","Light mercantile","Craftsperson","Craft","Bow Making","",0
-"City","Light mercantile","Craftsperson","Craft","Brew","",0
-"City","Light mercantile","Craftsperson","Craft","Clayworking","master",4
-"City","Light mercantile","Craftsperson","Craft","Clothworking","master",4
-"City","Light mercantile","Craftsperson","Craft","Club Making","master",4
-"City","Light mercantile","Craftsperson","Craft","Cooking","master",4
-"City","Light mercantile","Craftsperson","Craft","Dyeing","master",4
-"City","Light mercantile","Craftsperson","Craft","Feather Working","",0
-"City","Light mercantile","Craftsperson","Craft","Fletchery","master",4
-"City","Light mercantile","Craftsperson","Craft","Floristry","",0
-"City","Light mercantile","Craftsperson","Craft","Instrument Making","",0
-"City","Light mercantile","Craftsperson","Craft","Jewelry Making","master",4
-"City","Light mercantile","Craftsperson","Craft","Knife Making","master",4
-"City","Light mercantile","Craftsperson","Craft","Leatherworking","master",4
-"City","Light mercantile","Craftsperson","Craft","Lumberjacking","master",4
-"City","Light mercantile","Craftsperson","Craft","Pick Making","",0
-"City","Light mercantile","Craftsperson","Craft","Spear Making","master",4
-"City","Light mercantile","Craftsperson","Craft","Stonecrafting","master",4
-"City","Light mercantile","Craftsperson","Craft","Sword Making","master",4
-"City","Light mercantile","Craftsperson","Craft","Tanning","master",4
-"City","Light mercantile","Craftsperson","Craft","Tent Making","master",4
-"City","Light mercantile","Craftsperson","Craft","Tool Making","master",4
-"City","Light mercantile","Craftsperson","Craft","Wagon Making","",0
-"City","Light mercantile","Craftsperson","Craft","Woodworking","master",4
-"City","Light mercantile","Craftsperson","Language","Allundean","",0
-"City","Light mercantile","Craftsperson","Language","Bendune","",0
-"City","Light mercantile","Craftsperson","Language","Cavilish","",0
-"City","Light mercantile","Craftsperson","Language","Mirukkium","",0
-"City","Light mercantile","Craftsperson","Language","Tribal Accent","",0
-"City","Light mercantile","Craftsperson","Manipulation","Bandage","advanced",3
-"City","Light mercantile","Craftsperson","Manipulation","Pick","",0
-"City","Light mercantile","Craftsperson","Manipulation","Pilot","master",4
-"City","Light mercantile","Craftsperson","Manipulation","Poisoning","",0
-"City","Light mercantile","Craftsperson","Manipulation","Ride","",0
-"City","Light mercantile","Craftsperson","Manipulation","Skinning","",0
-"City","Light mercantile","Craftsperson","Manipulation","Sleight of Hand","",0
-"City","Light mercantile","Craftsperson","Manipulation","Steal","",0
-"City","Light mercantile","Craftsperson","Perception","Direction Sense","",0
-"City","Light mercantile","Craftsperson","Perception","Forage","",0
-"City","Light mercantile","Craftsperson","Perception","Hunt (city)","",0
-"City","Light mercantile","Craftsperson","Perception","Hunt (wilderness)","",0
-"City","Light mercantile","Craftsperson","Perception","Listen (city)","advanced",3
-"City","Light mercantile","Craftsperson","Perception","Listen (wilderness)","",0
-"City","Light mercantile","Craftsperson","Perception","Peek","",0
-"City","Light mercantile","Craftsperson","Perception","Scan","",0
-"City","Light mercantile","Craftsperson","Perception","Search","",0
-"City","Light mercantile","Craftsperson","Perception","Watch","advanced",3
-"City","Light mercantile","Craftsperson","Perk","Alcohol Tolerance Perk","",0
-"City","Light mercantile","Craftsperson","Perk","Better Movement Regeneration","",0
-"City","Light mercantile","Craftsperson","Perk","City Forage","",0
-"City","Light mercantile","Craftsperson","Perk","City Hunt","",0
-"City","Light mercantile","Craftsperson","Perk","City Stealth","",0
-"City","Light mercantile","Craftsperson","Perk","Customcraft","",0
-"City","Light mercantile","Craftsperson","Perk","Hitch 2 Mounts","",0
-"City","Light mercantile","Craftsperson","Perk","Learn Languages Perk","",0
-"City","Light mercantile","Craftsperson","Perk","Learn Ride Faster","",0
-"City","Light mercantile","Craftsperson","Perk","Pain Tolerance Perk","",0
-"City","Light mercantile","Craftsperson","Perk","Tame Mounts","",0
-"City","Light mercantile","Craftsperson","Perk","Wilderness Forage","",0
-"City","Light mercantile","Craftsperson","Perk","Wilderness Hunt","",0
-"City","Light mercantile","Craftsperson","Perk","Wilderness Quit","",0
-"City","Light mercantile","Craftsperson","Perk","Wilderness Stealth","",0
-"City","Light mercantile","Craftsperson","Stealth","Climb","",0
-"City","Light mercantile","Craftsperson","Stealth","Hide (city)","",0
-"City","Light mercantile","Craftsperson","Stealth","Hide (wilderness)","",0
-"City","Light mercantile","Craftsperson","Stealth","Sneak (city)","",0
-"City","Light mercantile","Craftsperson","Stealth","Sneak (wilderness)","",0
-"City","Light mercantile","Craftsperson","Weapon","Bludgeoning Weapons","journeyman",2
-"City","Light mercantile","Craftsperson","Weapon","Chopping Weapons","journeyman",2
-"City","Light mercantile","Craftsperson","Weapon","Piercing Weapons","journeyman",2
-"City","Light mercantile","Craftsperson","Weapon","Slashing Weapons","journeyman",2
-"City","Heavy mercantile","Artisan","Barter","Haggle","master",4
-"City","Heavy mercantile","Artisan","Barter","Value","master",4
-"City","Heavy mercantile","Artisan","Combat","Archery","",0
-"City","Heavy mercantile","Artisan","Combat","Backstab","",0
-"City","Heavy mercantile","Artisan","Combat","Bash","",0
-"City","Heavy mercantile","Artisan","Combat","Blind Fighting","",0
-"City","Heavy mercantile","Artisan","Combat","Blowgun Use","",0
-"City","Heavy mercantile","Artisan","Combat","Charge","",0
-"City","Heavy mercantile","Artisan","Combat","Crossbow Use","journeyman",2
-"City","Heavy mercantile","Artisan","Combat","Disarm","",0
-"City","Heavy mercantile","Artisan","Combat","Dual Wield","journeyman",2
-"City","Heavy mercantile","Artisan","Combat","Flee","",0
-"City","Heavy mercantile","Artisan","Combat","Guarding","",0
-"City","Heavy mercantile","Artisan","Combat","Hack","",0
-"City","Heavy mercantile","Artisan","Combat","Kick","",0
-"City","Heavy mercantile","Artisan","Combat","Parry","",0
-"City","Heavy mercantile","Artisan","Combat","Rescue","",0
-"City","Heavy mercantile","Artisan","Combat","Riposte","",0
-"City","Heavy mercantile","Artisan","Combat","Sap","",0
-"City","Heavy mercantile","Artisan","Combat","Shield Use","journeyman",2
-"City","Heavy mercantile","Artisan","Combat","Sling Use","",0
-"City","Heavy mercantile","Artisan","Combat","Subdue","",0
-"City","Heavy mercantile","Artisan","Combat","Threaten","",0
-"City","Heavy mercantile","Artisan","Combat","Throw","",0
-"City","Heavy mercantile","Artisan","Combat","Two Handed","journeyman",2
-"City","Heavy mercantile","Artisan","Craft","Armor Making","master",4
-"City","Heavy mercantile","Artisan","Craft","Armor Repair","master",4
-"City","Heavy mercantile","Artisan","Craft","Axe Making","master",4
-"City","Heavy mercantile","Artisan","Craft","Bandage Making","master",4
-"City","Heavy mercantile","Artisan","Craft","Basketweaving","master",4
-"City","Heavy mercantile","Artisan","Craft","Bow Making","master",4
-"City","Heavy mercantile","Artisan","Craft","Brew","",0
-"City","Heavy mercantile","Artisan","Craft","Clayworking","master",4
-"City","Heavy mercantile","Artisan","Craft","Clothworking","master",4
-"City","Heavy mercantile","Artisan","Craft","Club Making","master",4
-"City","Heavy mercantile","Artisan","Craft","Cooking","master",4
-"City","Heavy mercantile","Artisan","Craft","Dyeing","master",4
-"City","Heavy mercantile","Artisan","Craft","Feather Working","master",4
-"City","Heavy mercantile","Artisan","Craft","Fletchery","master",4
-"City","Heavy mercantile","Artisan","Craft","Floristry","master",4
-"City","Heavy mercantile","Artisan","Craft","Instrument Making","master",4
-"City","Heavy mercantile","Artisan","Craft","Jewelry Making","master",4
-"City","Heavy mercantile","Artisan","Craft","Knife Making","master",4
-"City","Heavy mercantile","Artisan","Craft","Leatherworking","master",4
-"City","Heavy mercantile","Artisan","Craft","Lumberjacking","master",4
-"City","Heavy mercantile","Artisan","Craft","Pick Making","",0
-"City","Heavy mercantile","Artisan","Craft","Spear Making","master",4
-"City","Heavy mercantile","Artisan","Craft","Stonecrafting","master",4
-"City","Heavy mercantile","Artisan","Craft","Sword Making","master",4
-"City","Heavy mercantile","Artisan","Craft","Tanning","master",4
-"City","Heavy mercantile","Artisan","Craft","Tent Making","master",4
-"City","Heavy mercantile","Artisan","Craft","Tool Making","master",4
-"City","Heavy mercantile","Artisan","Craft","Wagon Making","master",4
-"City","Heavy mercantile","Artisan","Craft","Woodworking","master",4
-"City","Heavy mercantile","Artisan","Language","Allundean","",0
-"City","Heavy mercantile","Artisan","Language","Bendune","",0
-"City","Heavy mercantile","Artisan","Language","Cavilish","master",4
-"City","Heavy mercantile","Artisan","Language","Mirukkium","",0
-"City","Heavy mercantile","Artisan","Language","Tribal Accent","",0
-"City","Heavy mercantile","Artisan","Manipulation","Bandage","advanced",3
-"City","Heavy mercantile","Artisan","Manipulation","Pick","",0
-"City","Heavy mercantile","Artisan","Manipulation","Pilot","master",4
-"City","Heavy mercantile","Artisan","Manipulation","Poisoning","",0
-"City","Heavy mercantile","Artisan","Manipulation","Ride","",0
-"City","Heavy mercantile","Artisan","Manipulation","Skinning","",0
-"City","Heavy mercantile","Artisan","Manipulation","Sleight of Hand","",0
-"City","Heavy mercantile","Artisan","Manipulation","Steal","",0
-"City","Heavy mercantile","Artisan","Perception","Direction Sense","",0
-"City","Heavy mercantile","Artisan","Perception","Forage","journeyman",2
-"City","Heavy mercantile","Artisan","Perception","Hunt (city)","",0
-"City","Heavy mercantile","Artisan","Perception","Hunt (wilderness)","",0
-"City","Heavy mercantile","Artisan","Perception","Listen (city)","",0
-"City","Heavy mercantile","Artisan","Perception","Listen (wilderness)","",0
-"City","Heavy mercantile","Artisan","Perception","Peek","",0
-"City","Heavy mercantile","Artisan","Perception","Scan","",0
-"City","Heavy mercantile","Artisan","Perception","Search","",0
-"City","Heavy mercantile","Artisan","Perception","Watch","",0
-"City","Heavy mercantile","Artisan","Perk","Alcohol Tolerance Perk","",0
-"City","Heavy mercantile","Artisan","Perk","Better Movement Regeneration","",0
-"City","Heavy mercantile","Artisan","Perk","City Forage","",0
-"City","Heavy mercantile","Artisan","Perk","City Hunt","",0
-"City","Heavy mercantile","Artisan","Perk","City Stealth","",0
-"City","Heavy mercantile","Artisan","Perk","Customcraft","x",NA
-"City","Heavy mercantile","Artisan","Perk","Hitch 2 Mounts","",0
-"City","Heavy mercantile","Artisan","Perk","Learn Languages Perk","",0
-"City","Heavy mercantile","Artisan","Perk","Learn Ride Faster","",0
-"City","Heavy mercantile","Artisan","Perk","Pain Tolerance Perk","",0
-"City","Heavy mercantile","Artisan","Perk","Tame Mounts","",0
-"City","Heavy mercantile","Artisan","Perk","Wilderness Forage","",0
-"City","Heavy mercantile","Artisan","Perk","Wilderness Hunt","",0
-"City","Heavy mercantile","Artisan","Perk","Wilderness Quit","",0
-"City","Heavy mercantile","Artisan","Perk","Wilderness Stealth","",0
-"City","Heavy mercantile","Artisan","Stealth","Climb","",0
-"City","Heavy mercantile","Artisan","Stealth","Hide (city)","",0
-"City","Heavy mercantile","Artisan","Stealth","Hide (wilderness)","",0
-"City","Heavy mercantile","Artisan","Stealth","Sneak (city)","",0
-"City","Heavy mercantile","Artisan","Stealth","Sneak (wilderness)","",0
-"City","Heavy mercantile","Artisan","Weapon","Bludgeoning Weapons","journeyman",2
-"City","Heavy mercantile","Artisan","Weapon","Chopping Weapons","",0
-"City","Heavy mercantile","Artisan","Weapon","Piercing Weapons","journeyman",2
-"City","Heavy mercantile","Artisan","Weapon","Slashing Weapons","",0
-"Criminal","Heavy combat","Enforcer","Barter","Haggle","",0
-"Criminal","Heavy combat","Enforcer","Barter","Value","",0
-"Criminal","Heavy combat","Enforcer","Combat","Archery","",0
-"Criminal","Heavy combat","Enforcer","Combat","Backstab","master",4
-"Criminal","Heavy combat","Enforcer","Combat","Bash","master",4
-"Criminal","Heavy combat","Enforcer","Combat","Blind Fighting","master",4
-"Criminal","Heavy combat","Enforcer","Combat","Blowgun Use","master",4
-"Criminal","Heavy combat","Enforcer","Combat","Charge","",0
-"Criminal","Heavy combat","Enforcer","Combat","Crossbow Use","master",4
-"Criminal","Heavy combat","Enforcer","Combat","Disarm","master",4
-"Criminal","Heavy combat","Enforcer","Combat","Dual Wield","master",4
-"Criminal","Heavy combat","Enforcer","Combat","Flee","master",4
-"Criminal","Heavy combat","Enforcer","Combat","Guarding","master",4
-"Criminal","Heavy combat","Enforcer","Combat","Hack","",0
-"Criminal","Heavy combat","Enforcer","Combat","Kick","master",4
-"Criminal","Heavy combat","Enforcer","Combat","Parry","master",4
-"Criminal","Heavy combat","Enforcer","Combat","Rescue","master",4
-"Criminal","Heavy combat","Enforcer","Combat","Riposte","",0
-"Criminal","Heavy combat","Enforcer","Combat","Sap","master",4
-"Criminal","Heavy combat","Enforcer","Combat","Shield Use","master",4
-"Criminal","Heavy combat","Enforcer","Combat","Sling Use","",0
-"Criminal","Heavy combat","Enforcer","Combat","Subdue","advanced",3
-"Criminal","Heavy combat","Enforcer","Combat","Threaten","master",4
-"Criminal","Heavy combat","Enforcer","Combat","Throw","master",4
-"Criminal","Heavy combat","Enforcer","Combat","Two Handed","master",4
-"Criminal","Heavy combat","Enforcer","Craft","Armor Making","",0
-"Criminal","Heavy combat","Enforcer","Craft","Armor Repair","",0
-"Criminal","Heavy combat","Enforcer","Craft","Axe Making","",0
-"Criminal","Heavy combat","Enforcer","Craft","Bandage Making","",0
-"Criminal","Heavy combat","Enforcer","Craft","Basketweaving","",0
-"Criminal","Heavy combat","Enforcer","Craft","Bow Making","",0
-"Criminal","Heavy combat","Enforcer","Craft","Brew","",0
-"Criminal","Heavy combat","Enforcer","Craft","Clayworking","",0
-"Criminal","Heavy combat","Enforcer","Craft","Clothworking","",0
-"Criminal","Heavy combat","Enforcer","Craft","Club Making","",0
-"Criminal","Heavy combat","Enforcer","Craft","Cooking","journeyman",2
-"Criminal","Heavy combat","Enforcer","Craft","Dyeing","",0
-"Criminal","Heavy combat","Enforcer","Craft","Feather Working","",0
-"Criminal","Heavy combat","Enforcer","Craft","Fletchery","",0
-"Criminal","Heavy combat","Enforcer","Craft","Floristry","",0
-"Criminal","Heavy combat","Enforcer","Craft","Instrument Making","",0
-"Criminal","Heavy combat","Enforcer","Craft","Jewelry Making","",0
-"Criminal","Heavy combat","Enforcer","Craft","Knife Making","",0
-"Criminal","Heavy combat","Enforcer","Craft","Leatherworking","",0
-"Criminal","Heavy combat","Enforcer","Craft","Lumberjacking","",0
-"Criminal","Heavy combat","Enforcer","Craft","Pick Making","",0
-"Criminal","Heavy combat","Enforcer","Craft","Spear Making","",0
-"Criminal","Heavy combat","Enforcer","Craft","Stonecrafting","",0
-"Criminal","Heavy combat","Enforcer","Craft","Sword Making","",0
-"Criminal","Heavy combat","Enforcer","Craft","Tanning","",0
-"Criminal","Heavy combat","Enforcer","Craft","Tent Making","",0
-"Criminal","Heavy combat","Enforcer","Craft","Tool Making","",0
-"Criminal","Heavy combat","Enforcer","Craft","Wagon Making","",0
-"Criminal","Heavy combat","Enforcer","Craft","Woodworking","",0
-"Criminal","Heavy combat","Enforcer","Language","Allundean","",0
-"Criminal","Heavy combat","Enforcer","Language","Bendune","",0
-"Criminal","Heavy combat","Enforcer","Language","Cavilish","",0
-"Criminal","Heavy combat","Enforcer","Language","Mirukkium","",0
-"Criminal","Heavy combat","Enforcer","Language","Tribal Accent","",0
-"Criminal","Heavy combat","Enforcer","Manipulation","Bandage","",0
-"Criminal","Heavy combat","Enforcer","Manipulation","Pick","",0
-"Criminal","Heavy combat","Enforcer","Manipulation","Pilot","",0
-"Criminal","Heavy combat","Enforcer","Manipulation","Poisoning","",0
-"Criminal","Heavy combat","Enforcer","Manipulation","Ride","",0
-"Criminal","Heavy combat","Enforcer","Manipulation","Skinning","",0
-"Criminal","Heavy combat","Enforcer","Manipulation","Sleight of Hand","advanced",3
-"Criminal","Heavy combat","Enforcer","Manipulation","Steal","",0
-"Criminal","Heavy combat","Enforcer","Perception","Direction Sense","",0
-"Criminal","Heavy combat","Enforcer","Perception","Forage","journeyman",2
-"Criminal","Heavy combat","Enforcer","Perception","Hunt (city)","",0
-"Criminal","Heavy combat","Enforcer","Perception","Hunt (wilderness)","",0
-"Criminal","Heavy combat","Enforcer","Perception","Listen (city)","",0
-"Criminal","Heavy combat","Enforcer","Perception","Listen (wilderness)","",0
-"Criminal","Heavy combat","Enforcer","Perception","Peek","",0
-"Criminal","Heavy combat","Enforcer","Perception","Scan","",0
-"Criminal","Heavy combat","Enforcer","Perception","Search","",0
-"Criminal","Heavy combat","Enforcer","Perception","Watch","",0
-"Criminal","Heavy combat","Enforcer","Perk","Alcohol Tolerance Perk","",0
-"Criminal","Heavy combat","Enforcer","Perk","Better Movement Regeneration","",0
-"Criminal","Heavy combat","Enforcer","Perk","City Forage","x",NA
-"Criminal","Heavy combat","Enforcer","Perk","City Hunt","x",NA
-"Criminal","Heavy combat","Enforcer","Perk","City Stealth","x",NA
-"Criminal","Heavy combat","Enforcer","Perk","Customcraft","",0
-"Criminal","Heavy combat","Enforcer","Perk","Hitch 2 Mounts","",0
-"Criminal","Heavy combat","Enforcer","Perk","Learn Languages Perk","",0
-"Criminal","Heavy combat","Enforcer","Perk","Learn Ride Faster","",0
-"Criminal","Heavy combat","Enforcer","Perk","Pain Tolerance Perk","",0
-"Criminal","Heavy combat","Enforcer","Perk","Tame Mounts","",0
-"Criminal","Heavy combat","Enforcer","Perk","Wilderness Forage","",0
-"Criminal","Heavy combat","Enforcer","Perk","Wilderness Hunt","",0
-"Criminal","Heavy combat","Enforcer","Perk","Wilderness Quit","",0
-"Criminal","Heavy combat","Enforcer","Perk","Wilderness Stealth","",0
-"Criminal","Heavy combat","Enforcer","Stealth","Climb","advanced",3
-"Criminal","Heavy combat","Enforcer","Stealth","Hide (city)","advanced",3
-"Criminal","Heavy combat","Enforcer","Stealth","Hide (wilderness)","",0
-"Criminal","Heavy combat","Enforcer","Stealth","Sneak (city)","advanced",3
-"Criminal","Heavy combat","Enforcer","Stealth","Sneak (wilderness)","",0
-"Criminal","Heavy combat","Enforcer","Weapon","Bludgeoning Weapons","master",4
-"Criminal","Heavy combat","Enforcer","Weapon","Chopping Weapons","master",4
-"Criminal","Heavy combat","Enforcer","Weapon","Piercing Weapons","master",4
-"Criminal","Heavy combat","Enforcer","Weapon","Slashing Weapons","master",4
-"Criminal","Light combat","Infiltrator","Barter","Haggle","",0
-"Criminal","Light combat","Infiltrator","Barter","Value","advanced",3
-"Criminal","Light combat","Infiltrator","Combat","Archery","",0
-"Criminal","Light combat","Infiltrator","Combat","Backstab","master",4
-"Criminal","Light combat","Infiltrator","Combat","Bash","advanced",3
-"Criminal","Light combat","Infiltrator","Combat","Blind Fighting","advanced",3
-"Criminal","Light combat","Infiltrator","Combat","Blowgun Use","master",4
-"Criminal","Light combat","Infiltrator","Combat","Charge","",0
-"Criminal","Light combat","Infiltrator","Combat","Crossbow Use","master",4
-"Criminal","Light combat","Infiltrator","Combat","Disarm","",0
-"Criminal","Light combat","Infiltrator","Combat","Dual Wield","master",4
-"Criminal","Light combat","Infiltrator","Combat","Flee","advanced",3
-"Criminal","Light combat","Infiltrator","Combat","Guarding","",0
-"Criminal","Light combat","Infiltrator","Combat","Hack","",0
-"Criminal","Light combat","Infiltrator","Combat","Kick","",0
-"Criminal","Light combat","Infiltrator","Combat","Parry","advanced",3
-"Criminal","Light combat","Infiltrator","Combat","Rescue","",0
-"Criminal","Light combat","Infiltrator","Combat","Riposte","",0
-"Criminal","Light combat","Infiltrator","Combat","Sap","advanced",3
-"Criminal","Light combat","Infiltrator","Combat","Shield Use","advanced",3
-"Criminal","Light combat","Infiltrator","Combat","Sling Use","",0
-"Criminal","Light combat","Infiltrator","Combat","Subdue","journeyman",2
-"Criminal","Light combat","Infiltrator","Combat","Threaten","",0
-"Criminal","Light combat","Infiltrator","Combat","Throw","master",4
-"Criminal","Light combat","Infiltrator","Combat","Two Handed","master",4
-"Criminal","Light combat","Infiltrator","Craft","Armor Making","",0
-"Criminal","Light combat","Infiltrator","Craft","Armor Repair","",0
-"Criminal","Light combat","Infiltrator","Craft","Axe Making","",0
-"Criminal","Light combat","Infiltrator","Craft","Bandage Making","",0
-"Criminal","Light combat","Infiltrator","Craft","Basketweaving","",0
-"Criminal","Light combat","Infiltrator","Craft","Bow Making","",0
-"Criminal","Light combat","Infiltrator","Craft","Brew","",0
-"Criminal","Light combat","Infiltrator","Craft","Clayworking","",0
-"Criminal","Light combat","Infiltrator","Craft","Clothworking","",0
-"Criminal","Light combat","Infiltrator","Craft","Club Making","",0
-"Criminal","Light combat","Infiltrator","Craft","Cooking","advanced",3
-"Criminal","Light combat","Infiltrator","Craft","Dyeing","",0
-"Criminal","Light combat","Infiltrator","Craft","Feather Working","",0
-"Criminal","Light combat","Infiltrator","Craft","Fletchery","",0
-"Criminal","Light combat","Infiltrator","Craft","Floristry","",0
-"Criminal","Light combat","Infiltrator","Craft","Instrument Making","",0
-"Criminal","Light combat","Infiltrator","Craft","Jewelry Making","",0
-"Criminal","Light combat","Infiltrator","Craft","Knife Making","",0
-"Criminal","Light combat","Infiltrator","Craft","Leatherworking","",0
-"Criminal","Light combat","Infiltrator","Craft","Lumberjacking","",0
-"Criminal","Light combat","Infiltrator","Craft","Pick Making","journeyman",2
-"Criminal","Light combat","Infiltrator","Craft","Spear Making","",0
-"Criminal","Light combat","Infiltrator","Craft","Stonecrafting","",0
-"Criminal","Light combat","Infiltrator","Craft","Sword Making","",0
-"Criminal","Light combat","Infiltrator","Craft","Tanning","",0
-"Criminal","Light combat","Infiltrator","Craft","Tent Making","",0
-"Criminal","Light combat","Infiltrator","Craft","Tool Making","",0
-"Criminal","Light combat","Infiltrator","Craft","Wagon Making","",0
-"Criminal","Light combat","Infiltrator","Craft","Woodworking","",0
-"Criminal","Light combat","Infiltrator","Language","Allundean","",0
-"Criminal","Light combat","Infiltrator","Language","Bendune","",0
-"Criminal","Light combat","Infiltrator","Language","Cavilish","",0
-"Criminal","Light combat","Infiltrator","Language","Mirukkium","",0
-"Criminal","Light combat","Infiltrator","Language","Tribal Accent","",0
-"Criminal","Light combat","Infiltrator","Manipulation","Bandage","",0
-"Criminal","Light combat","Infiltrator","Manipulation","Pick","advanced",3
-"Criminal","Light combat","Infiltrator","Manipulation","Pilot","",0
-"Criminal","Light combat","Infiltrator","Manipulation","Poisoning","advanced",3
-"Criminal","Light combat","Infiltrator","Manipulation","Ride","",0
-"Criminal","Light combat","Infiltrator","Manipulation","Skinning","",0
-"Criminal","Light combat","Infiltrator","Manipulation","Sleight of Hand","advanced",3
-"Criminal","Light combat","Infiltrator","Manipulation","Steal","",0
-"Criminal","Light combat","Infiltrator","Perception","Direction Sense","",0
-"Criminal","Light combat","Infiltrator","Perception","Forage","advanced",3
-"Criminal","Light combat","Infiltrator","Perception","Hunt (city)","advanced",3
-"Criminal","Light combat","Infiltrator","Perception","Hunt (wilderness)","",0
-"Criminal","Light combat","Infiltrator","Perception","Listen (city)","advanced",3
-"Criminal","Light combat","Infiltrator","Perception","Listen (wilderness)","",0
-"Criminal","Light combat","Infiltrator","Perception","Peek","advanced",3
-"Criminal","Light combat","Infiltrator","Perception","Scan","advanced",3
-"Criminal","Light combat","Infiltrator","Perception","Search","advanced",3
-"Criminal","Light combat","Infiltrator","Perception","Watch","",0
-"Criminal","Light combat","Infiltrator","Perk","Alcohol Tolerance Perk","",0
-"Criminal","Light combat","Infiltrator","Perk","Better Movement Regeneration","",0
-"Criminal","Light combat","Infiltrator","Perk","City Forage","x",NA
-"Criminal","Light combat","Infiltrator","Perk","City Hunt","x",NA
-"Criminal","Light combat","Infiltrator","Perk","City Stealth","x",NA
-"Criminal","Light combat","Infiltrator","Perk","Customcraft","",0
-"Criminal","Light combat","Infiltrator","Perk","Hitch 2 Mounts","",0
-"Criminal","Light combat","Infiltrator","Perk","Learn Languages Perk","",0
-"Criminal","Light combat","Infiltrator","Perk","Learn Ride Faster","",0
-"Criminal","Light combat","Infiltrator","Perk","Pain Tolerance Perk","",0
-"Criminal","Light combat","Infiltrator","Perk","Tame Mounts","",0
-"Criminal","Light combat","Infiltrator","Perk","Wilderness Forage","",0
-"Criminal","Light combat","Infiltrator","Perk","Wilderness Hunt","",0
-"Criminal","Light combat","Infiltrator","Perk","Wilderness Quit","",0
-"Criminal","Light combat","Infiltrator","Perk","Wilderness Stealth","",0
-"Criminal","Light combat","Infiltrator","Stealth","Climb","advanced",3
-"Criminal","Light combat","Infiltrator","Stealth","Hide (city)","master",4
-"Criminal","Light combat","Infiltrator","Stealth","Hide (wilderness)","",0
-"Criminal","Light combat","Infiltrator","Stealth","Sneak (city)","master",4
-"Criminal","Light combat","Infiltrator","Stealth","Sneak (wilderness)","",0
-"Criminal","Light combat","Infiltrator","Weapon","Bludgeoning Weapons","advanced",3
-"Criminal","Light combat","Infiltrator","Weapon","Chopping Weapons","advanced",3
-"Criminal","Light combat","Infiltrator","Weapon","Piercing Weapons","advanced",3
-"Criminal","Light combat","Infiltrator","Weapon","Slashing Weapons","advanced",3
-"Criminal","Mixed","Miscreant","Barter","Haggle","advanced",3
-"Criminal","Mixed","Miscreant","Barter","Value","advanced",3
-"Criminal","Mixed","Miscreant","Combat","Archery","",0
-"Criminal","Mixed","Miscreant","Combat","Backstab","advanced",3
-"Criminal","Mixed","Miscreant","Combat","Bash","",0
-"Criminal","Mixed","Miscreant","Combat","Blind Fighting","advanced",3
-"Criminal","Mixed","Miscreant","Combat","Blowgun Use","advanced",3
-"Criminal","Mixed","Miscreant","Combat","Charge","",0
-"Criminal","Mixed","Miscreant","Combat","Crossbow Use","advanced",3
-"Criminal","Mixed","Miscreant","Combat","Disarm","",0
-"Criminal","Mixed","Miscreant","Combat","Dual Wield","advanced",3
-"Criminal","Mixed","Miscreant","Combat","Flee","advanced",3
-"Criminal","Mixed","Miscreant","Combat","Guarding","",0
-"Criminal","Mixed","Miscreant","Combat","Hack","",0
-"Criminal","Mixed","Miscreant","Combat","Kick","",0
-"Criminal","Mixed","Miscreant","Combat","Parry","advanced",3
-"Criminal","Mixed","Miscreant","Combat","Rescue","",0
-"Criminal","Mixed","Miscreant","Combat","Riposte","",0
-"Criminal","Mixed","Miscreant","Combat","Sap","advanced",3
-"Criminal","Mixed","Miscreant","Combat","Shield Use","advanced",3
-"Criminal","Mixed","Miscreant","Combat","Sling Use","",0
-"Criminal","Mixed","Miscreant","Combat","Subdue","",0
-"Criminal","Mixed","Miscreant","Combat","Threaten","",0
-"Criminal","Mixed","Miscreant","Combat","Throw","advanced",3
-"Criminal","Mixed","Miscreant","Combat","Two Handed","advanced",3
-"Criminal","Mixed","Miscreant","Craft","Armor Making","",0
-"Criminal","Mixed","Miscreant","Craft","Armor Repair","",0
-"Criminal","Mixed","Miscreant","Craft","Axe Making","",0
-"Criminal","Mixed","Miscreant","Craft","Bandage Making","",0
-"Criminal","Mixed","Miscreant","Craft","Basketweaving","",0
-"Criminal","Mixed","Miscreant","Craft","Bow Making","",0
-"Criminal","Mixed","Miscreant","Craft","Brew","advanced",3
-"Criminal","Mixed","Miscreant","Craft","Clayworking","",0
-"Criminal","Mixed","Miscreant","Craft","Clothworking","",0
-"Criminal","Mixed","Miscreant","Craft","Club Making","",0
-"Criminal","Mixed","Miscreant","Craft","Cooking","advanced",3
-"Criminal","Mixed","Miscreant","Craft","Dyeing","",0
-"Criminal","Mixed","Miscreant","Craft","Feather Working","",0
-"Criminal","Mixed","Miscreant","Craft","Fletchery","",0
-"Criminal","Mixed","Miscreant","Craft","Floristry","",0
-"Criminal","Mixed","Miscreant","Craft","Instrument Making","",0
-"Criminal","Mixed","Miscreant","Craft","Jewelry Making","",0
-"Criminal","Mixed","Miscreant","Craft","Knife Making","",0
-"Criminal","Mixed","Miscreant","Craft","Leatherworking","",0
-"Criminal","Mixed","Miscreant","Craft","Lumberjacking","",0
-"Criminal","Mixed","Miscreant","Craft","Pick Making","advanced",3
-"Criminal","Mixed","Miscreant","Craft","Spear Making","",0
-"Criminal","Mixed","Miscreant","Craft","Stonecrafting","",0
-"Criminal","Mixed","Miscreant","Craft","Sword Making","",0
-"Criminal","Mixed","Miscreant","Craft","Tanning","",0
-"Criminal","Mixed","Miscreant","Craft","Tent Making","",0
-"Criminal","Mixed","Miscreant","Craft","Tool Making","",0
-"Criminal","Mixed","Miscreant","Craft","Wagon Making","",0
-"Criminal","Mixed","Miscreant","Craft","Woodworking","",0
-"Criminal","Mixed","Miscreant","Language","Allundean","",0
-"Criminal","Mixed","Miscreant","Language","Bendune","",0
-"Criminal","Mixed","Miscreant","Language","Cavilish","",0
-"Criminal","Mixed","Miscreant","Language","Mirukkium","",0
-"Criminal","Mixed","Miscreant","Language","Tribal Accent","",0
-"Criminal","Mixed","Miscreant","Manipulation","Bandage","",0
-"Criminal","Mixed","Miscreant","Manipulation","Pick","master",4
-"Criminal","Mixed","Miscreant","Manipulation","Pilot","",0
-"Criminal","Mixed","Miscreant","Manipulation","Poisoning","master",4
-"Criminal","Mixed","Miscreant","Manipulation","Ride","",0
-"Criminal","Mixed","Miscreant","Manipulation","Skinning","",0
-"Criminal","Mixed","Miscreant","Manipulation","Sleight of Hand","master",4
-"Criminal","Mixed","Miscreant","Manipulation","Steal","master",4
-"Criminal","Mixed","Miscreant","Perception","Direction Sense","",0
-"Criminal","Mixed","Miscreant","Perception","Forage","master",4
-"Criminal","Mixed","Miscreant","Perception","Hunt (city)","master",4
-"Criminal","Mixed","Miscreant","Perception","Hunt (wilderness)","",0
-"Criminal","Mixed","Miscreant","Perception","Listen (city)","master",4
-"Criminal","Mixed","Miscreant","Perception","Listen (wilderness)","",0
-"Criminal","Mixed","Miscreant","Perception","Peek","master",4
-"Criminal","Mixed","Miscreant","Perception","Scan","master",4
-"Criminal","Mixed","Miscreant","Perception","Search","master",4
-"Criminal","Mixed","Miscreant","Perception","Watch","master",4
-"Criminal","Mixed","Miscreant","Perk","Alcohol Tolerance Perk","",0
-"Criminal","Mixed","Miscreant","Perk","Better Movement Regeneration","",0
-"Criminal","Mixed","Miscreant","Perk","City Forage","x",NA
-"Criminal","Mixed","Miscreant","Perk","City Hunt","x",NA
-"Criminal","Mixed","Miscreant","Perk","City Stealth","x",NA
-"Criminal","Mixed","Miscreant","Perk","Customcraft","",0
-"Criminal","Mixed","Miscreant","Perk","Hitch 2 Mounts","",0
-"Criminal","Mixed","Miscreant","Perk","Learn Languages Perk","",0
-"Criminal","Mixed","Miscreant","Perk","Learn Ride Faster","",0
-"Criminal","Mixed","Miscreant","Perk","Pain Tolerance Perk","",0
-"Criminal","Mixed","Miscreant","Perk","Tame Mounts","",0
-"Criminal","Mixed","Miscreant","Perk","Wilderness Forage","",0
-"Criminal","Mixed","Miscreant","Perk","Wilderness Hunt","",0
-"Criminal","Mixed","Miscreant","Perk","Wilderness Quit","",0
-"Criminal","Mixed","Miscreant","Perk","Wilderness Stealth","",0
-"Criminal","Mixed","Miscreant","Stealth","Climb","master",4
-"Criminal","Mixed","Miscreant","Stealth","Hide (city)","master",4
-"Criminal","Mixed","Miscreant","Stealth","Hide (wilderness)","",0
-"Criminal","Mixed","Miscreant","Stealth","Sneak (city)","master",4
-"Criminal","Mixed","Miscreant","Stealth","Sneak (wilderness)","",0
-"Criminal","Mixed","Miscreant","Weapon","Bludgeoning Weapons","advanced",3
-"Criminal","Mixed","Miscreant","Weapon","Chopping Weapons","",0
-"Criminal","Mixed","Miscreant","Weapon","Piercing Weapons","advanced",3
-"Criminal","Mixed","Miscreant","Weapon","Slashing Weapons","",0
-"Criminal","Light mercantile","Pilferer","Barter","Haggle","master",4
-"Criminal","Light mercantile","Pilferer","Barter","Value","master",4
-"Criminal","Light mercantile","Pilferer","Combat","Archery","",0
-"Criminal","Light mercantile","Pilferer","Combat","Backstab","",0
-"Criminal","Light mercantile","Pilferer","Combat","Bash","",0
-"Criminal","Light mercantile","Pilferer","Combat","Blind Fighting","",0
-"Criminal","Light mercantile","Pilferer","Combat","Blowgun Use","",0
-"Criminal","Light mercantile","Pilferer","Combat","Charge","",0
-"Criminal","Light mercantile","Pilferer","Combat","Crossbow Use","advanced",3
-"Criminal","Light mercantile","Pilferer","Combat","Disarm","",0
-"Criminal","Light mercantile","Pilferer","Combat","Dual Wield","advanced",3
-"Criminal","Light mercantile","Pilferer","Combat","Flee","journeyman",2
-"Criminal","Light mercantile","Pilferer","Combat","Guarding","",0
-"Criminal","Light mercantile","Pilferer","Combat","Hack","",0
-"Criminal","Light mercantile","Pilferer","Combat","Kick","",0
-"Criminal","Light mercantile","Pilferer","Combat","Parry","",0
-"Criminal","Light mercantile","Pilferer","Combat","Rescue","",0
-"Criminal","Light mercantile","Pilferer","Combat","Riposte","",0
-"Criminal","Light mercantile","Pilferer","Combat","Sap","journeyman",2
-"Criminal","Light mercantile","Pilferer","Combat","Shield Use","journeyman",2
-"Criminal","Light mercantile","Pilferer","Combat","Sling Use","",0
-"Criminal","Light mercantile","Pilferer","Combat","Subdue","",0
-"Criminal","Light mercantile","Pilferer","Combat","Threaten","",0
-"Criminal","Light mercantile","Pilferer","Combat","Throw","advanced",3
-"Criminal","Light mercantile","Pilferer","Combat","Two Handed","advanced",3
-"Criminal","Light mercantile","Pilferer","Craft","Armor Making","",0
-"Criminal","Light mercantile","Pilferer","Craft","Armor Repair","",0
-"Criminal","Light mercantile","Pilferer","Craft","Axe Making","",0
-"Criminal","Light mercantile","Pilferer","Craft","Bandage Making","",0
-"Criminal","Light mercantile","Pilferer","Craft","Basketweaving","",0
-"Criminal","Light mercantile","Pilferer","Craft","Bow Making","master",4
-"Criminal","Light mercantile","Pilferer","Craft","Brew","master",4
-"Criminal","Light mercantile","Pilferer","Craft","Clayworking","master",4
-"Criminal","Light mercantile","Pilferer","Craft","Clothworking","master",4
-"Criminal","Light mercantile","Pilferer","Craft","Club Making","master",4
-"Criminal","Light mercantile","Pilferer","Craft","Cooking","master",4
-"Criminal","Light mercantile","Pilferer","Craft","Dyeing","",0
-"Criminal","Light mercantile","Pilferer","Craft","Feather Working","",0
-"Criminal","Light mercantile","Pilferer","Craft","Fletchery","master",4
-"Criminal","Light mercantile","Pilferer","Craft","Floristry","",0
-"Criminal","Light mercantile","Pilferer","Craft","Instrument Making","",0
-"Criminal","Light mercantile","Pilferer","Craft","Jewelry Making","master",4
-"Criminal","Light mercantile","Pilferer","Craft","Knife Making","",0
-"Criminal","Light mercantile","Pilferer","Craft","Leatherworking","",0
-"Criminal","Light mercantile","Pilferer","Craft","Lumberjacking","",0
-"Criminal","Light mercantile","Pilferer","Craft","Pick Making","advanced",3
-"Criminal","Light mercantile","Pilferer","Craft","Spear Making","",0
-"Criminal","Light mercantile","Pilferer","Craft","Stonecrafting","",0
-"Criminal","Light mercantile","Pilferer","Craft","Sword Making","",0
-"Criminal","Light mercantile","Pilferer","Craft","Tanning","",0
-"Criminal","Light mercantile","Pilferer","Craft","Tent Making","",0
-"Criminal","Light mercantile","Pilferer","Craft","Tool Making","master",4
-"Criminal","Light mercantile","Pilferer","Craft","Wagon Making","",0
-"Criminal","Light mercantile","Pilferer","Craft","Woodworking","",0
-"Criminal","Light mercantile","Pilferer","Language","Allundean","",0
-"Criminal","Light mercantile","Pilferer","Language","Bendune","",0
-"Criminal","Light mercantile","Pilferer","Language","Cavilish","",0
-"Criminal","Light mercantile","Pilferer","Language","Mirukkium","",0
-"Criminal","Light mercantile","Pilferer","Language","Tribal Accent","",0
-"Criminal","Light mercantile","Pilferer","Manipulation","Bandage","",0
-"Criminal","Light mercantile","Pilferer","Manipulation","Pick","advanced",3
-"Criminal","Light mercantile","Pilferer","Manipulation","Pilot","",0
-"Criminal","Light mercantile","Pilferer","Manipulation","Poisoning","",0
-"Criminal","Light mercantile","Pilferer","Manipulation","Ride","",0
-"Criminal","Light mercantile","Pilferer","Manipulation","Skinning","",0
-"Criminal","Light mercantile","Pilferer","Manipulation","Sleight of Hand","master",4
-"Criminal","Light mercantile","Pilferer","Manipulation","Steal","master",4
-"Criminal","Light mercantile","Pilferer","Perception","Direction Sense","",0
-"Criminal","Light mercantile","Pilferer","Perception","Forage","advanced",3
-"Criminal","Light mercantile","Pilferer","Perception","Hunt (city)","advanced",3
-"Criminal","Light mercantile","Pilferer","Perception","Hunt (wilderness)","",0
-"Criminal","Light mercantile","Pilferer","Perception","Listen (city)","advanced",3
-"Criminal","Light mercantile","Pilferer","Perception","Listen (wilderness)","",0
-"Criminal","Light mercantile","Pilferer","Perception","Peek","advanced",3
-"Criminal","Light mercantile","Pilferer","Perception","Scan","advanced",3
-"Criminal","Light mercantile","Pilferer","Perception","Search","advanced",3
-"Criminal","Light mercantile","Pilferer","Perception","Watch","advanced",3
-"Criminal","Light mercantile","Pilferer","Perk","Alcohol Tolerance Perk","",0
-"Criminal","Light mercantile","Pilferer","Perk","Better Movement Regeneration","",0
-"Criminal","Light mercantile","Pilferer","Perk","City Forage","x",NA
-"Criminal","Light mercantile","Pilferer","Perk","City Hunt","x",NA
-"Criminal","Light mercantile","Pilferer","Perk","City Stealth","x",NA
-"Criminal","Light mercantile","Pilferer","Perk","Customcraft","",0
-"Criminal","Light mercantile","Pilferer","Perk","Hitch 2 Mounts","",0
-"Criminal","Light mercantile","Pilferer","Perk","Learn Languages Perk","",0
-"Criminal","Light mercantile","Pilferer","Perk","Learn Ride Faster","",0
-"Criminal","Light mercantile","Pilferer","Perk","Pain Tolerance Perk","",0
-"Criminal","Light mercantile","Pilferer","Perk","Tame Mounts","",0
-"Criminal","Light mercantile","Pilferer","Perk","Wilderness Forage","",0
-"Criminal","Light mercantile","Pilferer","Perk","Wilderness Hunt","",0
-"Criminal","Light mercantile","Pilferer","Perk","Wilderness Quit","",0
-"Criminal","Light mercantile","Pilferer","Perk","Wilderness Stealth","",0
-"Criminal","Light mercantile","Pilferer","Stealth","Climb","advanced",3
-"Criminal","Light mercantile","Pilferer","Stealth","Hide (city)","master",4
-"Criminal","Light mercantile","Pilferer","Stealth","Hide (wilderness)","",0
-"Criminal","Light mercantile","Pilferer","Stealth","Sneak (city)","master",4
-"Criminal","Light mercantile","Pilferer","Stealth","Sneak (wilderness)","",0
-"Criminal","Light mercantile","Pilferer","Weapon","Bludgeoning Weapons","journeyman",2
-"Criminal","Light mercantile","Pilferer","Weapon","Chopping Weapons","",0
-"Criminal","Light mercantile","Pilferer","Weapon","Piercing Weapons","journeyman",2
-"Criminal","Light mercantile","Pilferer","Weapon","Slashing Weapons","",0
-"Criminal","Heavy mercantile","Fence","Barter","Haggle","master",4
-"Criminal","Heavy mercantile","Fence","Barter","Value","master",4
-"Criminal","Heavy mercantile","Fence","Combat","Archery","",0
-"Criminal","Heavy mercantile","Fence","Combat","Backstab","",0
-"Criminal","Heavy mercantile","Fence","Combat","Bash","",0
-"Criminal","Heavy mercantile","Fence","Combat","Blind Fighting","",0
-"Criminal","Heavy mercantile","Fence","Combat","Blowgun Use","",0
-"Criminal","Heavy mercantile","Fence","Combat","Charge","",0
-"Criminal","Heavy mercantile","Fence","Combat","Crossbow Use","journeyman",2
-"Criminal","Heavy mercantile","Fence","Combat","Disarm","",0
-"Criminal","Heavy mercantile","Fence","Combat","Dual Wield","journeyman",2
-"Criminal","Heavy mercantile","Fence","Combat","Flee","",0
-"Criminal","Heavy mercantile","Fence","Combat","Guarding","",0
-"Criminal","Heavy mercantile","Fence","Combat","Hack","",0
-"Criminal","Heavy mercantile","Fence","Combat","Kick","",0
-"Criminal","Heavy mercantile","Fence","Combat","Parry","",0
-"Criminal","Heavy mercantile","Fence","Combat","Rescue","",0
-"Criminal","Heavy mercantile","Fence","Combat","Riposte","",0
-"Criminal","Heavy mercantile","Fence","Combat","Sap","",0
-"Criminal","Heavy mercantile","Fence","Combat","Shield Use","journeyman",2
-"Criminal","Heavy mercantile","Fence","Combat","Sling Use","",0
-"Criminal","Heavy mercantile","Fence","Combat","Subdue","",0
-"Criminal","Heavy mercantile","Fence","Combat","Threaten","",0
-"Criminal","Heavy mercantile","Fence","Combat","Throw","",0
-"Criminal","Heavy mercantile","Fence","Combat","Two Handed","journeyman",2
-"Criminal","Heavy mercantile","Fence","Craft","Armor Making","master",4
-"Criminal","Heavy mercantile","Fence","Craft","Armor Repair","master",4
-"Criminal","Heavy mercantile","Fence","Craft","Axe Making","",0
-"Criminal","Heavy mercantile","Fence","Craft","Bandage Making","master",4
-"Criminal","Heavy mercantile","Fence","Craft","Basketweaving","",0
-"Criminal","Heavy mercantile","Fence","Craft","Bow Making","",0
-"Criminal","Heavy mercantile","Fence","Craft","Brew","master",4
-"Criminal","Heavy mercantile","Fence","Craft","Clayworking","master",4
-"Criminal","Heavy mercantile","Fence","Craft","Clothworking","master",4
-"Criminal","Heavy mercantile","Fence","Craft","Club Making","master",4
-"Criminal","Heavy mercantile","Fence","Craft","Cooking","master",4
-"Criminal","Heavy mercantile","Fence","Craft","Dyeing","master",4
-"Criminal","Heavy mercantile","Fence","Craft","Feather Working","master",4
-"Criminal","Heavy mercantile","Fence","Craft","Fletchery","master",4
-"Criminal","Heavy mercantile","Fence","Craft","Floristry","",0
-"Criminal","Heavy mercantile","Fence","Craft","Instrument Making","",0
-"Criminal","Heavy mercantile","Fence","Craft","Jewelry Making","master",4
-"Criminal","Heavy mercantile","Fence","Craft","Knife Making","master",4
-"Criminal","Heavy mercantile","Fence","Craft","Leatherworking","master",4
-"Criminal","Heavy mercantile","Fence","Craft","Lumberjacking","",0
-"Criminal","Heavy mercantile","Fence","Craft","Pick Making","master",4
-"Criminal","Heavy mercantile","Fence","Craft","Spear Making","master",4
-"Criminal","Heavy mercantile","Fence","Craft","Stonecrafting","master",4
-"Criminal","Heavy mercantile","Fence","Craft","Sword Making","master",4
-"Criminal","Heavy mercantile","Fence","Craft","Tanning","master",4
-"Criminal","Heavy mercantile","Fence","Craft","Tent Making","",0
-"Criminal","Heavy mercantile","Fence","Craft","Tool Making","master",4
-"Criminal","Heavy mercantile","Fence","Craft","Wagon Making","",0
-"Criminal","Heavy mercantile","Fence","Craft","Woodworking","",0
-"Criminal","Heavy mercantile","Fence","Language","Allundean","master",4
-"Criminal","Heavy mercantile","Fence","Language","Bendune","",0
-"Criminal","Heavy mercantile","Fence","Language","Cavilish","",0
-"Criminal","Heavy mercantile","Fence","Language","Mirukkium","",0
-"Criminal","Heavy mercantile","Fence","Language","Tribal Accent","",0
-"Criminal","Heavy mercantile","Fence","Manipulation","Bandage","",0
-"Criminal","Heavy mercantile","Fence","Manipulation","Pick","",0
-"Criminal","Heavy mercantile","Fence","Manipulation","Pilot","",0
-"Criminal","Heavy mercantile","Fence","Manipulation","Poisoning","advanced",3
-"Criminal","Heavy mercantile","Fence","Manipulation","Ride","",0
-"Criminal","Heavy mercantile","Fence","Manipulation","Skinning","",0
-"Criminal","Heavy mercantile","Fence","Manipulation","Sleight of Hand","advanced",3
-"Criminal","Heavy mercantile","Fence","Manipulation","Steal","advanced",3
-"Criminal","Heavy mercantile","Fence","Perception","Direction Sense","",0
-"Criminal","Heavy mercantile","Fence","Perception","Forage","advanced",3
-"Criminal","Heavy mercantile","Fence","Perception","Hunt (city)","",0
-"Criminal","Heavy mercantile","Fence","Perception","Hunt (wilderness)","",0
-"Criminal","Heavy mercantile","Fence","Perception","Listen (city)","advanced",3
-"Criminal","Heavy mercantile","Fence","Perception","Listen (wilderness)","",0
-"Criminal","Heavy mercantile","Fence","Perception","Peek","advanced",3
-"Criminal","Heavy mercantile","Fence","Perception","Scan","",0
-"Criminal","Heavy mercantile","Fence","Perception","Search","",0
-"Criminal","Heavy mercantile","Fence","Perception","Watch","",0
-"Criminal","Heavy mercantile","Fence","Perk","Alcohol Tolerance Perk","",0
-"Criminal","Heavy mercantile","Fence","Perk","Better Movement Regeneration","",0
-"Criminal","Heavy mercantile","Fence","Perk","City Forage","",0
-"Criminal","Heavy mercantile","Fence","Perk","City Hunt","",0
-"Criminal","Heavy mercantile","Fence","Perk","City Stealth","",0
-"Criminal","Heavy mercantile","Fence","Perk","Customcraft","x",NA
-"Criminal","Heavy mercantile","Fence","Perk","Hitch 2 Mounts","x",NA
-"Criminal","Heavy mercantile","Fence","Perk","Learn Languages Perk","",0
-"Criminal","Heavy mercantile","Fence","Perk","Learn Ride Faster","",0
-"Criminal","Heavy mercantile","Fence","Perk","Pain Tolerance Perk","",0
-"Criminal","Heavy mercantile","Fence","Perk","Tame Mounts","",0
-"Criminal","Heavy mercantile","Fence","Perk","Wilderness Forage","x",NA
-"Criminal","Heavy mercantile","Fence","Perk","Wilderness Hunt","",0
-"Criminal","Heavy mercantile","Fence","Perk","Wilderness Quit","",0
-"Criminal","Heavy mercantile","Fence","Perk","Wilderness Stealth","x",NA
-"Criminal","Heavy mercantile","Fence","Stealth","Climb","",0
-"Criminal","Heavy mercantile","Fence","Stealth","Hide (city)","advanced",3
-"Criminal","Heavy mercantile","Fence","Stealth","Hide (wilderness)","",0
-"Criminal","Heavy mercantile","Fence","Stealth","Sneak (city)","advanced",3
-"Criminal","Heavy mercantile","Fence","Stealth","Sneak (wilderness)","",0
-"Criminal","Heavy mercantile","Fence","Weapon","Bludgeoning Weapons","",0
-"Criminal","Heavy mercantile","Fence","Weapon","Chopping Weapons","",0
-"Criminal","Heavy mercantile","Fence","Weapon","Piercing Weapons","journeyman",2
-"Criminal","Heavy mercantile","Fence","Weapon","Slashing Weapons","",0
-"Wilderness","Heavy combat","Raider","Barter","Haggle","",0
-"Wilderness","Heavy combat","Raider","Barter","Value","",0
-"Wilderness","Heavy combat","Raider","Combat","Archery","master",4
-"Wilderness","Heavy combat","Raider","Combat","Backstab","",0
-"Wilderness","Heavy combat","Raider","Combat","Bash","master",4
-"Wilderness","Heavy combat","Raider","Combat","Blind Fighting","master",4
-"Wilderness","Heavy combat","Raider","Combat","Blowgun Use","",0
-"Wilderness","Heavy combat","Raider","Combat","Charge","master",4
-"Wilderness","Heavy combat","Raider","Combat","Crossbow Use","master",4
-"Wilderness","Heavy combat","Raider","Combat","Disarm","master",4
-"Wilderness","Heavy combat","Raider","Combat","Dual Wield","master",4
-"Wilderness","Heavy combat","Raider","Combat","Flee","master",4
-"Wilderness","Heavy combat","Raider","Combat","Guarding","master",4
-"Wilderness","Heavy combat","Raider","Combat","Hack","",0
-"Wilderness","Heavy combat","Raider","Combat","Kick","master",4
-"Wilderness","Heavy combat","Raider","Combat","Parry","master",4
-"Wilderness","Heavy combat","Raider","Combat","Rescue","master",4
-"Wilderness","Heavy combat","Raider","Combat","Riposte","",0
-"Wilderness","Heavy combat","Raider","Combat","Sap","",0
-"Wilderness","Heavy combat","Raider","Combat","Shield Use","master",4
-"Wilderness","Heavy combat","Raider","Combat","Sling Use","master",4
-"Wilderness","Heavy combat","Raider","Combat","Subdue","advanced",3
-"Wilderness","Heavy combat","Raider","Combat","Threaten","master",4
-"Wilderness","Heavy combat","Raider","Combat","Throw","master",4
-"Wilderness","Heavy combat","Raider","Combat","Two Handed","master",4
-"Wilderness","Heavy combat","Raider","Craft","Armor Making","",0
-"Wilderness","Heavy combat","Raider","Craft","Armor Repair","",0
-"Wilderness","Heavy combat","Raider","Craft","Axe Making","",0
-"Wilderness","Heavy combat","Raider","Craft","Bandage Making","",0
-"Wilderness","Heavy combat","Raider","Craft","Basketweaving","",0
-"Wilderness","Heavy combat","Raider","Craft","Bow Making","",0
-"Wilderness","Heavy combat","Raider","Craft","Brew","",0
-"Wilderness","Heavy combat","Raider","Craft","Clayworking","",0
-"Wilderness","Heavy combat","Raider","Craft","Clothworking","",0
-"Wilderness","Heavy combat","Raider","Craft","Club Making","",0
-"Wilderness","Heavy combat","Raider","Craft","Cooking","journeyman",2
-"Wilderness","Heavy combat","Raider","Craft","Dyeing","",0
-"Wilderness","Heavy combat","Raider","Craft","Feather Working","",0
-"Wilderness","Heavy combat","Raider","Craft","Fletchery","",0
-"Wilderness","Heavy combat","Raider","Craft","Floristry","",0
-"Wilderness","Heavy combat","Raider","Craft","Instrument Making","",0
-"Wilderness","Heavy combat","Raider","Craft","Jewelry Making","",0
-"Wilderness","Heavy combat","Raider","Craft","Knife Making","",0
-"Wilderness","Heavy combat","Raider","Craft","Leatherworking","",0
-"Wilderness","Heavy combat","Raider","Craft","Lumberjacking","",0
-"Wilderness","Heavy combat","Raider","Craft","Pick Making","",0
-"Wilderness","Heavy combat","Raider","Craft","Spear Making","",0
-"Wilderness","Heavy combat","Raider","Craft","Stonecrafting","",0
-"Wilderness","Heavy combat","Raider","Craft","Sword Making","",0
-"Wilderness","Heavy combat","Raider","Craft","Tanning","",0
-"Wilderness","Heavy combat","Raider","Craft","Tent Making","",0
-"Wilderness","Heavy combat","Raider","Craft","Tool Making","",0
-"Wilderness","Heavy combat","Raider","Craft","Wagon Making","",0
-"Wilderness","Heavy combat","Raider","Craft","Woodworking","",0
-"Wilderness","Heavy combat","Raider","Language","Allundean","",0
-"Wilderness","Heavy combat","Raider","Language","Bendune","",0
-"Wilderness","Heavy combat","Raider","Language","Cavilish","",0
-"Wilderness","Heavy combat","Raider","Language","Mirukkium","",0
-"Wilderness","Heavy combat","Raider","Language","Tribal Accent","",0
-"Wilderness","Heavy combat","Raider","Manipulation","Bandage","",0
-"Wilderness","Heavy combat","Raider","Manipulation","Pick","",0
-"Wilderness","Heavy combat","Raider","Manipulation","Pilot","",0
-"Wilderness","Heavy combat","Raider","Manipulation","Poisoning","",0
-"Wilderness","Heavy combat","Raider","Manipulation","Ride","advanced",3
-"Wilderness","Heavy combat","Raider","Manipulation","Skinning","",0
-"Wilderness","Heavy combat","Raider","Manipulation","Sleight of Hand","",0
-"Wilderness","Heavy combat","Raider","Manipulation","Steal","",0
-"Wilderness","Heavy combat","Raider","Perception","Direction Sense","advanced",3
-"Wilderness","Heavy combat","Raider","Perception","Forage","journeyman",2
-"Wilderness","Heavy combat","Raider","Perception","Hunt (city)","",0
-"Wilderness","Heavy combat","Raider","Perception","Hunt (wilderness)","",0
-"Wilderness","Heavy combat","Raider","Perception","Listen (city)","",0
-"Wilderness","Heavy combat","Raider","Perception","Listen (wilderness)","",0
-"Wilderness","Heavy combat","Raider","Perception","Peek","",0
-"Wilderness","Heavy combat","Raider","Perception","Scan","advanced",3
-"Wilderness","Heavy combat","Raider","Perception","Search","",0
-"Wilderness","Heavy combat","Raider","Perception","Watch","",0
-"Wilderness","Heavy combat","Raider","Perk","Alcohol Tolerance Perk","",0
-"Wilderness","Heavy combat","Raider","Perk","Better Movement Regeneration","",0
-"Wilderness","Heavy combat","Raider","Perk","City Forage","",0
-"Wilderness","Heavy combat","Raider","Perk","City Hunt","",0
-"Wilderness","Heavy combat","Raider","Perk","City Stealth","",0
-"Wilderness","Heavy combat","Raider","Perk","Customcraft","",0
-"Wilderness","Heavy combat","Raider","Perk","Hitch 2 Mounts","x",NA
-"Wilderness","Heavy combat","Raider","Perk","Learn Languages Perk","",0
-"Wilderness","Heavy combat","Raider","Perk","Learn Ride Faster","",0
-"Wilderness","Heavy combat","Raider","Perk","Pain Tolerance Perk","",0
-"Wilderness","Heavy combat","Raider","Perk","Tame Mounts","",0
-"Wilderness","Heavy combat","Raider","Perk","Wilderness Forage","",0
-"Wilderness","Heavy combat","Raider","Perk","Wilderness Hunt","x",NA
-"Wilderness","Heavy combat","Raider","Perk","Wilderness Quit","",0
-"Wilderness","Heavy combat","Raider","Perk","Wilderness Stealth","x",NA
-"Wilderness","Heavy combat","Raider","Stealth","Climb","advanced",3
-"Wilderness","Heavy combat","Raider","Stealth","Hide (city)","",0
-"Wilderness","Heavy combat","Raider","Stealth","Hide (wilderness)","advanced",3
-"Wilderness","Heavy combat","Raider","Stealth","Sneak (city)","",0
-"Wilderness","Heavy combat","Raider","Stealth","Sneak (wilderness)","advanced",3
-"Wilderness","Heavy combat","Raider","Weapon","Bludgeoning Weapons","master",4
-"Wilderness","Heavy combat","Raider","Weapon","Chopping Weapons","master",4
-"Wilderness","Heavy combat","Raider","Weapon","Piercing Weapons","master",4
-"Wilderness","Heavy combat","Raider","Weapon","Slashing Weapons","master",4
-"Wilderness","Light combat","Scout","Barter","Haggle","",0
-"Wilderness","Light combat","Scout","Barter","Value","",0
-"Wilderness","Light combat","Scout","Combat","Archery","master",4
-"Wilderness","Light combat","Scout","Combat","Backstab","",0
-"Wilderness","Light combat","Scout","Combat","Bash","",0
-"Wilderness","Light combat","Scout","Combat","Blind Fighting","advanced",3
-"Wilderness","Light combat","Scout","Combat","Blowgun Use","master",4
-"Wilderness","Light combat","Scout","Combat","Charge","advanced",3
-"Wilderness","Light combat","Scout","Combat","Crossbow Use","master",4
-"Wilderness","Light combat","Scout","Combat","Disarm","",0
-"Wilderness","Light combat","Scout","Combat","Dual Wield","master",4
-"Wilderness","Light combat","Scout","Combat","Flee","advanced",3
-"Wilderness","Light combat","Scout","Combat","Guarding","master",4
-"Wilderness","Light combat","Scout","Combat","Hack","",0
-"Wilderness","Light combat","Scout","Combat","Kick","advanced",3
-"Wilderness","Light combat","Scout","Combat","Parry","advanced",3
-"Wilderness","Light combat","Scout","Combat","Rescue","master",4
-"Wilderness","Light combat","Scout","Combat","Riposte","",0
-"Wilderness","Light combat","Scout","Combat","Sap","",0
-"Wilderness","Light combat","Scout","Combat","Shield Use","advanced",3
-"Wilderness","Light combat","Scout","Combat","Sling Use","master",4
-"Wilderness","Light combat","Scout","Combat","Subdue","",0
-"Wilderness","Light combat","Scout","Combat","Threaten","",0
-"Wilderness","Light combat","Scout","Combat","Throw","master",4
-"Wilderness","Light combat","Scout","Combat","Two Handed","master",4
-"Wilderness","Light combat","Scout","Craft","Armor Making","",0
-"Wilderness","Light combat","Scout","Craft","Armor Repair","",0
-"Wilderness","Light combat","Scout","Craft","Axe Making","",0
-"Wilderness","Light combat","Scout","Craft","Bandage Making","advanced",3
-"Wilderness","Light combat","Scout","Craft","Basketweaving","",0
-"Wilderness","Light combat","Scout","Craft","Bow Making","",0
-"Wilderness","Light combat","Scout","Craft","Brew","",0
-"Wilderness","Light combat","Scout","Craft","Clayworking","",0
-"Wilderness","Light combat","Scout","Craft","Clothworking","",0
-"Wilderness","Light combat","Scout","Craft","Club Making","",0
-"Wilderness","Light combat","Scout","Craft","Cooking","advanced",3
-"Wilderness","Light combat","Scout","Craft","Dyeing","",0
-"Wilderness","Light combat","Scout","Craft","Feather Working","",0
-"Wilderness","Light combat","Scout","Craft","Fletchery","advanced",3
-"Wilderness","Light combat","Scout","Craft","Floristry","",0
-"Wilderness","Light combat","Scout","Craft","Instrument Making","",0
-"Wilderness","Light combat","Scout","Craft","Jewelry Making","",0
-"Wilderness","Light combat","Scout","Craft","Knife Making","",0
-"Wilderness","Light combat","Scout","Craft","Leatherworking","",0
-"Wilderness","Light combat","Scout","Craft","Lumberjacking","",0
-"Wilderness","Light combat","Scout","Craft","Pick Making","",0
-"Wilderness","Light combat","Scout","Craft","Spear Making","",0
-"Wilderness","Light combat","Scout","Craft","Stonecrafting","",0
-"Wilderness","Light combat","Scout","Craft","Sword Making","",0
-"Wilderness","Light combat","Scout","Craft","Tanning","",0
-"Wilderness","Light combat","Scout","Craft","Tent Making","",0
-"Wilderness","Light combat","Scout","Craft","Tool Making","",0
-"Wilderness","Light combat","Scout","Craft","Wagon Making","",0
-"Wilderness","Light combat","Scout","Craft","Woodworking","",0
-"Wilderness","Light combat","Scout","Language","Allundean","",0
-"Wilderness","Light combat","Scout","Language","Bendune","",0
-"Wilderness","Light combat","Scout","Language","Cavilish","",0
-"Wilderness","Light combat","Scout","Language","Mirukkium","",0
-"Wilderness","Light combat","Scout","Language","Tribal Accent","",0
-"Wilderness","Light combat","Scout","Manipulation","Bandage","advanced",3
-"Wilderness","Light combat","Scout","Manipulation","Pick","",0
-"Wilderness","Light combat","Scout","Manipulation","Pilot","",0
-"Wilderness","Light combat","Scout","Manipulation","Poisoning","advanced",3
-"Wilderness","Light combat","Scout","Manipulation","Ride","advanced",3
-"Wilderness","Light combat","Scout","Manipulation","Skinning","master",4
-"Wilderness","Light combat","Scout","Manipulation","Sleight of Hand","",0
-"Wilderness","Light combat","Scout","Manipulation","Steal","",0
-"Wilderness","Light combat","Scout","Perception","Direction Sense","advanced",3
-"Wilderness","Light combat","Scout","Perception","Forage","advanced",3
-"Wilderness","Light combat","Scout","Perception","Hunt (city)","",0
-"Wilderness","Light combat","Scout","Perception","Hunt (wilderness)","advanced",3
-"Wilderness","Light combat","Scout","Perception","Listen (city)","",0
-"Wilderness","Light combat","Scout","Perception","Listen (wilderness)","",0
-"Wilderness","Light combat","Scout","Perception","Peek","",0
-"Wilderness","Light combat","Scout","Perception","Scan","advanced",3
-"Wilderness","Light combat","Scout","Perception","Search","master",4
-"Wilderness","Light combat","Scout","Perception","Watch","",0
-"Wilderness","Light combat","Scout","Perk","Alcohol Tolerance Perk","",0
-"Wilderness","Light combat","Scout","Perk","Better Movement Regeneration","x",NA
-"Wilderness","Light combat","Scout","Perk","City Forage","",0
-"Wilderness","Light combat","Scout","Perk","City Hunt","",0
-"Wilderness","Light combat","Scout","Perk","City Stealth","",0
-"Wilderness","Light combat","Scout","Perk","Customcraft","",0
-"Wilderness","Light combat","Scout","Perk","Hitch 2 Mounts","x",NA
-"Wilderness","Light combat","Scout","Perk","Learn Languages Perk","",0
-"Wilderness","Light combat","Scout","Perk","Learn Ride Faster","",0
-"Wilderness","Light combat","Scout","Perk","Pain Tolerance Perk","",0
-"Wilderness","Light combat","Scout","Perk","Tame Mounts","x",NA
-"Wilderness","Light combat","Scout","Perk","Wilderness Forage","x",NA
-"Wilderness","Light combat","Scout","Perk","Wilderness Hunt","x",NA
-"Wilderness","Light combat","Scout","Perk","Wilderness Quit","x",NA
-"Wilderness","Light combat","Scout","Perk","Wilderness Stealth","x",NA
-"Wilderness","Light combat","Scout","Stealth","Climb","advanced",3
-"Wilderness","Light combat","Scout","Stealth","Hide (city)","",0
-"Wilderness","Light combat","Scout","Stealth","Hide (wilderness)","master",4
-"Wilderness","Light combat","Scout","Stealth","Sneak (city)","",0
-"Wilderness","Light combat","Scout","Stealth","Sneak (wilderness)","master",4
-"Wilderness","Light combat","Scout","Weapon","Bludgeoning Weapons","advanced",3
-"Wilderness","Light combat","Scout","Weapon","Chopping Weapons","advanced",3
-"Wilderness","Light combat","Scout","Weapon","Piercing Weapons","advanced",3
-"Wilderness","Light combat","Scout","Weapon","Slashing Weapons","advanced",3
-"Wilderness","Mixed","Stalker","Barter","Haggle","",0
-"Wilderness","Mixed","Stalker","Barter","Value","",0
-"Wilderness","Mixed","Stalker","Combat","Archery","advanced",3
-"Wilderness","Mixed","Stalker","Combat","Backstab","",0
-"Wilderness","Mixed","Stalker","Combat","Bash","",0
-"Wilderness","Mixed","Stalker","Combat","Blind Fighting","advanced",3
-"Wilderness","Mixed","Stalker","Combat","Blowgun Use","advanced",3
-"Wilderness","Mixed","Stalker","Combat","Charge","advanced",3
-"Wilderness","Mixed","Stalker","Combat","Crossbow Use","advanced",3
-"Wilderness","Mixed","Stalker","Combat","Disarm","",0
-"Wilderness","Mixed","Stalker","Combat","Dual Wield","advanced",3
-"Wilderness","Mixed","Stalker","Combat","Flee","advanced",3
-"Wilderness","Mixed","Stalker","Combat","Guarding","advanced",3
-"Wilderness","Mixed","Stalker","Combat","Hack","",0
-"Wilderness","Mixed","Stalker","Combat","Kick","",0
-"Wilderness","Mixed","Stalker","Combat","Parry","advanced",3
-"Wilderness","Mixed","Stalker","Combat","Rescue","advanced",3
-"Wilderness","Mixed","Stalker","Combat","Riposte","",0
-"Wilderness","Mixed","Stalker","Combat","Sap","",0
-"Wilderness","Mixed","Stalker","Combat","Shield Use","advanced",3
-"Wilderness","Mixed","Stalker","Combat","Sling Use","",0
-"Wilderness","Mixed","Stalker","Combat","Subdue","",0
-"Wilderness","Mixed","Stalker","Combat","Threaten","",0
-"Wilderness","Mixed","Stalker","Combat","Throw","advanced",3
-"Wilderness","Mixed","Stalker","Combat","Two Handed","advanced",3
-"Wilderness","Mixed","Stalker","Craft","Armor Making","",0
-"Wilderness","Mixed","Stalker","Craft","Armor Repair","",0
-"Wilderness","Mixed","Stalker","Craft","Axe Making","",0
-"Wilderness","Mixed","Stalker","Craft","Bandage Making","advanced",3
-"Wilderness","Mixed","Stalker","Craft","Basketweaving","",0
-"Wilderness","Mixed","Stalker","Craft","Bow Making","",0
-"Wilderness","Mixed","Stalker","Craft","Brew","advanced",3
-"Wilderness","Mixed","Stalker","Craft","Clayworking","",0
-"Wilderness","Mixed","Stalker","Craft","Clothworking","",0
-"Wilderness","Mixed","Stalker","Craft","Club Making","",0
-"Wilderness","Mixed","Stalker","Craft","Cooking","advanced",3
-"Wilderness","Mixed","Stalker","Craft","Dyeing","",0
-"Wilderness","Mixed","Stalker","Craft","Feather Working","",0
-"Wilderness","Mixed","Stalker","Craft","Fletchery","advanced",3
-"Wilderness","Mixed","Stalker","Craft","Floristry","advanced",3
-"Wilderness","Mixed","Stalker","Craft","Instrument Making","",0
-"Wilderness","Mixed","Stalker","Craft","Jewelry Making","",0
-"Wilderness","Mixed","Stalker","Craft","Knife Making","",0
-"Wilderness","Mixed","Stalker","Craft","Leatherworking","advanced",3
-"Wilderness","Mixed","Stalker","Craft","Lumberjacking","",0
-"Wilderness","Mixed","Stalker","Craft","Pick Making","",0
-"Wilderness","Mixed","Stalker","Craft","Spear Making","",0
-"Wilderness","Mixed","Stalker","Craft","Stonecrafting","",0
-"Wilderness","Mixed","Stalker","Craft","Sword Making","",0
-"Wilderness","Mixed","Stalker","Craft","Tanning","advanced",3
-"Wilderness","Mixed","Stalker","Craft","Tent Making","",0
-"Wilderness","Mixed","Stalker","Craft","Tool Making","",0
-"Wilderness","Mixed","Stalker","Craft","Wagon Making","",0
-"Wilderness","Mixed","Stalker","Craft","Woodworking","",0
-"Wilderness","Mixed","Stalker","Language","Allundean","",0
-"Wilderness","Mixed","Stalker","Language","Bendune","",0
-"Wilderness","Mixed","Stalker","Language","Cavilish","",0
-"Wilderness","Mixed","Stalker","Language","Mirukkium","",0
-"Wilderness","Mixed","Stalker","Language","Tribal Accent","",0
-"Wilderness","Mixed","Stalker","Manipulation","Bandage","master",4
-"Wilderness","Mixed","Stalker","Manipulation","Pick","",0
-"Wilderness","Mixed","Stalker","Manipulation","Pilot","",0
-"Wilderness","Mixed","Stalker","Manipulation","Poisoning","master",4
-"Wilderness","Mixed","Stalker","Manipulation","Ride","master",4
-"Wilderness","Mixed","Stalker","Manipulation","Skinning","master",4
-"Wilderness","Mixed","Stalker","Manipulation","Sleight of Hand","",0
-"Wilderness","Mixed","Stalker","Manipulation","Steal","",0
-"Wilderness","Mixed","Stalker","Perception","Direction Sense","master",4
-"Wilderness","Mixed","Stalker","Perception","Forage","master",4
-"Wilderness","Mixed","Stalker","Perception","Hunt (city)","",0
-"Wilderness","Mixed","Stalker","Perception","Hunt (wilderness)","master",4
-"Wilderness","Mixed","Stalker","Perception","Listen (city)","",0
-"Wilderness","Mixed","Stalker","Perception","Listen (wilderness)","",0
-"Wilderness","Mixed","Stalker","Perception","Peek","",0
-"Wilderness","Mixed","Stalker","Perception","Scan","master",4
-"Wilderness","Mixed","Stalker","Perception","Search","",0
-"Wilderness","Mixed","Stalker","Perception","Watch","master",4
-"Wilderness","Mixed","Stalker","Perk","Alcohol Tolerance Perk","",0
-"Wilderness","Mixed","Stalker","Perk","Better Movement Regeneration","x",NA
-"Wilderness","Mixed","Stalker","Perk","City Forage","",0
-"Wilderness","Mixed","Stalker","Perk","City Hunt","",0
-"Wilderness","Mixed","Stalker","Perk","City Stealth","",0
-"Wilderness","Mixed","Stalker","Perk","Customcraft","",0
-"Wilderness","Mixed","Stalker","Perk","Hitch 2 Mounts","x",NA
-"Wilderness","Mixed","Stalker","Perk","Learn Languages Perk","",0
-"Wilderness","Mixed","Stalker","Perk","Learn Ride Faster","",0
-"Wilderness","Mixed","Stalker","Perk","Pain Tolerance Perk","",0
-"Wilderness","Mixed","Stalker","Perk","Tame Mounts","x",NA
-"Wilderness","Mixed","Stalker","Perk","Wilderness Forage","x",NA
-"Wilderness","Mixed","Stalker","Perk","Wilderness Hunt","x",NA
-"Wilderness","Mixed","Stalker","Perk","Wilderness Quit","x",NA
-"Wilderness","Mixed","Stalker","Perk","Wilderness Stealth","x",NA
-"Wilderness","Mixed","Stalker","Stealth","Climb","master",4
-"Wilderness","Mixed","Stalker","Stealth","Hide (city)","",0
-"Wilderness","Mixed","Stalker","Stealth","Hide (wilderness)","master",4
-"Wilderness","Mixed","Stalker","Stealth","Sneak (city)","",0
-"Wilderness","Mixed","Stalker","Stealth","Sneak (wilderness)","master",4
-"Wilderness","Mixed","Stalker","Weapon","Bludgeoning Weapons","advanced",3
-"Wilderness","Mixed","Stalker","Weapon","Chopping Weapons","",0
-"Wilderness","Mixed","Stalker","Weapon","Piercing Weapons","advanced",3
-"Wilderness","Mixed","Stalker","Weapon","Slashing Weapons","",0
-"Wilderness","Light mercantile","Adventurer","Barter","Haggle","",0
-"Wilderness","Light mercantile","Adventurer","Barter","Value","",0
-"Wilderness","Light mercantile","Adventurer","Combat","Archery","advanced",3
-"Wilderness","Light mercantile","Adventurer","Combat","Backstab","",0
-"Wilderness","Light mercantile","Adventurer","Combat","Bash","",0
-"Wilderness","Light mercantile","Adventurer","Combat","Blind Fighting","",0
-"Wilderness","Light mercantile","Adventurer","Combat","Blowgun Use","",0
-"Wilderness","Light mercantile","Adventurer","Combat","Charge","",0
-"Wilderness","Light mercantile","Adventurer","Combat","Crossbow Use","advanced",3
-"Wilderness","Light mercantile","Adventurer","Combat","Disarm","",0
-"Wilderness","Light mercantile","Adventurer","Combat","Dual Wield","advanced",3
-"Wilderness","Light mercantile","Adventurer","Combat","Flee","journeyman",2
-"Wilderness","Light mercantile","Adventurer","Combat","Guarding","",0
-"Wilderness","Light mercantile","Adventurer","Combat","Hack","",0
-"Wilderness","Light mercantile","Adventurer","Combat","Kick","",0
-"Wilderness","Light mercantile","Adventurer","Combat","Parry","journeyman",2
-"Wilderness","Light mercantile","Adventurer","Combat","Rescue","advanced",3
-"Wilderness","Light mercantile","Adventurer","Combat","Riposte","",0
-"Wilderness","Light mercantile","Adventurer","Combat","Sap","",0
-"Wilderness","Light mercantile","Adventurer","Combat","Shield Use","journeyman",2
-"Wilderness","Light mercantile","Adventurer","Combat","Sling Use","",0
-"Wilderness","Light mercantile","Adventurer","Combat","Subdue","",0
-"Wilderness","Light mercantile","Adventurer","Combat","Threaten","",0
-"Wilderness","Light mercantile","Adventurer","Combat","Throw","",0
-"Wilderness","Light mercantile","Adventurer","Combat","Two Handed","advanced",3
-"Wilderness","Light mercantile","Adventurer","Craft","Armor Making","",0
-"Wilderness","Light mercantile","Adventurer","Craft","Armor Repair","master",4
-"Wilderness","Light mercantile","Adventurer","Craft","Axe Making","",0
-"Wilderness","Light mercantile","Adventurer","Craft","Bandage Making","master",4
-"Wilderness","Light mercantile","Adventurer","Craft","Basketweaving","",0
-"Wilderness","Light mercantile","Adventurer","Craft","Bow Making","master",4
-"Wilderness","Light mercantile","Adventurer","Craft","Brew","master",4
-"Wilderness","Light mercantile","Adventurer","Craft","Clayworking","",0
-"Wilderness","Light mercantile","Adventurer","Craft","Clothworking","",0
-"Wilderness","Light mercantile","Adventurer","Craft","Club Making","",0
-"Wilderness","Light mercantile","Adventurer","Craft","Cooking","master",4
-"Wilderness","Light mercantile","Adventurer","Craft","Dyeing","",0
-"Wilderness","Light mercantile","Adventurer","Craft","Feather Working","",0
-"Wilderness","Light mercantile","Adventurer","Craft","Fletchery","master",4
-"Wilderness","Light mercantile","Adventurer","Craft","Floristry","master",4
-"Wilderness","Light mercantile","Adventurer","Craft","Instrument Making","",0
-"Wilderness","Light mercantile","Adventurer","Craft","Jewelry Making","",0
-"Wilderness","Light mercantile","Adventurer","Craft","Knife Making","master",4
-"Wilderness","Light mercantile","Adventurer","Craft","Leatherworking","master",4
-"Wilderness","Light mercantile","Adventurer","Craft","Lumberjacking","master",4
-"Wilderness","Light mercantile","Adventurer","Craft","Pick Making","",0
-"Wilderness","Light mercantile","Adventurer","Craft","Spear Making","master",4
-"Wilderness","Light mercantile","Adventurer","Craft","Stonecrafting","",0
-"Wilderness","Light mercantile","Adventurer","Craft","Sword Making","",0
-"Wilderness","Light mercantile","Adventurer","Craft","Tanning","master",4
-"Wilderness","Light mercantile","Adventurer","Craft","Tent Making","master",4
-"Wilderness","Light mercantile","Adventurer","Craft","Tool Making","master",4
-"Wilderness","Light mercantile","Adventurer","Craft","Wagon Making","",0
-"Wilderness","Light mercantile","Adventurer","Craft","Woodworking","",0
-"Wilderness","Light mercantile","Adventurer","Language","Allundean","",0
-"Wilderness","Light mercantile","Adventurer","Language","Bendune","",0
-"Wilderness","Light mercantile","Adventurer","Language","Cavilish","",0
-"Wilderness","Light mercantile","Adventurer","Language","Mirukkium","",0
-"Wilderness","Light mercantile","Adventurer","Language","Tribal Accent","",0
-"Wilderness","Light mercantile","Adventurer","Manipulation","Bandage","advanced",3
-"Wilderness","Light mercantile","Adventurer","Manipulation","Pick","",0
-"Wilderness","Light mercantile","Adventurer","Manipulation","Pilot","master",4
-"Wilderness","Light mercantile","Adventurer","Manipulation","Poisoning","",0
-"Wilderness","Light mercantile","Adventurer","Manipulation","Ride","advanced",3
-"Wilderness","Light mercantile","Adventurer","Manipulation","Skinning","master",4
-"Wilderness","Light mercantile","Adventurer","Manipulation","Sleight of Hand","",0
-"Wilderness","Light mercantile","Adventurer","Manipulation","Steal","",0
-"Wilderness","Light mercantile","Adventurer","Perception","Direction Sense","advanced",3
-"Wilderness","Light mercantile","Adventurer","Perception","Forage","advanced",3
-"Wilderness","Light mercantile","Adventurer","Perception","Hunt (city)","",0
-"Wilderness","Light mercantile","Adventurer","Perception","Hunt (wilderness)","advanced",3
-"Wilderness","Light mercantile","Adventurer","Perception","Listen (city)","",0
-"Wilderness","Light mercantile","Adventurer","Perception","Listen (wilderness)","",0
-"Wilderness","Light mercantile","Adventurer","Perception","Peek","",0
-"Wilderness","Light mercantile","Adventurer","Perception","Scan","advanced",3
-"Wilderness","Light mercantile","Adventurer","Perception","Search","advanced",3
-"Wilderness","Light mercantile","Adventurer","Perception","Watch","",0
-"Wilderness","Light mercantile","Adventurer","Perk","Alcohol Tolerance Perk","",0
-"Wilderness","Light mercantile","Adventurer","Perk","Better Movement Regeneration","x",NA
-"Wilderness","Light mercantile","Adventurer","Perk","City Forage","",0
-"Wilderness","Light mercantile","Adventurer","Perk","City Hunt","",0
-"Wilderness","Light mercantile","Adventurer","Perk","City Stealth","",0
-"Wilderness","Light mercantile","Adventurer","Perk","Customcraft","",0
-"Wilderness","Light mercantile","Adventurer","Perk","Hitch 2 Mounts","x",NA
-"Wilderness","Light mercantile","Adventurer","Perk","Learn Languages Perk","",0
-"Wilderness","Light mercantile","Adventurer","Perk","Learn Ride Faster","",0
-"Wilderness","Light mercantile","Adventurer","Perk","Pain Tolerance Perk","",0
-"Wilderness","Light mercantile","Adventurer","Perk","Tame Mounts","x",NA
-"Wilderness","Light mercantile","Adventurer","Perk","Wilderness Forage","x",NA
-"Wilderness","Light mercantile","Adventurer","Perk","Wilderness Hunt","x",NA
-"Wilderness","Light mercantile","Adventurer","Perk","Wilderness Quit","x",NA
-"Wilderness","Light mercantile","Adventurer","Perk","Wilderness Stealth","x",NA
-"Wilderness","Light mercantile","Adventurer","Stealth","Climb","advanced",3
-"Wilderness","Light mercantile","Adventurer","Stealth","Hide (city)","",0
-"Wilderness","Light mercantile","Adventurer","Stealth","Hide (wilderness)","advanced",3
-"Wilderness","Light mercantile","Adventurer","Stealth","Sneak (city)","",0
-"Wilderness","Light mercantile","Adventurer","Stealth","Sneak (wilderness)","advanced",3
-"Wilderness","Light mercantile","Adventurer","Weapon","Bludgeoning Weapons","journeyman",2
-"Wilderness","Light mercantile","Adventurer","Weapon","Chopping Weapons","",0
-"Wilderness","Light mercantile","Adventurer","Weapon","Piercing Weapons","journeyman",2
-"Wilderness","Light mercantile","Adventurer","Weapon","Slashing Weapons","",0
-"Wilderness","Heavy mercantile","Dune.Trader","Barter","Haggle","master",4
-"Wilderness","Heavy mercantile","Dune.Trader","Barter","Value","master",4
-"Wilderness","Heavy mercantile","Dune.Trader","Combat","Archery","journeyman",2
-"Wilderness","Heavy mercantile","Dune.Trader","Combat","Backstab","",0
-"Wilderness","Heavy mercantile","Dune.Trader","Combat","Bash","",0
-"Wilderness","Heavy mercantile","Dune.Trader","Combat","Blind Fighting","",0
-"Wilderness","Heavy mercantile","Dune.Trader","Combat","Blowgun Use","",0
-"Wilderness","Heavy mercantile","Dune.Trader","Combat","Charge","",0
-"Wilderness","Heavy mercantile","Dune.Trader","Combat","Crossbow Use","journeyman",2
-"Wilderness","Heavy mercantile","Dune.Trader","Combat","Disarm","",0
-"Wilderness","Heavy mercantile","Dune.Trader","Combat","Dual Wield","journeyman",2
-"Wilderness","Heavy mercantile","Dune.Trader","Combat","Flee","",0
-"Wilderness","Heavy mercantile","Dune.Trader","Combat","Guarding","",0
-"Wilderness","Heavy mercantile","Dune.Trader","Combat","Hack","",0
-"Wilderness","Heavy mercantile","Dune.Trader","Combat","Kick","",0
-"Wilderness","Heavy mercantile","Dune.Trader","Combat","Parry","",0
-"Wilderness","Heavy mercantile","Dune.Trader","Combat","Rescue","",0
-"Wilderness","Heavy mercantile","Dune.Trader","Combat","Riposte","",0
-"Wilderness","Heavy mercantile","Dune.Trader","Combat","Sap","",0
-"Wilderness","Heavy mercantile","Dune.Trader","Combat","Shield Use","journeyman",2
-"Wilderness","Heavy mercantile","Dune.Trader","Combat","Sling Use","",0
-"Wilderness","Heavy mercantile","Dune.Trader","Combat","Subdue","",0
-"Wilderness","Heavy mercantile","Dune.Trader","Combat","Threaten","",0
-"Wilderness","Heavy mercantile","Dune.Trader","Combat","Throw","",0
-"Wilderness","Heavy mercantile","Dune.Trader","Combat","Two Handed","journeyman",2
-"Wilderness","Heavy mercantile","Dune.Trader","Craft","Armor Making","master",4
-"Wilderness","Heavy mercantile","Dune.Trader","Craft","Armor Repair","master",4
-"Wilderness","Heavy mercantile","Dune.Trader","Craft","Axe Making","master",4
-"Wilderness","Heavy mercantile","Dune.Trader","Craft","Bandage Making","master",4
-"Wilderness","Heavy mercantile","Dune.Trader","Craft","Basketweaving","master",4
-"Wilderness","Heavy mercantile","Dune.Trader","Craft","Bow Making","master",4
-"Wilderness","Heavy mercantile","Dune.Trader","Craft","Brew","master",4
-"Wilderness","Heavy mercantile","Dune.Trader","Craft","Clayworking","",0
-"Wilderness","Heavy mercantile","Dune.Trader","Craft","Clothworking","master",4
-"Wilderness","Heavy mercantile","Dune.Trader","Craft","Club Making","master",4
-"Wilderness","Heavy mercantile","Dune.Trader","Craft","Cooking","master",4
-"Wilderness","Heavy mercantile","Dune.Trader","Craft","Dyeing","master",4
-"Wilderness","Heavy mercantile","Dune.Trader","Craft","Feather Working","master",4
-"Wilderness","Heavy mercantile","Dune.Trader","Craft","Fletchery","master",4
-"Wilderness","Heavy mercantile","Dune.Trader","Craft","Floristry","master",4
-"Wilderness","Heavy mercantile","Dune.Trader","Craft","Instrument Making","master",4
-"Wilderness","Heavy mercantile","Dune.Trader","Craft","Jewelry Making","master",4
-"Wilderness","Heavy mercantile","Dune.Trader","Craft","Knife Making","master",4
-"Wilderness","Heavy mercantile","Dune.Trader","Craft","Leatherworking","master",4
-"Wilderness","Heavy mercantile","Dune.Trader","Craft","Lumberjacking","master",4
-"Wilderness","Heavy mercantile","Dune.Trader","Craft","Pick Making","",0
-"Wilderness","Heavy mercantile","Dune.Trader","Craft","Spear Making","master",4
-"Wilderness","Heavy mercantile","Dune.Trader","Craft","Stonecrafting","master",4
-"Wilderness","Heavy mercantile","Dune.Trader","Craft","Sword Making","",0
-"Wilderness","Heavy mercantile","Dune.Trader","Craft","Tanning","master",4
-"Wilderness","Heavy mercantile","Dune.Trader","Craft","Tent Making","master",4
-"Wilderness","Heavy mercantile","Dune.Trader","Craft","Tool Making","master",4
-"Wilderness","Heavy mercantile","Dune.Trader","Craft","Wagon Making","",0
-"Wilderness","Heavy mercantile","Dune.Trader","Craft","Woodworking","master",4
-"Wilderness","Heavy mercantile","Dune.Trader","Language","Allundean","",0
-"Wilderness","Heavy mercantile","Dune.Trader","Language","Bendune","master",4
-"Wilderness","Heavy mercantile","Dune.Trader","Language","Cavilish","",0
-"Wilderness","Heavy mercantile","Dune.Trader","Language","Mirukkium","",0
-"Wilderness","Heavy mercantile","Dune.Trader","Language","Tribal Accent","",0
-"Wilderness","Heavy mercantile","Dune.Trader","Manipulation","Bandage","",0
-"Wilderness","Heavy mercantile","Dune.Trader","Manipulation","Pick","",0
-"Wilderness","Heavy mercantile","Dune.Trader","Manipulation","Pilot","master",4
-"Wilderness","Heavy mercantile","Dune.Trader","Manipulation","Poisoning","",0
-"Wilderness","Heavy mercantile","Dune.Trader","Manipulation","Ride","advanced",3
-"Wilderness","Heavy mercantile","Dune.Trader","Manipulation","Skinning","advanced",3
-"Wilderness","Heavy mercantile","Dune.Trader","Manipulation","Sleight of Hand","",0
-"Wilderness","Heavy mercantile","Dune.Trader","Manipulation","Steal","",0
-"Wilderness","Heavy mercantile","Dune.Trader","Perception","Direction Sense","advanced",3
-"Wilderness","Heavy mercantile","Dune.Trader","Perception","Forage","journeyman",2
-"Wilderness","Heavy mercantile","Dune.Trader","Perception","Hunt (city)","",0
-"Wilderness","Heavy mercantile","Dune.Trader","Perception","Hunt (wilderness)","",0
-"Wilderness","Heavy mercantile","Dune.Trader","Perception","Listen (city)","",0
-"Wilderness","Heavy mercantile","Dune.Trader","Perception","Listen (wilderness)","advanced",3
-"Wilderness","Heavy mercantile","Dune.Trader","Perception","Peek","",0
-"Wilderness","Heavy mercantile","Dune.Trader","Perception","Scan","advanced",3
-"Wilderness","Heavy mercantile","Dune.Trader","Perception","Search","",0
-"Wilderness","Heavy mercantile","Dune.Trader","Perception","Watch","",0
-"Wilderness","Heavy mercantile","Dune.Trader","Perk","Alcohol Tolerance Perk","",0
-"Wilderness","Heavy mercantile","Dune.Trader","Perk","Better Movement Regeneration","",0
-"Wilderness","Heavy mercantile","Dune.Trader","Perk","City Forage","x",NA
-"Wilderness","Heavy mercantile","Dune.Trader","Perk","City Hunt","",0
-"Wilderness","Heavy mercantile","Dune.Trader","Perk","City Stealth","x",NA
-"Wilderness","Heavy mercantile","Dune.Trader","Perk","Customcraft","x",NA
-"Wilderness","Heavy mercantile","Dune.Trader","Perk","Hitch 2 Mounts","",0
-"Wilderness","Heavy mercantile","Dune.Trader","Perk","Learn Languages Perk","",0
-"Wilderness","Heavy mercantile","Dune.Trader","Perk","Learn Ride Faster","",0
-"Wilderness","Heavy mercantile","Dune.Trader","Perk","Pain Tolerance Perk","",0
-"Wilderness","Heavy mercantile","Dune.Trader","Perk","Tame Mounts","",0
-"Wilderness","Heavy mercantile","Dune.Trader","Perk","Wilderness Forage","",0
-"Wilderness","Heavy mercantile","Dune.Trader","Perk","Wilderness Hunt","",0
-"Wilderness","Heavy mercantile","Dune.Trader","Perk","Wilderness Quit","",0
-"Wilderness","Heavy mercantile","Dune.Trader","Perk","Wilderness Stealth","",0
-"Wilderness","Heavy mercantile","Dune.Trader","Stealth","Climb","",0
-"Wilderness","Heavy mercantile","Dune.Trader","Stealth","Hide (city)","",0
-"Wilderness","Heavy mercantile","Dune.Trader","Stealth","Hide (wilderness)","",0
-"Wilderness","Heavy mercantile","Dune.Trader","Stealth","Sneak (city)","",0
-"Wilderness","Heavy mercantile","Dune.Trader","Stealth","Sneak (wilderness)","",0
-"Wilderness","Heavy mercantile","Dune.Trader","Weapon","Bludgeoning Weapons","",0
-"Wilderness","Heavy mercantile","Dune.Trader","Weapon","Chopping Weapons","",0
-"Wilderness","Heavy mercantile","Dune.Trader","Weapon","Piercing Weapons","journeyman",2
-"Wilderness","Heavy mercantile","Dune.Trader","Weapon","Slashing Weapons","",0
+advantage,competency,class,skill_group,skill,skill_level,skill_number,branches_from
+City,Heavy combat,Fighter,Barter,Haggle,,0,
+City,Heavy combat,Fighter,Barter,Value,,0,
+City,Heavy combat,Fighter,Combat,Archery,master,4,
+City,Heavy combat,Fighter,Combat,Backstab,,0,
+City,Heavy combat,Fighter,Combat,Bash,master,4,
+City,Heavy combat,Fighter,Combat,Blind Fighting,master,4,
+City,Heavy combat,Fighter,Combat,Blowgun Use,,0,
+City,Heavy combat,Fighter,Combat,Charge,,0,
+City,Heavy combat,Fighter,Combat,Crossbow Use,master,4,
+City,Heavy combat,Fighter,Combat,Disarm,master,4,
+City,Heavy combat,Fighter,Combat,Dual Wield,master,4,
+City,Heavy combat,Fighter,Combat,Flee,master,4,
+City,Heavy combat,Fighter,Combat,Guarding,master,4,
+City,Heavy combat,Fighter,Combat,Hack,master,4,
+City,Heavy combat,Fighter,Combat,Kick,master,4,
+City,Heavy combat,Fighter,Combat,Parry,master,4,
+City,Heavy combat,Fighter,Combat,Rescue,master,4,
+City,Heavy combat,Fighter,Combat,Riposte,master,4,
+City,Heavy combat,Fighter,Combat,Sap,,0,
+City,Heavy combat,Fighter,Combat,Shield Use,master,4,
+City,Heavy combat,Fighter,Combat,Sling Use,master,4,
+City,Heavy combat,Fighter,Combat,Subdue,advanced,3,
+City,Heavy combat,Fighter,Combat,Threaten,master,4,
+City,Heavy combat,Fighter,Combat,Throw,master,4,
+City,Heavy combat,Fighter,Combat,Two Handed,master,4,
+City,Heavy combat,Fighter,Craft,Armor Making,,0,
+City,Heavy combat,Fighter,Craft,Armor Repair,advanced,3,
+City,Heavy combat,Fighter,Craft,Axe Making,,0,
+City,Heavy combat,Fighter,Craft,Bandage Making,,0,
+City,Heavy combat,Fighter,Craft,Basketweaving,,0,
+City,Heavy combat,Fighter,Craft,Bow Making,,0,
+City,Heavy combat,Fighter,Craft,Brew,,0,
+City,Heavy combat,Fighter,Craft,Clayworking,,0,
+City,Heavy combat,Fighter,Craft,Clothworking,,0,
+City,Heavy combat,Fighter,Craft,Club Making,,0,
+City,Heavy combat,Fighter,Craft,Cooking,journeyman,2,
+City,Heavy combat,Fighter,Craft,Dyeing,,0,
+City,Heavy combat,Fighter,Craft,Feather Working,,0,
+City,Heavy combat,Fighter,Craft,Fletchery,,0,
+City,Heavy combat,Fighter,Craft,Floristry,,0,
+City,Heavy combat,Fighter,Craft,Instrument Making,,0,
+City,Heavy combat,Fighter,Craft,Jewelry Making,,0,
+City,Heavy combat,Fighter,Craft,Knife Making,,0,
+City,Heavy combat,Fighter,Craft,Leatherworking,,0,
+City,Heavy combat,Fighter,Craft,Lumberjacking,,0,
+City,Heavy combat,Fighter,Craft,Pick Making,,0,
+City,Heavy combat,Fighter,Craft,Spear Making,,0,
+City,Heavy combat,Fighter,Craft,Stonecrafting,,0,
+City,Heavy combat,Fighter,Craft,Sword Making,,0,
+City,Heavy combat,Fighter,Craft,Tanning,,0,
+City,Heavy combat,Fighter,Craft,Tent Making,,0,
+City,Heavy combat,Fighter,Craft,Tool Making,,0,
+City,Heavy combat,Fighter,Craft,Wagon Making,,0,
+City,Heavy combat,Fighter,Craft,Woodworking,,0,
+City,Heavy combat,Fighter,Language,Allundean,,0,
+City,Heavy combat,Fighter,Language,Bendune,,0,
+City,Heavy combat,Fighter,Language,Cavilish,,0,
+City,Heavy combat,Fighter,Language,Mirukkium,,0,
+City,Heavy combat,Fighter,Language,Tribal Accent,,0,
+City,Heavy combat,Fighter,Manipulation,Bandage,advanced,3,
+City,Heavy combat,Fighter,Manipulation,Pick,,0,
+City,Heavy combat,Fighter,Manipulation,Pilot,,0,
+City,Heavy combat,Fighter,Manipulation,Poisoning,,0,
+City,Heavy combat,Fighter,Manipulation,Ride,,0,
+City,Heavy combat,Fighter,Manipulation,Skinning,,0,
+City,Heavy combat,Fighter,Manipulation,Sleight of Hand,,0,
+City,Heavy combat,Fighter,Manipulation,Steal,,0,
+City,Heavy combat,Fighter,Perception,Direction Sense,,0,
+City,Heavy combat,Fighter,Perception,Forage,journeyman,2,
+City,Heavy combat,Fighter,Perception,Hunt (city),,0,
+City,Heavy combat,Fighter,Perception,Hunt (wilderness),,0,
+City,Heavy combat,Fighter,Perception,Listen (city),advanced,3,
+City,Heavy combat,Fighter,Perception,Listen (wilderness),,0,
+City,Heavy combat,Fighter,Perception,Peek,,0,
+City,Heavy combat,Fighter,Perception,Scan,,0,
+City,Heavy combat,Fighter,Perception,Search,,0,
+City,Heavy combat,Fighter,Perception,Watch,journeyman,2,
+City,Heavy combat,Fighter,Perk,Alcohol Tolerance Perk,,0,
+City,Heavy combat,Fighter,Perk,Better Movement Regeneration,,0,
+City,Heavy combat,Fighter,Perk,City Forage,,0,
+City,Heavy combat,Fighter,Perk,City Hunt,,0,
+City,Heavy combat,Fighter,Perk,City Stealth,,0,
+City,Heavy combat,Fighter,Perk,Customcraft,,0,
+City,Heavy combat,Fighter,Perk,Hitch 2 Mounts,,0,
+City,Heavy combat,Fighter,Perk,Learn Languages Perk,,0,
+City,Heavy combat,Fighter,Perk,Learn Ride Faster,,0,
+City,Heavy combat,Fighter,Perk,Pain Tolerance Perk,x,1,
+City,Heavy combat,Fighter,Perk,Tame Mounts,,0,
+City,Heavy combat,Fighter,Perk,Wilderness Forage,,0,
+City,Heavy combat,Fighter,Perk,Wilderness Hunt,,0,
+City,Heavy combat,Fighter,Perk,Wilderness Quit,,0,
+City,Heavy combat,Fighter,Perk,Wilderness Stealth,,0,
+City,Heavy combat,Fighter,Stealth,Climb,,0,
+City,Heavy combat,Fighter,Stealth,Hide (city),,0,
+City,Heavy combat,Fighter,Stealth,Hide (wilderness),,0,
+City,Heavy combat,Fighter,Stealth,Sneak (city),,0,
+City,Heavy combat,Fighter,Stealth,Sneak (wilderness),,0,
+City,Heavy combat,Fighter,Weapon,Bludgeoning Weapons,master,4,
+City,Heavy combat,Fighter,Weapon,Chopping Weapons,master,4,
+City,Heavy combat,Fighter,Weapon,Piercing Weapons,master,4,
+City,Heavy combat,Fighter,Weapon,Slashing Weapons,master,4,
+City,Light combat,Soldier,Barter,Haggle,,0,
+City,Light combat,Soldier,Barter,Value,,0,
+City,Light combat,Soldier,Combat,Archery,master,4,
+City,Light combat,Soldier,Combat,Backstab,,0,
+City,Light combat,Soldier,Combat,Bash,advanced,3,
+City,Light combat,Soldier,Combat,Blind Fighting,,0,
+City,Light combat,Soldier,Combat,Blowgun Use,,0,
+City,Light combat,Soldier,Combat,Charge,,0,
+City,Light combat,Soldier,Combat,Crossbow Use,master,4,
+City,Light combat,Soldier,Combat,Disarm,advanced,3,
+City,Light combat,Soldier,Combat,Dual Wield,master,4,
+City,Light combat,Soldier,Combat,Flee,advanced,3,
+City,Light combat,Soldier,Combat,Guarding,master,4,
+City,Light combat,Soldier,Combat,Hack,master,4,
+City,Light combat,Soldier,Combat,Kick,advanced,3,
+City,Light combat,Soldier,Combat,Parry,advanced,3,
+City,Light combat,Soldier,Combat,Rescue,master,4,
+City,Light combat,Soldier,Combat,Riposte,master,4,
+City,Light combat,Soldier,Combat,Sap,,0,
+City,Light combat,Soldier,Combat,Shield Use,advanced,3,
+City,Light combat,Soldier,Combat,Sling Use,master,4,
+City,Light combat,Soldier,Combat,Subdue,master,4,
+City,Light combat,Soldier,Combat,Threaten,,0,
+City,Light combat,Soldier,Combat,Throw,,0,
+City,Light combat,Soldier,Combat,Two Handed,master,4,
+City,Light combat,Soldier,Craft,Armor Making,,0,
+City,Light combat,Soldier,Craft,Armor Repair,advanced,3,
+City,Light combat,Soldier,Craft,Axe Making,advanced,3,
+City,Light combat,Soldier,Craft,Bandage Making,advanced,3,
+City,Light combat,Soldier,Craft,Basketweaving,,0,
+City,Light combat,Soldier,Craft,Bow Making,,0,
+City,Light combat,Soldier,Craft,Brew,,0,
+City,Light combat,Soldier,Craft,Clayworking,,0,
+City,Light combat,Soldier,Craft,Clothworking,,0,
+City,Light combat,Soldier,Craft,Club Making,advanced,3,
+City,Light combat,Soldier,Craft,Cooking,advanced,3,
+City,Light combat,Soldier,Craft,Dyeing,,0,
+City,Light combat,Soldier,Craft,Feather Working,,0,
+City,Light combat,Soldier,Craft,Fletchery,advanced,3,
+City,Light combat,Soldier,Craft,Floristry,,0,
+City,Light combat,Soldier,Craft,Instrument Making,,0,
+City,Light combat,Soldier,Craft,Jewelry Making,,0,
+City,Light combat,Soldier,Craft,Knife Making,advanced,3,
+City,Light combat,Soldier,Craft,Leatherworking,,0,
+City,Light combat,Soldier,Craft,Lumberjacking,,0,
+City,Light combat,Soldier,Craft,Pick Making,,0,
+City,Light combat,Soldier,Craft,Spear Making,advanced,3,
+City,Light combat,Soldier,Craft,Stonecrafting,,0,
+City,Light combat,Soldier,Craft,Sword Making,advanced,3,
+City,Light combat,Soldier,Craft,Tanning,,0,
+City,Light combat,Soldier,Craft,Tent Making,,0,
+City,Light combat,Soldier,Craft,Tool Making,,0,
+City,Light combat,Soldier,Craft,Wagon Making,,0,
+City,Light combat,Soldier,Craft,Woodworking,,0,
+City,Light combat,Soldier,Language,Allundean,,0,
+City,Light combat,Soldier,Language,Bendune,,0,
+City,Light combat,Soldier,Language,Cavilish,,0,
+City,Light combat,Soldier,Language,Mirukkium,,0,
+City,Light combat,Soldier,Language,Tribal Accent,,0,
+City,Light combat,Soldier,Manipulation,Bandage,advanced,3,
+City,Light combat,Soldier,Manipulation,Pick,,0,
+City,Light combat,Soldier,Manipulation,Pilot,,0,
+City,Light combat,Soldier,Manipulation,Poisoning,,0,
+City,Light combat,Soldier,Manipulation,Ride,,0,
+City,Light combat,Soldier,Manipulation,Skinning,,0,
+City,Light combat,Soldier,Manipulation,Sleight of Hand,,0,
+City,Light combat,Soldier,Manipulation,Steal,,0,
+City,Light combat,Soldier,Perception,Direction Sense,,0,
+City,Light combat,Soldier,Perception,Forage,advanced,3,
+City,Light combat,Soldier,Perception,Hunt (city),,0,
+City,Light combat,Soldier,Perception,Hunt (wilderness),,0,
+City,Light combat,Soldier,Perception,Listen (city),advanced,3,
+City,Light combat,Soldier,Perception,Listen (wilderness),,0,
+City,Light combat,Soldier,Perception,Peek,,0,
+City,Light combat,Soldier,Perception,Scan,master,4,
+City,Light combat,Soldier,Perception,Search,,0,
+City,Light combat,Soldier,Perception,Watch,advanced,3,
+City,Light combat,Soldier,Perk,Alcohol Tolerance Perk,,0,
+City,Light combat,Soldier,Perk,Better Movement Regeneration,,0,
+City,Light combat,Soldier,Perk,City Forage,,0,
+City,Light combat,Soldier,Perk,City Hunt,,0,
+City,Light combat,Soldier,Perk,City Stealth,,0,
+City,Light combat,Soldier,Perk,Customcraft,,0,
+City,Light combat,Soldier,Perk,Hitch 2 Mounts,,0,
+City,Light combat,Soldier,Perk,Learn Languages Perk,,0,
+City,Light combat,Soldier,Perk,Learn Ride Faster,,0,
+City,Light combat,Soldier,Perk,Pain Tolerance Perk,x,1,
+City,Light combat,Soldier,Perk,Tame Mounts,,0,
+City,Light combat,Soldier,Perk,Wilderness Forage,,0,
+City,Light combat,Soldier,Perk,Wilderness Hunt,,0,
+City,Light combat,Soldier,Perk,Wilderness Quit,,0,
+City,Light combat,Soldier,Perk,Wilderness Stealth,,0,
+City,Light combat,Soldier,Stealth,Climb,,0,
+City,Light combat,Soldier,Stealth,Hide (city),,0,
+City,Light combat,Soldier,Stealth,Hide (wilderness),,0,
+City,Light combat,Soldier,Stealth,Sneak (city),,0,
+City,Light combat,Soldier,Stealth,Sneak (wilderness),,0,
+City,Light combat,Soldier,Weapon,Bludgeoning Weapons,advanced,3,
+City,Light combat,Soldier,Weapon,Chopping Weapons,advanced,3,
+City,Light combat,Soldier,Weapon,Piercing Weapons,advanced,3,
+City,Light combat,Soldier,Weapon,Slashing Weapons,advanced,3,
+City,Mixed,Labourer,Barter,Haggle,,0,
+City,Mixed,Labourer,Barter,Value,,0,
+City,Mixed,Labourer,Combat,Archery,,0,
+City,Mixed,Labourer,Combat,Backstab,,0,
+City,Mixed,Labourer,Combat,Bash,advanced,3,
+City,Mixed,Labourer,Combat,Blind Fighting,,0,
+City,Mixed,Labourer,Combat,Blowgun Use,,0,
+City,Mixed,Labourer,Combat,Charge,,0,
+City,Mixed,Labourer,Combat,Crossbow Use,advanced,3,
+City,Mixed,Labourer,Combat,Disarm,advanced,3,
+City,Mixed,Labourer,Combat,Dual Wield,advanced,3,
+City,Mixed,Labourer,Combat,Flee,advanced,3,
+City,Mixed,Labourer,Combat,Guarding,advanced,3,
+City,Mixed,Labourer,Combat,Hack,advanced,3,
+City,Mixed,Labourer,Combat,Kick,advanced,3,
+City,Mixed,Labourer,Combat,Parry,advanced,3,
+City,Mixed,Labourer,Combat,Rescue,advanced,3,
+City,Mixed,Labourer,Combat,Riposte,,0,
+City,Mixed,Labourer,Combat,Sap,,0,
+City,Mixed,Labourer,Combat,Shield Use,advanced,3,
+City,Mixed,Labourer,Combat,Sling Use,advanced,3,
+City,Mixed,Labourer,Combat,Subdue,apprentice,1,
+City,Mixed,Labourer,Combat,Threaten,,0,
+City,Mixed,Labourer,Combat,Throw,,0,
+City,Mixed,Labourer,Combat,Two Handed,advanced,3,
+City,Mixed,Labourer,Craft,Armor Making,,0,
+City,Mixed,Labourer,Craft,Armor Repair,advanced,3,
+City,Mixed,Labourer,Craft,Axe Making,advanced,3,
+City,Mixed,Labourer,Craft,Bandage Making,advanced,3,
+City,Mixed,Labourer,Craft,Basketweaving,advanced,3,
+City,Mixed,Labourer,Craft,Bow Making,,0,
+City,Mixed,Labourer,Craft,Brew,,0,
+City,Mixed,Labourer,Craft,Clayworking,advanced,3,
+City,Mixed,Labourer,Craft,Clothworking,advanced,3,
+City,Mixed,Labourer,Craft,Club Making,,0,
+City,Mixed,Labourer,Craft,Cooking,advanced,3,
+City,Mixed,Labourer,Craft,Dyeing,,0,
+City,Mixed,Labourer,Craft,Feather Working,,0,
+City,Mixed,Labourer,Craft,Fletchery,advanced,3,
+City,Mixed,Labourer,Craft,Floristry,,0,
+City,Mixed,Labourer,Craft,Instrument Making,,0,
+City,Mixed,Labourer,Craft,Jewelry Making,,0,
+City,Mixed,Labourer,Craft,Knife Making,advanced,3,
+City,Mixed,Labourer,Craft,Leatherworking,,0,
+City,Mixed,Labourer,Craft,Lumberjacking,advanced,3,
+City,Mixed,Labourer,Craft,Pick Making,,0,
+City,Mixed,Labourer,Craft,Spear Making,,0,
+City,Mixed,Labourer,Craft,Stonecrafting,advanced,3,
+City,Mixed,Labourer,Craft,Sword Making,advanced,3,
+City,Mixed,Labourer,Craft,Tanning,advanced,3,
+City,Mixed,Labourer,Craft,Tent Making,,0,
+City,Mixed,Labourer,Craft,Tool Making,advanced,3,
+City,Mixed,Labourer,Craft,Wagon Making,,0,
+City,Mixed,Labourer,Craft,Woodworking,,0,
+City,Mixed,Labourer,Language,Allundean,,0,
+City,Mixed,Labourer,Language,Bendune,,0,
+City,Mixed,Labourer,Language,Cavilish,,0,
+City,Mixed,Labourer,Language,Mirukkium,,0,
+City,Mixed,Labourer,Language,Tribal Accent,,0,
+City,Mixed,Labourer,Manipulation,Bandage,,0,
+City,Mixed,Labourer,Manipulation,Pick,,0,
+City,Mixed,Labourer,Manipulation,Pilot,,0,
+City,Mixed,Labourer,Manipulation,Poisoning,,0,
+City,Mixed,Labourer,Manipulation,Ride,,0,
+City,Mixed,Labourer,Manipulation,Skinning,,0,
+City,Mixed,Labourer,Manipulation,Sleight of Hand,,0,
+City,Mixed,Labourer,Manipulation,Steal,,0,
+City,Mixed,Labourer,Perception,Direction Sense,,0,
+City,Mixed,Labourer,Perception,Forage,master,4,
+City,Mixed,Labourer,Perception,Hunt (city),,0,
+City,Mixed,Labourer,Perception,Hunt (wilderness),,0,
+City,Mixed,Labourer,Perception,Listen (city),master,4,
+City,Mixed,Labourer,Perception,Listen (wilderness),,0,
+City,Mixed,Labourer,Perception,Peek,,0,
+City,Mixed,Labourer,Perception,Scan,master,4,
+City,Mixed,Labourer,Perception,Search,,0,
+City,Mixed,Labourer,Perception,Watch,master,4,
+City,Mixed,Labourer,Perk,Alcohol Tolerance Perk,,0,
+City,Mixed,Labourer,Perk,Better Movement Regeneration,,0,
+City,Mixed,Labourer,Perk,City Forage,,0,
+City,Mixed,Labourer,Perk,City Hunt,,0,
+City,Mixed,Labourer,Perk,City Stealth,,0,
+City,Mixed,Labourer,Perk,Customcraft,,0,
+City,Mixed,Labourer,Perk,Hitch 2 Mounts,,0,
+City,Mixed,Labourer,Perk,Learn Languages Perk,,0,
+City,Mixed,Labourer,Perk,Learn Ride Faster,,0,
+City,Mixed,Labourer,Perk,Pain Tolerance Perk,x,1,
+City,Mixed,Labourer,Perk,Tame Mounts,,0,
+City,Mixed,Labourer,Perk,Wilderness Forage,,0,
+City,Mixed,Labourer,Perk,Wilderness Hunt,,0,
+City,Mixed,Labourer,Perk,Wilderness Quit,,0,
+City,Mixed,Labourer,Perk,Wilderness Stealth,,0,
+City,Mixed,Labourer,Stealth,Climb,,0,
+City,Mixed,Labourer,Stealth,Hide (city),,0,
+City,Mixed,Labourer,Stealth,Hide (wilderness),,0,
+City,Mixed,Labourer,Stealth,Sneak (city),,0,
+City,Mixed,Labourer,Stealth,Sneak (wilderness),,0,
+City,Mixed,Labourer,Weapon,Bludgeoning Weapons,advanced,3,
+City,Mixed,Labourer,Weapon,Chopping Weapons,advanced,3,
+City,Mixed,Labourer,Weapon,Piercing Weapons,advanced,3,
+City,Mixed,Labourer,Weapon,Slashing Weapons,advanced,3,
+City,Light mercantile,Craftsperson,Barter,Haggle,master,4,
+City,Light mercantile,Craftsperson,Barter,Value,master,4,
+City,Light mercantile,Craftsperson,Combat,Archery,,0,
+City,Light mercantile,Craftsperson,Combat,Backstab,,0,
+City,Light mercantile,Craftsperson,Combat,Bash,,0,
+City,Light mercantile,Craftsperson,Combat,Blind Fighting,,0,
+City,Light mercantile,Craftsperson,Combat,Blowgun Use,,0,
+City,Light mercantile,Craftsperson,Combat,Charge,,0,
+City,Light mercantile,Craftsperson,Combat,Crossbow Use,advanced,3,
+City,Light mercantile,Craftsperson,Combat,Disarm,,0,
+City,Light mercantile,Craftsperson,Combat,Dual Wield,advanced,3,
+City,Light mercantile,Craftsperson,Combat,Flee,journeyman,2,
+City,Light mercantile,Craftsperson,Combat,Guarding,,0,
+City,Light mercantile,Craftsperson,Combat,Hack,,0,
+City,Light mercantile,Craftsperson,Combat,Kick,journeyman,2,
+City,Light mercantile,Craftsperson,Combat,Parry,,0,
+City,Light mercantile,Craftsperson,Combat,Rescue,,0,
+City,Light mercantile,Craftsperson,Combat,Riposte,,0,
+City,Light mercantile,Craftsperson,Combat,Sap,,0,
+City,Light mercantile,Craftsperson,Combat,Shield Use,journeyman,2,
+City,Light mercantile,Craftsperson,Combat,Sling Use,advanced,3,
+City,Light mercantile,Craftsperson,Combat,Subdue,,0,
+City,Light mercantile,Craftsperson,Combat,Threaten,,0,
+City,Light mercantile,Craftsperson,Combat,Throw,,0,
+City,Light mercantile,Craftsperson,Combat,Two Handed,advanced,3,
+City,Light mercantile,Craftsperson,Craft,Armor Making,master,4,
+City,Light mercantile,Craftsperson,Craft,Armor Repair,master,4,
+City,Light mercantile,Craftsperson,Craft,Axe Making,master,4,
+City,Light mercantile,Craftsperson,Craft,Bandage Making,master,4,
+City,Light mercantile,Craftsperson,Craft,Basketweaving,master,4,
+City,Light mercantile,Craftsperson,Craft,Bow Making,,0,
+City,Light mercantile,Craftsperson,Craft,Brew,,0,
+City,Light mercantile,Craftsperson,Craft,Clayworking,master,4,
+City,Light mercantile,Craftsperson,Craft,Clothworking,master,4,
+City,Light mercantile,Craftsperson,Craft,Club Making,master,4,
+City,Light mercantile,Craftsperson,Craft,Cooking,master,4,
+City,Light mercantile,Craftsperson,Craft,Dyeing,master,4,
+City,Light mercantile,Craftsperson,Craft,Feather Working,,0,
+City,Light mercantile,Craftsperson,Craft,Fletchery,master,4,
+City,Light mercantile,Craftsperson,Craft,Floristry,,0,
+City,Light mercantile,Craftsperson,Craft,Instrument Making,,0,
+City,Light mercantile,Craftsperson,Craft,Jewelry Making,master,4,
+City,Light mercantile,Craftsperson,Craft,Knife Making,master,4,
+City,Light mercantile,Craftsperson,Craft,Leatherworking,master,4,
+City,Light mercantile,Craftsperson,Craft,Lumberjacking,master,4,
+City,Light mercantile,Craftsperson,Craft,Pick Making,,0,
+City,Light mercantile,Craftsperson,Craft,Spear Making,master,4,
+City,Light mercantile,Craftsperson,Craft,Stonecrafting,master,4,
+City,Light mercantile,Craftsperson,Craft,Sword Making,master,4,
+City,Light mercantile,Craftsperson,Craft,Tanning,master,4,
+City,Light mercantile,Craftsperson,Craft,Tent Making,master,4,
+City,Light mercantile,Craftsperson,Craft,Tool Making,master,4,
+City,Light mercantile,Craftsperson,Craft,Wagon Making,,0,
+City,Light mercantile,Craftsperson,Craft,Woodworking,master,4,
+City,Light mercantile,Craftsperson,Language,Allundean,,0,
+City,Light mercantile,Craftsperson,Language,Bendune,,0,
+City,Light mercantile,Craftsperson,Language,Cavilish,,0,
+City,Light mercantile,Craftsperson,Language,Mirukkium,,0,
+City,Light mercantile,Craftsperson,Language,Tribal Accent,,0,
+City,Light mercantile,Craftsperson,Manipulation,Bandage,advanced,3,
+City,Light mercantile,Craftsperson,Manipulation,Pick,,0,
+City,Light mercantile,Craftsperson,Manipulation,Pilot,master,4,
+City,Light mercantile,Craftsperson,Manipulation,Poisoning,,0,
+City,Light mercantile,Craftsperson,Manipulation,Ride,,0,
+City,Light mercantile,Craftsperson,Manipulation,Skinning,,0,
+City,Light mercantile,Craftsperson,Manipulation,Sleight of Hand,,0,
+City,Light mercantile,Craftsperson,Manipulation,Steal,,0,
+City,Light mercantile,Craftsperson,Perception,Direction Sense,,0,
+City,Light mercantile,Craftsperson,Perception,Forage,,0,
+City,Light mercantile,Craftsperson,Perception,Hunt (city),,0,
+City,Light mercantile,Craftsperson,Perception,Hunt (wilderness),,0,
+City,Light mercantile,Craftsperson,Perception,Listen (city),advanced,3,
+City,Light mercantile,Craftsperson,Perception,Listen (wilderness),,0,
+City,Light mercantile,Craftsperson,Perception,Peek,,0,
+City,Light mercantile,Craftsperson,Perception,Scan,,0,
+City,Light mercantile,Craftsperson,Perception,Search,,0,
+City,Light mercantile,Craftsperson,Perception,Watch,advanced,3,
+City,Light mercantile,Craftsperson,Perk,Alcohol Tolerance Perk,,0,
+City,Light mercantile,Craftsperson,Perk,Better Movement Regeneration,,0,
+City,Light mercantile,Craftsperson,Perk,City Forage,,0,
+City,Light mercantile,Craftsperson,Perk,City Hunt,,0,
+City,Light mercantile,Craftsperson,Perk,City Stealth,,0,
+City,Light mercantile,Craftsperson,Perk,Customcraft,,0,
+City,Light mercantile,Craftsperson,Perk,Hitch 2 Mounts,,0,
+City,Light mercantile,Craftsperson,Perk,Learn Languages Perk,,0,
+City,Light mercantile,Craftsperson,Perk,Learn Ride Faster,,0,
+City,Light mercantile,Craftsperson,Perk,Pain Tolerance Perk,,0,
+City,Light mercantile,Craftsperson,Perk,Tame Mounts,,0,
+City,Light mercantile,Craftsperson,Perk,Wilderness Forage,,0,
+City,Light mercantile,Craftsperson,Perk,Wilderness Hunt,,0,
+City,Light mercantile,Craftsperson,Perk,Wilderness Quit,,0,
+City,Light mercantile,Craftsperson,Perk,Wilderness Stealth,,0,
+City,Light mercantile,Craftsperson,Stealth,Climb,,0,
+City,Light mercantile,Craftsperson,Stealth,Hide (city),,0,
+City,Light mercantile,Craftsperson,Stealth,Hide (wilderness),,0,
+City,Light mercantile,Craftsperson,Stealth,Sneak (city),,0,
+City,Light mercantile,Craftsperson,Stealth,Sneak (wilderness),,0,
+City,Light mercantile,Craftsperson,Weapon,Bludgeoning Weapons,journeyman,2,
+City,Light mercantile,Craftsperson,Weapon,Chopping Weapons,journeyman,2,
+City,Light mercantile,Craftsperson,Weapon,Piercing Weapons,journeyman,2,
+City,Light mercantile,Craftsperson,Weapon,Slashing Weapons,journeyman,2,
+City,Heavy mercantile,Artisan,Barter,Haggle,master,4,
+City,Heavy mercantile,Artisan,Barter,Value,master,4,
+City,Heavy mercantile,Artisan,Combat,Archery,,0,
+City,Heavy mercantile,Artisan,Combat,Backstab,,0,
+City,Heavy mercantile,Artisan,Combat,Bash,,0,
+City,Heavy mercantile,Artisan,Combat,Blind Fighting,,0,
+City,Heavy mercantile,Artisan,Combat,Blowgun Use,,0,
+City,Heavy mercantile,Artisan,Combat,Charge,,0,
+City,Heavy mercantile,Artisan,Combat,Crossbow Use,journeyman,2,
+City,Heavy mercantile,Artisan,Combat,Disarm,,0,
+City,Heavy mercantile,Artisan,Combat,Dual Wield,journeyman,2,
+City,Heavy mercantile,Artisan,Combat,Flee,,0,
+City,Heavy mercantile,Artisan,Combat,Guarding,,0,
+City,Heavy mercantile,Artisan,Combat,Hack,,0,
+City,Heavy mercantile,Artisan,Combat,Kick,,0,
+City,Heavy mercantile,Artisan,Combat,Parry,,0,
+City,Heavy mercantile,Artisan,Combat,Rescue,,0,
+City,Heavy mercantile,Artisan,Combat,Riposte,,0,
+City,Heavy mercantile,Artisan,Combat,Sap,,0,
+City,Heavy mercantile,Artisan,Combat,Shield Use,journeyman,2,
+City,Heavy mercantile,Artisan,Combat,Sling Use,,0,
+City,Heavy mercantile,Artisan,Combat,Subdue,,0,
+City,Heavy mercantile,Artisan,Combat,Threaten,,0,
+City,Heavy mercantile,Artisan,Combat,Throw,,0,
+City,Heavy mercantile,Artisan,Combat,Two Handed,journeyman,2,
+City,Heavy mercantile,Artisan,Craft,Armor Making,master,4,
+City,Heavy mercantile,Artisan,Craft,Armor Repair,master,4,
+City,Heavy mercantile,Artisan,Craft,Axe Making,master,4,
+City,Heavy mercantile,Artisan,Craft,Bandage Making,master,4,
+City,Heavy mercantile,Artisan,Craft,Basketweaving,master,4,
+City,Heavy mercantile,Artisan,Craft,Bow Making,master,4,
+City,Heavy mercantile,Artisan,Craft,Brew,,0,
+City,Heavy mercantile,Artisan,Craft,Clayworking,master,4,
+City,Heavy mercantile,Artisan,Craft,Clothworking,master,4,
+City,Heavy mercantile,Artisan,Craft,Club Making,master,4,
+City,Heavy mercantile,Artisan,Craft,Cooking,master,4,
+City,Heavy mercantile,Artisan,Craft,Dyeing,master,4,
+City,Heavy mercantile,Artisan,Craft,Feather Working,master,4,
+City,Heavy mercantile,Artisan,Craft,Fletchery,master,4,
+City,Heavy mercantile,Artisan,Craft,Floristry,master,4,
+City,Heavy mercantile,Artisan,Craft,Instrument Making,master,4,
+City,Heavy mercantile,Artisan,Craft,Jewelry Making,master,4,
+City,Heavy mercantile,Artisan,Craft,Knife Making,master,4,
+City,Heavy mercantile,Artisan,Craft,Leatherworking,master,4,
+City,Heavy mercantile,Artisan,Craft,Lumberjacking,master,4,
+City,Heavy mercantile,Artisan,Craft,Pick Making,,0,
+City,Heavy mercantile,Artisan,Craft,Spear Making,master,4,
+City,Heavy mercantile,Artisan,Craft,Stonecrafting,master,4,
+City,Heavy mercantile,Artisan,Craft,Sword Making,master,4,
+City,Heavy mercantile,Artisan,Craft,Tanning,master,4,
+City,Heavy mercantile,Artisan,Craft,Tent Making,master,4,
+City,Heavy mercantile,Artisan,Craft,Tool Making,master,4,
+City,Heavy mercantile,Artisan,Craft,Wagon Making,master,4,
+City,Heavy mercantile,Artisan,Craft,Woodworking,master,4,
+City,Heavy mercantile,Artisan,Language,Allundean,,0,
+City,Heavy mercantile,Artisan,Language,Bendune,,0,
+City,Heavy mercantile,Artisan,Language,Cavilish,master,4,
+City,Heavy mercantile,Artisan,Language,Mirukkium,,0,
+City,Heavy mercantile,Artisan,Language,Tribal Accent,,0,
+City,Heavy mercantile,Artisan,Manipulation,Bandage,advanced,3,
+City,Heavy mercantile,Artisan,Manipulation,Pick,,0,
+City,Heavy mercantile,Artisan,Manipulation,Pilot,master,4,
+City,Heavy mercantile,Artisan,Manipulation,Poisoning,,0,
+City,Heavy mercantile,Artisan,Manipulation,Ride,,0,
+City,Heavy mercantile,Artisan,Manipulation,Skinning,,0,
+City,Heavy mercantile,Artisan,Manipulation,Sleight of Hand,,0,
+City,Heavy mercantile,Artisan,Manipulation,Steal,,0,
+City,Heavy mercantile,Artisan,Perception,Direction Sense,,0,
+City,Heavy mercantile,Artisan,Perception,Forage,journeyman,2,
+City,Heavy mercantile,Artisan,Perception,Hunt (city),,0,
+City,Heavy mercantile,Artisan,Perception,Hunt (wilderness),,0,
+City,Heavy mercantile,Artisan,Perception,Listen (city),,0,
+City,Heavy mercantile,Artisan,Perception,Listen (wilderness),,0,
+City,Heavy mercantile,Artisan,Perception,Peek,,0,
+City,Heavy mercantile,Artisan,Perception,Scan,,0,
+City,Heavy mercantile,Artisan,Perception,Search,,0,
+City,Heavy mercantile,Artisan,Perception,Watch,,0,
+City,Heavy mercantile,Artisan,Perk,Alcohol Tolerance Perk,,0,
+City,Heavy mercantile,Artisan,Perk,Better Movement Regeneration,,0,
+City,Heavy mercantile,Artisan,Perk,City Forage,,0,
+City,Heavy mercantile,Artisan,Perk,City Hunt,,0,
+City,Heavy mercantile,Artisan,Perk,City Stealth,,0,
+City,Heavy mercantile,Artisan,Perk,Customcraft,x,1,
+City,Heavy mercantile,Artisan,Perk,Hitch 2 Mounts,,0,
+City,Heavy mercantile,Artisan,Perk,Learn Languages Perk,,0,
+City,Heavy mercantile,Artisan,Perk,Learn Ride Faster,,0,
+City,Heavy mercantile,Artisan,Perk,Pain Tolerance Perk,,0,
+City,Heavy mercantile,Artisan,Perk,Tame Mounts,,0,
+City,Heavy mercantile,Artisan,Perk,Wilderness Forage,,0,
+City,Heavy mercantile,Artisan,Perk,Wilderness Hunt,,0,
+City,Heavy mercantile,Artisan,Perk,Wilderness Quit,,0,
+City,Heavy mercantile,Artisan,Perk,Wilderness Stealth,,0,
+City,Heavy mercantile,Artisan,Stealth,Climb,,0,
+City,Heavy mercantile,Artisan,Stealth,Hide (city),,0,
+City,Heavy mercantile,Artisan,Stealth,Hide (wilderness),,0,
+City,Heavy mercantile,Artisan,Stealth,Sneak (city),,0,
+City,Heavy mercantile,Artisan,Stealth,Sneak (wilderness),,0,
+City,Heavy mercantile,Artisan,Weapon,Bludgeoning Weapons,journeyman,2,
+City,Heavy mercantile,Artisan,Weapon,Chopping Weapons,,0,
+City,Heavy mercantile,Artisan,Weapon,Piercing Weapons,journeyman,2,
+City,Heavy mercantile,Artisan,Weapon,Slashing Weapons,,0,
+Criminal,Heavy combat,Enforcer,Barter,Haggle,,0,
+Criminal,Heavy combat,Enforcer,Barter,Value,,0,
+Criminal,Heavy combat,Enforcer,Combat,Archery,,0,
+Criminal,Heavy combat,Enforcer,Combat,Backstab,master,4,
+Criminal,Heavy combat,Enforcer,Combat,Bash,master,4,
+Criminal,Heavy combat,Enforcer,Combat,Blind Fighting,master,4,
+Criminal,Heavy combat,Enforcer,Combat,Blowgun Use,master,4,
+Criminal,Heavy combat,Enforcer,Combat,Charge,,0,
+Criminal,Heavy combat,Enforcer,Combat,Crossbow Use,master,4,
+Criminal,Heavy combat,Enforcer,Combat,Disarm,master,4,
+Criminal,Heavy combat,Enforcer,Combat,Dual Wield,master,4,
+Criminal,Heavy combat,Enforcer,Combat,Flee,master,4,
+Criminal,Heavy combat,Enforcer,Combat,Guarding,master,4,
+Criminal,Heavy combat,Enforcer,Combat,Hack,,0,
+Criminal,Heavy combat,Enforcer,Combat,Kick,master,4,
+Criminal,Heavy combat,Enforcer,Combat,Parry,master,4,
+Criminal,Heavy combat,Enforcer,Combat,Rescue,master,4,
+Criminal,Heavy combat,Enforcer,Combat,Riposte,,0,
+Criminal,Heavy combat,Enforcer,Combat,Sap,master,4,
+Criminal,Heavy combat,Enforcer,Combat,Shield Use,master,4,
+Criminal,Heavy combat,Enforcer,Combat,Sling Use,,0,
+Criminal,Heavy combat,Enforcer,Combat,Subdue,advanced,3,
+Criminal,Heavy combat,Enforcer,Combat,Threaten,master,4,
+Criminal,Heavy combat,Enforcer,Combat,Throw,master,4,
+Criminal,Heavy combat,Enforcer,Combat,Two Handed,master,4,
+Criminal,Heavy combat,Enforcer,Craft,Armor Making,,0,
+Criminal,Heavy combat,Enforcer,Craft,Armor Repair,,0,
+Criminal,Heavy combat,Enforcer,Craft,Axe Making,,0,
+Criminal,Heavy combat,Enforcer,Craft,Bandage Making,,0,
+Criminal,Heavy combat,Enforcer,Craft,Basketweaving,,0,
+Criminal,Heavy combat,Enforcer,Craft,Bow Making,,0,
+Criminal,Heavy combat,Enforcer,Craft,Brew,,0,
+Criminal,Heavy combat,Enforcer,Craft,Clayworking,,0,
+Criminal,Heavy combat,Enforcer,Craft,Clothworking,,0,
+Criminal,Heavy combat,Enforcer,Craft,Club Making,,0,
+Criminal,Heavy combat,Enforcer,Craft,Cooking,journeyman,2,
+Criminal,Heavy combat,Enforcer,Craft,Dyeing,,0,
+Criminal,Heavy combat,Enforcer,Craft,Feather Working,,0,
+Criminal,Heavy combat,Enforcer,Craft,Fletchery,,0,
+Criminal,Heavy combat,Enforcer,Craft,Floristry,,0,
+Criminal,Heavy combat,Enforcer,Craft,Instrument Making,,0,
+Criminal,Heavy combat,Enforcer,Craft,Jewelry Making,,0,
+Criminal,Heavy combat,Enforcer,Craft,Knife Making,,0,
+Criminal,Heavy combat,Enforcer,Craft,Leatherworking,,0,
+Criminal,Heavy combat,Enforcer,Craft,Lumberjacking,,0,
+Criminal,Heavy combat,Enforcer,Craft,Pick Making,,0,
+Criminal,Heavy combat,Enforcer,Craft,Spear Making,,0,
+Criminal,Heavy combat,Enforcer,Craft,Stonecrafting,,0,
+Criminal,Heavy combat,Enforcer,Craft,Sword Making,,0,
+Criminal,Heavy combat,Enforcer,Craft,Tanning,,0,
+Criminal,Heavy combat,Enforcer,Craft,Tent Making,,0,
+Criminal,Heavy combat,Enforcer,Craft,Tool Making,,0,
+Criminal,Heavy combat,Enforcer,Craft,Wagon Making,,0,
+Criminal,Heavy combat,Enforcer,Craft,Woodworking,,0,
+Criminal,Heavy combat,Enforcer,Language,Allundean,,0,
+Criminal,Heavy combat,Enforcer,Language,Bendune,,0,
+Criminal,Heavy combat,Enforcer,Language,Cavilish,,0,
+Criminal,Heavy combat,Enforcer,Language,Mirukkium,,0,
+Criminal,Heavy combat,Enforcer,Language,Tribal Accent,,0,
+Criminal,Heavy combat,Enforcer,Manipulation,Bandage,,0,
+Criminal,Heavy combat,Enforcer,Manipulation,Pick,,0,
+Criminal,Heavy combat,Enforcer,Manipulation,Pilot,,0,
+Criminal,Heavy combat,Enforcer,Manipulation,Poisoning,,0,
+Criminal,Heavy combat,Enforcer,Manipulation,Ride,,0,
+Criminal,Heavy combat,Enforcer,Manipulation,Skinning,,0,
+Criminal,Heavy combat,Enforcer,Manipulation,Sleight of Hand,advanced,3,
+Criminal,Heavy combat,Enforcer,Manipulation,Steal,,0,
+Criminal,Heavy combat,Enforcer,Perception,Direction Sense,,0,
+Criminal,Heavy combat,Enforcer,Perception,Forage,journeyman,2,
+Criminal,Heavy combat,Enforcer,Perception,Hunt (city),,0,
+Criminal,Heavy combat,Enforcer,Perception,Hunt (wilderness),,0,
+Criminal,Heavy combat,Enforcer,Perception,Listen (city),,0,
+Criminal,Heavy combat,Enforcer,Perception,Listen (wilderness),,0,
+Criminal,Heavy combat,Enforcer,Perception,Peek,,0,
+Criminal,Heavy combat,Enforcer,Perception,Scan,,0,
+Criminal,Heavy combat,Enforcer,Perception,Search,,0,
+Criminal,Heavy combat,Enforcer,Perception,Watch,,0,
+Criminal,Heavy combat,Enforcer,Perk,Alcohol Tolerance Perk,,0,
+Criminal,Heavy combat,Enforcer,Perk,Better Movement Regeneration,,0,
+Criminal,Heavy combat,Enforcer,Perk,City Forage,x,1,
+Criminal,Heavy combat,Enforcer,Perk,City Hunt,x,1,
+Criminal,Heavy combat,Enforcer,Perk,City Stealth,x,1,
+Criminal,Heavy combat,Enforcer,Perk,Customcraft,,0,
+Criminal,Heavy combat,Enforcer,Perk,Hitch 2 Mounts,,0,
+Criminal,Heavy combat,Enforcer,Perk,Learn Languages Perk,,0,
+Criminal,Heavy combat,Enforcer,Perk,Learn Ride Faster,,0,
+Criminal,Heavy combat,Enforcer,Perk,Pain Tolerance Perk,,0,
+Criminal,Heavy combat,Enforcer,Perk,Tame Mounts,,0,
+Criminal,Heavy combat,Enforcer,Perk,Wilderness Forage,,0,
+Criminal,Heavy combat,Enforcer,Perk,Wilderness Hunt,,0,
+Criminal,Heavy combat,Enforcer,Perk,Wilderness Quit,,0,
+Criminal,Heavy combat,Enforcer,Perk,Wilderness Stealth,,0,
+Criminal,Heavy combat,Enforcer,Stealth,Climb,advanced,3,
+Criminal,Heavy combat,Enforcer,Stealth,Hide (city),advanced,3,
+Criminal,Heavy combat,Enforcer,Stealth,Hide (wilderness),,0,
+Criminal,Heavy combat,Enforcer,Stealth,Sneak (city),advanced,3,
+Criminal,Heavy combat,Enforcer,Stealth,Sneak (wilderness),,0,
+Criminal,Heavy combat,Enforcer,Weapon,Bludgeoning Weapons,master,4,
+Criminal,Heavy combat,Enforcer,Weapon,Chopping Weapons,master,4,
+Criminal,Heavy combat,Enforcer,Weapon,Piercing Weapons,master,4,
+Criminal,Heavy combat,Enforcer,Weapon,Slashing Weapons,master,4,
+Criminal,Light combat,Infiltrator,Barter,Haggle,,0,
+Criminal,Light combat,Infiltrator,Barter,Value,advanced,3,
+Criminal,Light combat,Infiltrator,Combat,Archery,,0,
+Criminal,Light combat,Infiltrator,Combat,Backstab,master,4,
+Criminal,Light combat,Infiltrator,Combat,Bash,advanced,3,
+Criminal,Light combat,Infiltrator,Combat,Blind Fighting,advanced,3,
+Criminal,Light combat,Infiltrator,Combat,Blowgun Use,master,4,
+Criminal,Light combat,Infiltrator,Combat,Charge,,0,
+Criminal,Light combat,Infiltrator,Combat,Crossbow Use,master,4,
+Criminal,Light combat,Infiltrator,Combat,Disarm,,0,
+Criminal,Light combat,Infiltrator,Combat,Dual Wield,master,4,
+Criminal,Light combat,Infiltrator,Combat,Flee,advanced,3,
+Criminal,Light combat,Infiltrator,Combat,Guarding,,0,
+Criminal,Light combat,Infiltrator,Combat,Hack,,0,
+Criminal,Light combat,Infiltrator,Combat,Kick,,0,
+Criminal,Light combat,Infiltrator,Combat,Parry,advanced,3,
+Criminal,Light combat,Infiltrator,Combat,Rescue,,0,
+Criminal,Light combat,Infiltrator,Combat,Riposte,,0,
+Criminal,Light combat,Infiltrator,Combat,Sap,advanced,3,
+Criminal,Light combat,Infiltrator,Combat,Shield Use,advanced,3,
+Criminal,Light combat,Infiltrator,Combat,Sling Use,,0,
+Criminal,Light combat,Infiltrator,Combat,Subdue,journeyman,2,
+Criminal,Light combat,Infiltrator,Combat,Threaten,,0,
+Criminal,Light combat,Infiltrator,Combat,Throw,master,4,
+Criminal,Light combat,Infiltrator,Combat,Two Handed,master,4,
+Criminal,Light combat,Infiltrator,Craft,Armor Making,,0,
+Criminal,Light combat,Infiltrator,Craft,Armor Repair,,0,
+Criminal,Light combat,Infiltrator,Craft,Axe Making,,0,
+Criminal,Light combat,Infiltrator,Craft,Bandage Making,,0,
+Criminal,Light combat,Infiltrator,Craft,Basketweaving,,0,
+Criminal,Light combat,Infiltrator,Craft,Bow Making,,0,
+Criminal,Light combat,Infiltrator,Craft,Brew,,0,
+Criminal,Light combat,Infiltrator,Craft,Clayworking,,0,
+Criminal,Light combat,Infiltrator,Craft,Clothworking,,0,
+Criminal,Light combat,Infiltrator,Craft,Club Making,,0,
+Criminal,Light combat,Infiltrator,Craft,Cooking,advanced,3,
+Criminal,Light combat,Infiltrator,Craft,Dyeing,,0,
+Criminal,Light combat,Infiltrator,Craft,Feather Working,,0,
+Criminal,Light combat,Infiltrator,Craft,Fletchery,,0,
+Criminal,Light combat,Infiltrator,Craft,Floristry,,0,
+Criminal,Light combat,Infiltrator,Craft,Instrument Making,,0,
+Criminal,Light combat,Infiltrator,Craft,Jewelry Making,,0,
+Criminal,Light combat,Infiltrator,Craft,Knife Making,,0,
+Criminal,Light combat,Infiltrator,Craft,Leatherworking,,0,
+Criminal,Light combat,Infiltrator,Craft,Lumberjacking,,0,
+Criminal,Light combat,Infiltrator,Craft,Pick Making,journeyman,2,
+Criminal,Light combat,Infiltrator,Craft,Spear Making,,0,
+Criminal,Light combat,Infiltrator,Craft,Stonecrafting,,0,
+Criminal,Light combat,Infiltrator,Craft,Sword Making,,0,
+Criminal,Light combat,Infiltrator,Craft,Tanning,,0,
+Criminal,Light combat,Infiltrator,Craft,Tent Making,,0,
+Criminal,Light combat,Infiltrator,Craft,Tool Making,,0,
+Criminal,Light combat,Infiltrator,Craft,Wagon Making,,0,
+Criminal,Light combat,Infiltrator,Craft,Woodworking,,0,
+Criminal,Light combat,Infiltrator,Language,Allundean,,0,
+Criminal,Light combat,Infiltrator,Language,Bendune,,0,
+Criminal,Light combat,Infiltrator,Language,Cavilish,,0,
+Criminal,Light combat,Infiltrator,Language,Mirukkium,,0,
+Criminal,Light combat,Infiltrator,Language,Tribal Accent,,0,
+Criminal,Light combat,Infiltrator,Manipulation,Bandage,,0,
+Criminal,Light combat,Infiltrator,Manipulation,Pick,advanced,3,
+Criminal,Light combat,Infiltrator,Manipulation,Pilot,,0,
+Criminal,Light combat,Infiltrator,Manipulation,Poisoning,advanced,3,
+Criminal,Light combat,Infiltrator,Manipulation,Ride,,0,
+Criminal,Light combat,Infiltrator,Manipulation,Skinning,,0,
+Criminal,Light combat,Infiltrator,Manipulation,Sleight of Hand,advanced,3,
+Criminal,Light combat,Infiltrator,Manipulation,Steal,,0,
+Criminal,Light combat,Infiltrator,Perception,Direction Sense,,0,
+Criminal,Light combat,Infiltrator,Perception,Forage,advanced,3,
+Criminal,Light combat,Infiltrator,Perception,Hunt (city),advanced,3,
+Criminal,Light combat,Infiltrator,Perception,Hunt (wilderness),,0,
+Criminal,Light combat,Infiltrator,Perception,Listen (city),advanced,3,
+Criminal,Light combat,Infiltrator,Perception,Listen (wilderness),,0,
+Criminal,Light combat,Infiltrator,Perception,Peek,advanced,3,
+Criminal,Light combat,Infiltrator,Perception,Scan,advanced,3,
+Criminal,Light combat,Infiltrator,Perception,Search,advanced,3,
+Criminal,Light combat,Infiltrator,Perception,Watch,,0,
+Criminal,Light combat,Infiltrator,Perk,Alcohol Tolerance Perk,,0,
+Criminal,Light combat,Infiltrator,Perk,Better Movement Regeneration,,0,
+Criminal,Light combat,Infiltrator,Perk,City Forage,x,1,
+Criminal,Light combat,Infiltrator,Perk,City Hunt,x,1,
+Criminal,Light combat,Infiltrator,Perk,City Stealth,x,1,
+Criminal,Light combat,Infiltrator,Perk,Customcraft,,0,
+Criminal,Light combat,Infiltrator,Perk,Hitch 2 Mounts,,0,
+Criminal,Light combat,Infiltrator,Perk,Learn Languages Perk,,0,
+Criminal,Light combat,Infiltrator,Perk,Learn Ride Faster,,0,
+Criminal,Light combat,Infiltrator,Perk,Pain Tolerance Perk,,0,
+Criminal,Light combat,Infiltrator,Perk,Tame Mounts,,0,
+Criminal,Light combat,Infiltrator,Perk,Wilderness Forage,,0,
+Criminal,Light combat,Infiltrator,Perk,Wilderness Hunt,,0,
+Criminal,Light combat,Infiltrator,Perk,Wilderness Quit,,0,
+Criminal,Light combat,Infiltrator,Perk,Wilderness Stealth,,0,
+Criminal,Light combat,Infiltrator,Stealth,Climb,advanced,3,
+Criminal,Light combat,Infiltrator,Stealth,Hide (city),master,4,
+Criminal,Light combat,Infiltrator,Stealth,Hide (wilderness),,0,
+Criminal,Light combat,Infiltrator,Stealth,Sneak (city),master,4,
+Criminal,Light combat,Infiltrator,Stealth,Sneak (wilderness),,0,
+Criminal,Light combat,Infiltrator,Weapon,Bludgeoning Weapons,advanced,3,
+Criminal,Light combat,Infiltrator,Weapon,Chopping Weapons,advanced,3,
+Criminal,Light combat,Infiltrator,Weapon,Piercing Weapons,advanced,3,
+Criminal,Light combat,Infiltrator,Weapon,Slashing Weapons,advanced,3,
+Criminal,Mixed,Miscreant,Barter,Haggle,advanced,3,
+Criminal,Mixed,Miscreant,Barter,Value,advanced,3,
+Criminal,Mixed,Miscreant,Combat,Archery,,0,
+Criminal,Mixed,Miscreant,Combat,Backstab,advanced,3,
+Criminal,Mixed,Miscreant,Combat,Bash,,0,
+Criminal,Mixed,Miscreant,Combat,Blind Fighting,advanced,3,
+Criminal,Mixed,Miscreant,Combat,Blowgun Use,advanced,3,
+Criminal,Mixed,Miscreant,Combat,Charge,,0,
+Criminal,Mixed,Miscreant,Combat,Crossbow Use,advanced,3,
+Criminal,Mixed,Miscreant,Combat,Disarm,,0,
+Criminal,Mixed,Miscreant,Combat,Dual Wield,advanced,3,
+Criminal,Mixed,Miscreant,Combat,Flee,advanced,3,
+Criminal,Mixed,Miscreant,Combat,Guarding,,0,
+Criminal,Mixed,Miscreant,Combat,Hack,,0,
+Criminal,Mixed,Miscreant,Combat,Kick,,0,
+Criminal,Mixed,Miscreant,Combat,Parry,advanced,3,
+Criminal,Mixed,Miscreant,Combat,Rescue,,0,
+Criminal,Mixed,Miscreant,Combat,Riposte,,0,
+Criminal,Mixed,Miscreant,Combat,Sap,advanced,3,
+Criminal,Mixed,Miscreant,Combat,Shield Use,advanced,3,
+Criminal,Mixed,Miscreant,Combat,Sling Use,,0,
+Criminal,Mixed,Miscreant,Combat,Subdue,,0,
+Criminal,Mixed,Miscreant,Combat,Threaten,,0,
+Criminal,Mixed,Miscreant,Combat,Throw,advanced,3,
+Criminal,Mixed,Miscreant,Combat,Two Handed,advanced,3,
+Criminal,Mixed,Miscreant,Craft,Armor Making,,0,
+Criminal,Mixed,Miscreant,Craft,Armor Repair,,0,
+Criminal,Mixed,Miscreant,Craft,Axe Making,,0,
+Criminal,Mixed,Miscreant,Craft,Bandage Making,,0,
+Criminal,Mixed,Miscreant,Craft,Basketweaving,,0,
+Criminal,Mixed,Miscreant,Craft,Bow Making,,0,
+Criminal,Mixed,Miscreant,Craft,Brew,advanced,3,
+Criminal,Mixed,Miscreant,Craft,Clayworking,,0,
+Criminal,Mixed,Miscreant,Craft,Clothworking,,0,
+Criminal,Mixed,Miscreant,Craft,Club Making,,0,
+Criminal,Mixed,Miscreant,Craft,Cooking,advanced,3,
+Criminal,Mixed,Miscreant,Craft,Dyeing,,0,
+Criminal,Mixed,Miscreant,Craft,Feather Working,,0,
+Criminal,Mixed,Miscreant,Craft,Fletchery,,0,
+Criminal,Mixed,Miscreant,Craft,Floristry,,0,
+Criminal,Mixed,Miscreant,Craft,Instrument Making,,0,
+Criminal,Mixed,Miscreant,Craft,Jewelry Making,,0,
+Criminal,Mixed,Miscreant,Craft,Knife Making,,0,
+Criminal,Mixed,Miscreant,Craft,Leatherworking,,0,
+Criminal,Mixed,Miscreant,Craft,Lumberjacking,,0,
+Criminal,Mixed,Miscreant,Craft,Pick Making,advanced,3,
+Criminal,Mixed,Miscreant,Craft,Spear Making,,0,
+Criminal,Mixed,Miscreant,Craft,Stonecrafting,,0,
+Criminal,Mixed,Miscreant,Craft,Sword Making,,0,
+Criminal,Mixed,Miscreant,Craft,Tanning,,0,
+Criminal,Mixed,Miscreant,Craft,Tent Making,,0,
+Criminal,Mixed,Miscreant,Craft,Tool Making,,0,
+Criminal,Mixed,Miscreant,Craft,Wagon Making,,0,
+Criminal,Mixed,Miscreant,Craft,Woodworking,,0,
+Criminal,Mixed,Miscreant,Language,Allundean,,0,
+Criminal,Mixed,Miscreant,Language,Bendune,,0,
+Criminal,Mixed,Miscreant,Language,Cavilish,,0,
+Criminal,Mixed,Miscreant,Language,Mirukkium,,0,
+Criminal,Mixed,Miscreant,Language,Tribal Accent,,0,
+Criminal,Mixed,Miscreant,Manipulation,Bandage,,0,
+Criminal,Mixed,Miscreant,Manipulation,Pick,master,4,
+Criminal,Mixed,Miscreant,Manipulation,Pilot,,0,
+Criminal,Mixed,Miscreant,Manipulation,Poisoning,master,4,
+Criminal,Mixed,Miscreant,Manipulation,Ride,,0,
+Criminal,Mixed,Miscreant,Manipulation,Skinning,,0,
+Criminal,Mixed,Miscreant,Manipulation,Sleight of Hand,master,4,
+Criminal,Mixed,Miscreant,Manipulation,Steal,master,4,
+Criminal,Mixed,Miscreant,Perception,Direction Sense,,0,
+Criminal,Mixed,Miscreant,Perception,Forage,master,4,
+Criminal,Mixed,Miscreant,Perception,Hunt (city),master,4,
+Criminal,Mixed,Miscreant,Perception,Hunt (wilderness),,0,
+Criminal,Mixed,Miscreant,Perception,Listen (city),master,4,
+Criminal,Mixed,Miscreant,Perception,Listen (wilderness),,0,
+Criminal,Mixed,Miscreant,Perception,Peek,master,4,
+Criminal,Mixed,Miscreant,Perception,Scan,master,4,
+Criminal,Mixed,Miscreant,Perception,Search,master,4,
+Criminal,Mixed,Miscreant,Perception,Watch,master,4,
+Criminal,Mixed,Miscreant,Perk,Alcohol Tolerance Perk,,0,
+Criminal,Mixed,Miscreant,Perk,Better Movement Regeneration,,0,
+Criminal,Mixed,Miscreant,Perk,City Forage,x,1,
+Criminal,Mixed,Miscreant,Perk,City Hunt,x,1,
+Criminal,Mixed,Miscreant,Perk,City Stealth,x,1,
+Criminal,Mixed,Miscreant,Perk,Customcraft,,0,
+Criminal,Mixed,Miscreant,Perk,Hitch 2 Mounts,,0,
+Criminal,Mixed,Miscreant,Perk,Learn Languages Perk,,0,
+Criminal,Mixed,Miscreant,Perk,Learn Ride Faster,,0,
+Criminal,Mixed,Miscreant,Perk,Pain Tolerance Perk,,0,
+Criminal,Mixed,Miscreant,Perk,Tame Mounts,,0,
+Criminal,Mixed,Miscreant,Perk,Wilderness Forage,,0,
+Criminal,Mixed,Miscreant,Perk,Wilderness Hunt,,0,
+Criminal,Mixed,Miscreant,Perk,Wilderness Quit,,0,
+Criminal,Mixed,Miscreant,Perk,Wilderness Stealth,,0,
+Criminal,Mixed,Miscreant,Stealth,Climb,master,4,
+Criminal,Mixed,Miscreant,Stealth,Hide (city),master,4,
+Criminal,Mixed,Miscreant,Stealth,Hide (wilderness),,0,
+Criminal,Mixed,Miscreant,Stealth,Sneak (city),master,4,
+Criminal,Mixed,Miscreant,Stealth,Sneak (wilderness),,0,
+Criminal,Mixed,Miscreant,Weapon,Bludgeoning Weapons,advanced,3,
+Criminal,Mixed,Miscreant,Weapon,Chopping Weapons,,0,
+Criminal,Mixed,Miscreant,Weapon,Piercing Weapons,advanced,3,
+Criminal,Mixed,Miscreant,Weapon,Slashing Weapons,,0,
+Criminal,Light mercantile,Pilferer,Barter,Haggle,master,4,
+Criminal,Light mercantile,Pilferer,Barter,Value,master,4,
+Criminal,Light mercantile,Pilferer,Combat,Archery,,0,
+Criminal,Light mercantile,Pilferer,Combat,Backstab,,0,
+Criminal,Light mercantile,Pilferer,Combat,Bash,,0,
+Criminal,Light mercantile,Pilferer,Combat,Blind Fighting,,0,
+Criminal,Light mercantile,Pilferer,Combat,Blowgun Use,,0,
+Criminal,Light mercantile,Pilferer,Combat,Charge,,0,
+Criminal,Light mercantile,Pilferer,Combat,Crossbow Use,advanced,3,
+Criminal,Light mercantile,Pilferer,Combat,Disarm,,0,
+Criminal,Light mercantile,Pilferer,Combat,Dual Wield,advanced,3,
+Criminal,Light mercantile,Pilferer,Combat,Flee,journeyman,2,
+Criminal,Light mercantile,Pilferer,Combat,Guarding,,0,
+Criminal,Light mercantile,Pilferer,Combat,Hack,,0,
+Criminal,Light mercantile,Pilferer,Combat,Kick,,0,
+Criminal,Light mercantile,Pilferer,Combat,Parry,,0,
+Criminal,Light mercantile,Pilferer,Combat,Rescue,,0,
+Criminal,Light mercantile,Pilferer,Combat,Riposte,,0,
+Criminal,Light mercantile,Pilferer,Combat,Sap,journeyman,2,
+Criminal,Light mercantile,Pilferer,Combat,Shield Use,journeyman,2,
+Criminal,Light mercantile,Pilferer,Combat,Sling Use,,0,
+Criminal,Light mercantile,Pilferer,Combat,Subdue,,0,
+Criminal,Light mercantile,Pilferer,Combat,Threaten,,0,
+Criminal,Light mercantile,Pilferer,Combat,Throw,advanced,3,
+Criminal,Light mercantile,Pilferer,Combat,Two Handed,advanced,3,
+Criminal,Light mercantile,Pilferer,Craft,Armor Making,,0,
+Criminal,Light mercantile,Pilferer,Craft,Armor Repair,,0,
+Criminal,Light mercantile,Pilferer,Craft,Axe Making,,0,
+Criminal,Light mercantile,Pilferer,Craft,Bandage Making,,0,
+Criminal,Light mercantile,Pilferer,Craft,Basketweaving,,0,
+Criminal,Light mercantile,Pilferer,Craft,Bow Making,master,4,
+Criminal,Light mercantile,Pilferer,Craft,Brew,master,4,
+Criminal,Light mercantile,Pilferer,Craft,Clayworking,master,4,
+Criminal,Light mercantile,Pilferer,Craft,Clothworking,master,4,
+Criminal,Light mercantile,Pilferer,Craft,Club Making,master,4,
+Criminal,Light mercantile,Pilferer,Craft,Cooking,master,4,
+Criminal,Light mercantile,Pilferer,Craft,Dyeing,,0,
+Criminal,Light mercantile,Pilferer,Craft,Feather Working,,0,
+Criminal,Light mercantile,Pilferer,Craft,Fletchery,master,4,
+Criminal,Light mercantile,Pilferer,Craft,Floristry,,0,
+Criminal,Light mercantile,Pilferer,Craft,Instrument Making,,0,
+Criminal,Light mercantile,Pilferer,Craft,Jewelry Making,master,4,
+Criminal,Light mercantile,Pilferer,Craft,Knife Making,master,4,
+Criminal,Light mercantile,Pilferer,Craft,Leatherworking,,0,
+Criminal,Light mercantile,Pilferer,Craft,Lumberjacking,,0,
+Criminal,Light mercantile,Pilferer,Craft,Pick Making,advanced,3,
+Criminal,Light mercantile,Pilferer,Craft,Spear Making,,0,
+Criminal,Light mercantile,Pilferer,Craft,Stonecrafting,master,4,
+Criminal,Light mercantile,Pilferer,Craft,Sword Making,,0,
+Criminal,Light mercantile,Pilferer,Craft,Tanning,,0,
+Criminal,Light mercantile,Pilferer,Craft,Tent Making,,0,
+Criminal,Light mercantile,Pilferer,Craft,Tool Making,master,4,
+Criminal,Light mercantile,Pilferer,Craft,Wagon Making,,0,
+Criminal,Light mercantile,Pilferer,Craft,Woodworking,,0,
+Criminal,Light mercantile,Pilferer,Language,Allundean,,0,
+Criminal,Light mercantile,Pilferer,Language,Bendune,,0,
+Criminal,Light mercantile,Pilferer,Language,Cavilish,,0,
+Criminal,Light mercantile,Pilferer,Language,Mirukkium,,0,
+Criminal,Light mercantile,Pilferer,Language,Tribal Accent,,0,
+Criminal,Light mercantile,Pilferer,Manipulation,Bandage,,0,
+Criminal,Light mercantile,Pilferer,Manipulation,Pick,advanced,3,
+Criminal,Light mercantile,Pilferer,Manipulation,Pilot,,0,
+Criminal,Light mercantile,Pilferer,Manipulation,Poisoning,,0,
+Criminal,Light mercantile,Pilferer,Manipulation,Ride,,0,
+Criminal,Light mercantile,Pilferer,Manipulation,Skinning,,0,
+Criminal,Light mercantile,Pilferer,Manipulation,Sleight of Hand,master,4,
+Criminal,Light mercantile,Pilferer,Manipulation,Steal,master,4,
+Criminal,Light mercantile,Pilferer,Perception,Direction Sense,,0,
+Criminal,Light mercantile,Pilferer,Perception,Forage,advanced,3,
+Criminal,Light mercantile,Pilferer,Perception,Hunt (city),advanced,3,
+Criminal,Light mercantile,Pilferer,Perception,Hunt (wilderness),,0,
+Criminal,Light mercantile,Pilferer,Perception,Listen (city),advanced,3,
+Criminal,Light mercantile,Pilferer,Perception,Listen (wilderness),,0,
+Criminal,Light mercantile,Pilferer,Perception,Peek,advanced,3,
+Criminal,Light mercantile,Pilferer,Perception,Scan,advanced,3,
+Criminal,Light mercantile,Pilferer,Perception,Search,advanced,3,
+Criminal,Light mercantile,Pilferer,Perception,Watch,advanced,3,
+Criminal,Light mercantile,Pilferer,Perk,Alcohol Tolerance Perk,,0,
+Criminal,Light mercantile,Pilferer,Perk,Better Movement Regeneration,,0,
+Criminal,Light mercantile,Pilferer,Perk,City Forage,x,1,
+Criminal,Light mercantile,Pilferer,Perk,City Hunt,x,1,
+Criminal,Light mercantile,Pilferer,Perk,City Stealth,x,1,
+Criminal,Light mercantile,Pilferer,Perk,Customcraft,,0,
+Criminal,Light mercantile,Pilferer,Perk,Hitch 2 Mounts,,0,
+Criminal,Light mercantile,Pilferer,Perk,Learn Languages Perk,,0,
+Criminal,Light mercantile,Pilferer,Perk,Learn Ride Faster,,0,
+Criminal,Light mercantile,Pilferer,Perk,Pain Tolerance Perk,,0,
+Criminal,Light mercantile,Pilferer,Perk,Tame Mounts,,0,
+Criminal,Light mercantile,Pilferer,Perk,Wilderness Forage,,0,
+Criminal,Light mercantile,Pilferer,Perk,Wilderness Hunt,,0,
+Criminal,Light mercantile,Pilferer,Perk,Wilderness Quit,,0,
+Criminal,Light mercantile,Pilferer,Perk,Wilderness Stealth,,0,
+Criminal,Light mercantile,Pilferer,Stealth,Climb,advanced,3,
+Criminal,Light mercantile,Pilferer,Stealth,Hide (city),master,4,
+Criminal,Light mercantile,Pilferer,Stealth,Hide (wilderness),,0,
+Criminal,Light mercantile,Pilferer,Stealth,Sneak (city),master,4,
+Criminal,Light mercantile,Pilferer,Stealth,Sneak (wilderness),,0,
+Criminal,Light mercantile,Pilferer,Weapon,Bludgeoning Weapons,journeyman,2,
+Criminal,Light mercantile,Pilferer,Weapon,Chopping Weapons,,0,
+Criminal,Light mercantile,Pilferer,Weapon,Piercing Weapons,journeyman,2,
+Criminal,Light mercantile,Pilferer,Weapon,Slashing Weapons,,0,
+Criminal,Heavy mercantile,Fence,Barter,Haggle,master,4,
+Criminal,Heavy mercantile,Fence,Barter,Value,master,4,
+Criminal,Heavy mercantile,Fence,Combat,Archery,,0,
+Criminal,Heavy mercantile,Fence,Combat,Backstab,,0,
+Criminal,Heavy mercantile,Fence,Combat,Bash,,0,
+Criminal,Heavy mercantile,Fence,Combat,Blind Fighting,,0,
+Criminal,Heavy mercantile,Fence,Combat,Blowgun Use,,0,
+Criminal,Heavy mercantile,Fence,Combat,Charge,,0,
+Criminal,Heavy mercantile,Fence,Combat,Crossbow Use,journeyman,2,
+Criminal,Heavy mercantile,Fence,Combat,Disarm,,0,
+Criminal,Heavy mercantile,Fence,Combat,Dual Wield,journeyman,2,
+Criminal,Heavy mercantile,Fence,Combat,Flee,,0,
+Criminal,Heavy mercantile,Fence,Combat,Guarding,,0,
+Criminal,Heavy mercantile,Fence,Combat,Hack,,0,
+Criminal,Heavy mercantile,Fence,Combat,Kick,,0,
+Criminal,Heavy mercantile,Fence,Combat,Parry,,0,
+Criminal,Heavy mercantile,Fence,Combat,Rescue,,0,
+Criminal,Heavy mercantile,Fence,Combat,Riposte,,0,
+Criminal,Heavy mercantile,Fence,Combat,Sap,,0,
+Criminal,Heavy mercantile,Fence,Combat,Shield Use,journeyman,2,
+Criminal,Heavy mercantile,Fence,Combat,Sling Use,,0,
+Criminal,Heavy mercantile,Fence,Combat,Subdue,,0,
+Criminal,Heavy mercantile,Fence,Combat,Threaten,,0,
+Criminal,Heavy mercantile,Fence,Combat,Throw,,0,
+Criminal,Heavy mercantile,Fence,Combat,Two Handed,journeyman,2,
+Criminal,Heavy mercantile,Fence,Craft,Armor Making,master,4,
+Criminal,Heavy mercantile,Fence,Craft,Armor Repair,master,4,
+Criminal,Heavy mercantile,Fence,Craft,Axe Making,,0,
+Criminal,Heavy mercantile,Fence,Craft,Bandage Making,master,4,
+Criminal,Heavy mercantile,Fence,Craft,Basketweaving,,0,
+Criminal,Heavy mercantile,Fence,Craft,Bow Making,,0,
+Criminal,Heavy mercantile,Fence,Craft,Brew,master,4,
+Criminal,Heavy mercantile,Fence,Craft,Clayworking,master,4,
+Criminal,Heavy mercantile,Fence,Craft,Clothworking,master,4,
+Criminal,Heavy mercantile,Fence,Craft,Club Making,master,4,
+Criminal,Heavy mercantile,Fence,Craft,Cooking,master,4,
+Criminal,Heavy mercantile,Fence,Craft,Dyeing,master,4,
+Criminal,Heavy mercantile,Fence,Craft,Feather Working,master,4,
+Criminal,Heavy mercantile,Fence,Craft,Fletchery,master,4,
+Criminal,Heavy mercantile,Fence,Craft,Floristry,,0,
+Criminal,Heavy mercantile,Fence,Craft,Instrument Making,,0,
+Criminal,Heavy mercantile,Fence,Craft,Jewelry Making,master,4,
+Criminal,Heavy mercantile,Fence,Craft,Knife Making,master,4,
+Criminal,Heavy mercantile,Fence,Craft,Leatherworking,master,4,
+Criminal,Heavy mercantile,Fence,Craft,Lumberjacking,,0,
+Criminal,Heavy mercantile,Fence,Craft,Pick Making,master,4,
+Criminal,Heavy mercantile,Fence,Craft,Spear Making,master,4,
+Criminal,Heavy mercantile,Fence,Craft,Stonecrafting,master,4,
+Criminal,Heavy mercantile,Fence,Craft,Sword Making,master,4,
+Criminal,Heavy mercantile,Fence,Craft,Tanning,master,4,
+Criminal,Heavy mercantile,Fence,Craft,Tent Making,,0,
+Criminal,Heavy mercantile,Fence,Craft,Tool Making,master,4,
+Criminal,Heavy mercantile,Fence,Craft,Wagon Making,,0,
+Criminal,Heavy mercantile,Fence,Craft,Woodworking,,0,
+Criminal,Heavy mercantile,Fence,Language,Allundean,master,4,
+Criminal,Heavy mercantile,Fence,Language,Bendune,,0,
+Criminal,Heavy mercantile,Fence,Language,Cavilish,,0,
+Criminal,Heavy mercantile,Fence,Language,Mirukkium,,0,
+Criminal,Heavy mercantile,Fence,Language,Tribal Accent,,0,
+Criminal,Heavy mercantile,Fence,Manipulation,Bandage,,0,
+Criminal,Heavy mercantile,Fence,Manipulation,Pick,,0,
+Criminal,Heavy mercantile,Fence,Manipulation,Pilot,,0,
+Criminal,Heavy mercantile,Fence,Manipulation,Poisoning,advanced,3,
+Criminal,Heavy mercantile,Fence,Manipulation,Ride,,0,
+Criminal,Heavy mercantile,Fence,Manipulation,Skinning,,0,
+Criminal,Heavy mercantile,Fence,Manipulation,Sleight of Hand,advanced,3,
+Criminal,Heavy mercantile,Fence,Manipulation,Steal,advanced,3,
+Criminal,Heavy mercantile,Fence,Perception,Direction Sense,,0,
+Criminal,Heavy mercantile,Fence,Perception,Forage,advanced,3,
+Criminal,Heavy mercantile,Fence,Perception,Hunt (city),,0,
+Criminal,Heavy mercantile,Fence,Perception,Hunt (wilderness),,0,
+Criminal,Heavy mercantile,Fence,Perception,Listen (city),advanced,3,
+Criminal,Heavy mercantile,Fence,Perception,Listen (wilderness),,0,
+Criminal,Heavy mercantile,Fence,Perception,Peek,advanced,3,
+Criminal,Heavy mercantile,Fence,Perception,Scan,,0,
+Criminal,Heavy mercantile,Fence,Perception,Search,,0,
+Criminal,Heavy mercantile,Fence,Perception,Watch,,0,
+Criminal,Heavy mercantile,Fence,Perk,Alcohol Tolerance Perk,,0,
+Criminal,Heavy mercantile,Fence,Perk,Better Movement Regeneration,,0,
+Criminal,Heavy mercantile,Fence,Perk,City Forage,,0,
+Criminal,Heavy mercantile,Fence,Perk,City Hunt,,0,
+Criminal,Heavy mercantile,Fence,Perk,City Stealth,,0,
+Criminal,Heavy mercantile,Fence,Perk,Customcraft,x,1,
+Criminal,Heavy mercantile,Fence,Perk,Hitch 2 Mounts,x,1,
+Criminal,Heavy mercantile,Fence,Perk,Learn Languages Perk,,0,
+Criminal,Heavy mercantile,Fence,Perk,Learn Ride Faster,,0,
+Criminal,Heavy mercantile,Fence,Perk,Pain Tolerance Perk,,0,
+Criminal,Heavy mercantile,Fence,Perk,Tame Mounts,,0,
+Criminal,Heavy mercantile,Fence,Perk,Wilderness Forage,x,1,
+Criminal,Heavy mercantile,Fence,Perk,Wilderness Hunt,,0,
+Criminal,Heavy mercantile,Fence,Perk,Wilderness Quit,,0,
+Criminal,Heavy mercantile,Fence,Perk,Wilderness Stealth,x,1,
+Criminal,Heavy mercantile,Fence,Stealth,Climb,,0,
+Criminal,Heavy mercantile,Fence,Stealth,Hide (city),advanced,3,
+Criminal,Heavy mercantile,Fence,Stealth,Hide (wilderness),,0,
+Criminal,Heavy mercantile,Fence,Stealth,Sneak (city),advanced,3,
+Criminal,Heavy mercantile,Fence,Stealth,Sneak (wilderness),,0,
+Criminal,Heavy mercantile,Fence,Weapon,Bludgeoning Weapons,,0,
+Criminal,Heavy mercantile,Fence,Weapon,Chopping Weapons,,0,
+Criminal,Heavy mercantile,Fence,Weapon,Piercing Weapons,journeyman,2,
+Criminal,Heavy mercantile,Fence,Weapon,Slashing Weapons,,0,
+Wilderness,Heavy combat,Raider,Barter,Haggle,,0,
+Wilderness,Heavy combat,Raider,Barter,Value,,0,
+Wilderness,Heavy combat,Raider,Combat,Archery,master,4,
+Wilderness,Heavy combat,Raider,Combat,Backstab,,0,
+Wilderness,Heavy combat,Raider,Combat,Bash,master,4,
+Wilderness,Heavy combat,Raider,Combat,Blind Fighting,master,4,
+Wilderness,Heavy combat,Raider,Combat,Blowgun Use,,0,
+Wilderness,Heavy combat,Raider,Combat,Charge,master,4,
+Wilderness,Heavy combat,Raider,Combat,Crossbow Use,master,4,
+Wilderness,Heavy combat,Raider,Combat,Disarm,master,4,
+Wilderness,Heavy combat,Raider,Combat,Dual Wield,master,4,
+Wilderness,Heavy combat,Raider,Combat,Flee,master,4,
+Wilderness,Heavy combat,Raider,Combat,Guarding,master,4,
+Wilderness,Heavy combat,Raider,Combat,Hack,,0,
+Wilderness,Heavy combat,Raider,Combat,Kick,master,4,
+Wilderness,Heavy combat,Raider,Combat,Parry,master,4,
+Wilderness,Heavy combat,Raider,Combat,Rescue,master,4,
+Wilderness,Heavy combat,Raider,Combat,Riposte,,0,
+Wilderness,Heavy combat,Raider,Combat,Sap,,0,
+Wilderness,Heavy combat,Raider,Combat,Shield Use,master,4,
+Wilderness,Heavy combat,Raider,Combat,Sling Use,master,4,
+Wilderness,Heavy combat,Raider,Combat,Subdue,advanced,3,
+Wilderness,Heavy combat,Raider,Combat,Threaten,master,4,
+Wilderness,Heavy combat,Raider,Combat,Throw,master,4,
+Wilderness,Heavy combat,Raider,Combat,Two Handed,master,4,
+Wilderness,Heavy combat,Raider,Craft,Armor Making,,0,
+Wilderness,Heavy combat,Raider,Craft,Armor Repair,,0,
+Wilderness,Heavy combat,Raider,Craft,Axe Making,,0,
+Wilderness,Heavy combat,Raider,Craft,Bandage Making,,0,
+Wilderness,Heavy combat,Raider,Craft,Basketweaving,,0,
+Wilderness,Heavy combat,Raider,Craft,Bow Making,,0,
+Wilderness,Heavy combat,Raider,Craft,Brew,,0,
+Wilderness,Heavy combat,Raider,Craft,Clayworking,,0,
+Wilderness,Heavy combat,Raider,Craft,Clothworking,,0,
+Wilderness,Heavy combat,Raider,Craft,Club Making,,0,
+Wilderness,Heavy combat,Raider,Craft,Cooking,journeyman,2,
+Wilderness,Heavy combat,Raider,Craft,Dyeing,,0,
+Wilderness,Heavy combat,Raider,Craft,Feather Working,,0,
+Wilderness,Heavy combat,Raider,Craft,Fletchery,,0,
+Wilderness,Heavy combat,Raider,Craft,Floristry,,0,
+Wilderness,Heavy combat,Raider,Craft,Instrument Making,,0,
+Wilderness,Heavy combat,Raider,Craft,Jewelry Making,,0,
+Wilderness,Heavy combat,Raider,Craft,Knife Making,,0,
+Wilderness,Heavy combat,Raider,Craft,Leatherworking,,0,
+Wilderness,Heavy combat,Raider,Craft,Lumberjacking,,0,
+Wilderness,Heavy combat,Raider,Craft,Pick Making,,0,
+Wilderness,Heavy combat,Raider,Craft,Spear Making,,0,
+Wilderness,Heavy combat,Raider,Craft,Stonecrafting,,0,
+Wilderness,Heavy combat,Raider,Craft,Sword Making,,0,
+Wilderness,Heavy combat,Raider,Craft,Tanning,,0,
+Wilderness,Heavy combat,Raider,Craft,Tent Making,,0,
+Wilderness,Heavy combat,Raider,Craft,Tool Making,,0,
+Wilderness,Heavy combat,Raider,Craft,Wagon Making,,0,
+Wilderness,Heavy combat,Raider,Craft,Woodworking,,0,
+Wilderness,Heavy combat,Raider,Language,Allundean,,0,
+Wilderness,Heavy combat,Raider,Language,Bendune,,0,
+Wilderness,Heavy combat,Raider,Language,Cavilish,,0,
+Wilderness,Heavy combat,Raider,Language,Mirukkium,,0,
+Wilderness,Heavy combat,Raider,Language,Tribal Accent,,0,
+Wilderness,Heavy combat,Raider,Manipulation,Bandage,,0,
+Wilderness,Heavy combat,Raider,Manipulation,Pick,,0,
+Wilderness,Heavy combat,Raider,Manipulation,Pilot,,0,
+Wilderness,Heavy combat,Raider,Manipulation,Poisoning,,0,
+Wilderness,Heavy combat,Raider,Manipulation,Ride,advanced,3,
+Wilderness,Heavy combat,Raider,Manipulation,Skinning,,0,
+Wilderness,Heavy combat,Raider,Manipulation,Sleight of Hand,,0,
+Wilderness,Heavy combat,Raider,Manipulation,Steal,,0,
+Wilderness,Heavy combat,Raider,Perception,Direction Sense,advanced,3,
+Wilderness,Heavy combat,Raider,Perception,Forage,journeyman,2,
+Wilderness,Heavy combat,Raider,Perception,Hunt (city),,0,
+Wilderness,Heavy combat,Raider,Perception,Hunt (wilderness),,0,
+Wilderness,Heavy combat,Raider,Perception,Listen (city),,0,
+Wilderness,Heavy combat,Raider,Perception,Listen (wilderness),,0,
+Wilderness,Heavy combat,Raider,Perception,Peek,,0,
+Wilderness,Heavy combat,Raider,Perception,Scan,advanced,3,
+Wilderness,Heavy combat,Raider,Perception,Search,,0,
+Wilderness,Heavy combat,Raider,Perception,Watch,,0,
+Wilderness,Heavy combat,Raider,Perk,Alcohol Tolerance Perk,,0,
+Wilderness,Heavy combat,Raider,Perk,Better Movement Regeneration,,0,
+Wilderness,Heavy combat,Raider,Perk,City Forage,,0,
+Wilderness,Heavy combat,Raider,Perk,City Hunt,,0,
+Wilderness,Heavy combat,Raider,Perk,City Stealth,,0,
+Wilderness,Heavy combat,Raider,Perk,Customcraft,,0,
+Wilderness,Heavy combat,Raider,Perk,Hitch 2 Mounts,x,1,
+Wilderness,Heavy combat,Raider,Perk,Learn Languages Perk,,0,
+Wilderness,Heavy combat,Raider,Perk,Learn Ride Faster,,0,
+Wilderness,Heavy combat,Raider,Perk,Pain Tolerance Perk,,0,
+Wilderness,Heavy combat,Raider,Perk,Tame Mounts,,0,
+Wilderness,Heavy combat,Raider,Perk,Wilderness Forage,,0,
+Wilderness,Heavy combat,Raider,Perk,Wilderness Hunt,x,1,
+Wilderness,Heavy combat,Raider,Perk,Wilderness Quit,,0,
+Wilderness,Heavy combat,Raider,Perk,Wilderness Stealth,x,1,
+Wilderness,Heavy combat,Raider,Stealth,Climb,advanced,3,
+Wilderness,Heavy combat,Raider,Stealth,Hide (city),,0,
+Wilderness,Heavy combat,Raider,Stealth,Hide (wilderness),advanced,3,
+Wilderness,Heavy combat,Raider,Stealth,Sneak (city),,0,
+Wilderness,Heavy combat,Raider,Stealth,Sneak (wilderness),advanced,3,
+Wilderness,Heavy combat,Raider,Weapon,Bludgeoning Weapons,master,4,
+Wilderness,Heavy combat,Raider,Weapon,Chopping Weapons,master,4,
+Wilderness,Heavy combat,Raider,Weapon,Piercing Weapons,master,4,
+Wilderness,Heavy combat,Raider,Weapon,Slashing Weapons,master,4,
+Wilderness,Light combat,Scout,Barter,Haggle,,0,
+Wilderness,Light combat,Scout,Barter,Value,,0,
+Wilderness,Light combat,Scout,Combat,Archery,master,4,
+Wilderness,Light combat,Scout,Combat,Backstab,,0,
+Wilderness,Light combat,Scout,Combat,Bash,,0,
+Wilderness,Light combat,Scout,Combat,Blind Fighting,advanced,3,
+Wilderness,Light combat,Scout,Combat,Blowgun Use,master,4,
+Wilderness,Light combat,Scout,Combat,Charge,advanced,3,
+Wilderness,Light combat,Scout,Combat,Crossbow Use,master,4,
+Wilderness,Light combat,Scout,Combat,Disarm,,0,
+Wilderness,Light combat,Scout,Combat,Dual Wield,master,4,
+Wilderness,Light combat,Scout,Combat,Flee,advanced,3,
+Wilderness,Light combat,Scout,Combat,Guarding,master,4,
+Wilderness,Light combat,Scout,Combat,Hack,,0,
+Wilderness,Light combat,Scout,Combat,Kick,advanced,3,
+Wilderness,Light combat,Scout,Combat,Parry,advanced,3,
+Wilderness,Light combat,Scout,Combat,Rescue,master,4,
+Wilderness,Light combat,Scout,Combat,Riposte,,0,
+Wilderness,Light combat,Scout,Combat,Sap,,0,
+Wilderness,Light combat,Scout,Combat,Shield Use,advanced,3,
+Wilderness,Light combat,Scout,Combat,Sling Use,master,4,
+Wilderness,Light combat,Scout,Combat,Subdue,,0,
+Wilderness,Light combat,Scout,Combat,Threaten,,0,
+Wilderness,Light combat,Scout,Combat,Throw,master,4,
+Wilderness,Light combat,Scout,Combat,Two Handed,master,4,
+Wilderness,Light combat,Scout,Craft,Armor Making,,0,
+Wilderness,Light combat,Scout,Craft,Armor Repair,,0,
+Wilderness,Light combat,Scout,Craft,Axe Making,,0,
+Wilderness,Light combat,Scout,Craft,Bandage Making,advanced,3,
+Wilderness,Light combat,Scout,Craft,Basketweaving,,0,
+Wilderness,Light combat,Scout,Craft,Bow Making,,0,
+Wilderness,Light combat,Scout,Craft,Brew,,0,
+Wilderness,Light combat,Scout,Craft,Clayworking,,0,
+Wilderness,Light combat,Scout,Craft,Clothworking,,0,
+Wilderness,Light combat,Scout,Craft,Club Making,,0,
+Wilderness,Light combat,Scout,Craft,Cooking,advanced,3,
+Wilderness,Light combat,Scout,Craft,Dyeing,,0,
+Wilderness,Light combat,Scout,Craft,Feather Working,,0,
+Wilderness,Light combat,Scout,Craft,Fletchery,advanced,3,
+Wilderness,Light combat,Scout,Craft,Floristry,,0,
+Wilderness,Light combat,Scout,Craft,Instrument Making,,0,
+Wilderness,Light combat,Scout,Craft,Jewelry Making,,0,
+Wilderness,Light combat,Scout,Craft,Knife Making,,0,
+Wilderness,Light combat,Scout,Craft,Leatherworking,,0,
+Wilderness,Light combat,Scout,Craft,Lumberjacking,,0,
+Wilderness,Light combat,Scout,Craft,Pick Making,,0,
+Wilderness,Light combat,Scout,Craft,Spear Making,,0,
+Wilderness,Light combat,Scout,Craft,Stonecrafting,,0,
+Wilderness,Light combat,Scout,Craft,Sword Making,,0,
+Wilderness,Light combat,Scout,Craft,Tanning,,0,
+Wilderness,Light combat,Scout,Craft,Tent Making,,0,
+Wilderness,Light combat,Scout,Craft,Tool Making,,0,
+Wilderness,Light combat,Scout,Craft,Wagon Making,,0,
+Wilderness,Light combat,Scout,Craft,Woodworking,,0,
+Wilderness,Light combat,Scout,Language,Allundean,,0,
+Wilderness,Light combat,Scout,Language,Bendune,,0,
+Wilderness,Light combat,Scout,Language,Cavilish,,0,
+Wilderness,Light combat,Scout,Language,Mirukkium,,0,
+Wilderness,Light combat,Scout,Language,Tribal Accent,,0,
+Wilderness,Light combat,Scout,Manipulation,Bandage,advanced,3,
+Wilderness,Light combat,Scout,Manipulation,Pick,,0,
+Wilderness,Light combat,Scout,Manipulation,Pilot,,0,
+Wilderness,Light combat,Scout,Manipulation,Poisoning,advanced,3,
+Wilderness,Light combat,Scout,Manipulation,Ride,advanced,3,
+Wilderness,Light combat,Scout,Manipulation,Skinning,master,4,
+Wilderness,Light combat,Scout,Manipulation,Sleight of Hand,,0,
+Wilderness,Light combat,Scout,Manipulation,Steal,,0,
+Wilderness,Light combat,Scout,Perception,Direction Sense,advanced,3,
+Wilderness,Light combat,Scout,Perception,Forage,advanced,3,
+Wilderness,Light combat,Scout,Perception,Hunt (city),,0,
+Wilderness,Light combat,Scout,Perception,Hunt (wilderness),advanced,3,
+Wilderness,Light combat,Scout,Perception,Listen (city),,0,
+Wilderness,Light combat,Scout,Perception,Listen (wilderness),,0,
+Wilderness,Light combat,Scout,Perception,Peek,,0,
+Wilderness,Light combat,Scout,Perception,Scan,advanced,3,
+Wilderness,Light combat,Scout,Perception,Search,master,4,
+Wilderness,Light combat,Scout,Perception,Watch,,0,
+Wilderness,Light combat,Scout,Perk,Alcohol Tolerance Perk,,0,
+Wilderness,Light combat,Scout,Perk,Better Movement Regeneration,x,1,
+Wilderness,Light combat,Scout,Perk,City Forage,,0,
+Wilderness,Light combat,Scout,Perk,City Hunt,,0,
+Wilderness,Light combat,Scout,Perk,City Stealth,,0,
+Wilderness,Light combat,Scout,Perk,Customcraft,,0,
+Wilderness,Light combat,Scout,Perk,Hitch 2 Mounts,x,1,
+Wilderness,Light combat,Scout,Perk,Learn Languages Perk,,0,
+Wilderness,Light combat,Scout,Perk,Learn Ride Faster,,0,
+Wilderness,Light combat,Scout,Perk,Pain Tolerance Perk,,0,
+Wilderness,Light combat,Scout,Perk,Tame Mounts,x,1,
+Wilderness,Light combat,Scout,Perk,Wilderness Forage,x,1,
+Wilderness,Light combat,Scout,Perk,Wilderness Hunt,x,1,
+Wilderness,Light combat,Scout,Perk,Wilderness Quit,x,1,
+Wilderness,Light combat,Scout,Perk,Wilderness Stealth,x,1,
+Wilderness,Light combat,Scout,Stealth,Climb,advanced,3,
+Wilderness,Light combat,Scout,Stealth,Hide (city),,0,
+Wilderness,Light combat,Scout,Stealth,Hide (wilderness),master,4,
+Wilderness,Light combat,Scout,Stealth,Sneak (city),,0,
+Wilderness,Light combat,Scout,Stealth,Sneak (wilderness),master,4,
+Wilderness,Light combat,Scout,Weapon,Bludgeoning Weapons,advanced,3,
+Wilderness,Light combat,Scout,Weapon,Chopping Weapons,advanced,3,
+Wilderness,Light combat,Scout,Weapon,Piercing Weapons,advanced,3,
+Wilderness,Light combat,Scout,Weapon,Slashing Weapons,advanced,3,
+Wilderness,Mixed,Stalker,Barter,Haggle,,0,
+Wilderness,Mixed,Stalker,Barter,Value,,0,
+Wilderness,Mixed,Stalker,Combat,Archery,advanced,3,
+Wilderness,Mixed,Stalker,Combat,Backstab,,0,
+Wilderness,Mixed,Stalker,Combat,Bash,,0,
+Wilderness,Mixed,Stalker,Combat,Blind Fighting,advanced,3,
+Wilderness,Mixed,Stalker,Combat,Blowgun Use,advanced,3,
+Wilderness,Mixed,Stalker,Combat,Charge,advanced,3,
+Wilderness,Mixed,Stalker,Combat,Crossbow Use,advanced,3,
+Wilderness,Mixed,Stalker,Combat,Disarm,,0,
+Wilderness,Mixed,Stalker,Combat,Dual Wield,advanced,3,
+Wilderness,Mixed,Stalker,Combat,Flee,advanced,3,
+Wilderness,Mixed,Stalker,Combat,Guarding,advanced,3,
+Wilderness,Mixed,Stalker,Combat,Hack,,0,
+Wilderness,Mixed,Stalker,Combat,Kick,,0,
+Wilderness,Mixed,Stalker,Combat,Parry,advanced,3,
+Wilderness,Mixed,Stalker,Combat,Rescue,advanced,3,
+Wilderness,Mixed,Stalker,Combat,Riposte,,0,
+Wilderness,Mixed,Stalker,Combat,Sap,,0,
+Wilderness,Mixed,Stalker,Combat,Shield Use,advanced,3,
+Wilderness,Mixed,Stalker,Combat,Sling Use,,0,
+Wilderness,Mixed,Stalker,Combat,Subdue,,0,
+Wilderness,Mixed,Stalker,Combat,Threaten,,0,
+Wilderness,Mixed,Stalker,Combat,Throw,advanced,3,
+Wilderness,Mixed,Stalker,Combat,Two Handed,advanced,3,
+Wilderness,Mixed,Stalker,Craft,Armor Making,,0,
+Wilderness,Mixed,Stalker,Craft,Armor Repair,,0,
+Wilderness,Mixed,Stalker,Craft,Axe Making,,0,
+Wilderness,Mixed,Stalker,Craft,Bandage Making,advanced,3,
+Wilderness,Mixed,Stalker,Craft,Basketweaving,,0,
+Wilderness,Mixed,Stalker,Craft,Bow Making,,0,
+Wilderness,Mixed,Stalker,Craft,Brew,advanced,3,
+Wilderness,Mixed,Stalker,Craft,Clayworking,,0,
+Wilderness,Mixed,Stalker,Craft,Clothworking,,0,
+Wilderness,Mixed,Stalker,Craft,Club Making,,0,
+Wilderness,Mixed,Stalker,Craft,Cooking,advanced,3,
+Wilderness,Mixed,Stalker,Craft,Dyeing,,0,
+Wilderness,Mixed,Stalker,Craft,Feather Working,,0,
+Wilderness,Mixed,Stalker,Craft,Fletchery,advanced,3,
+Wilderness,Mixed,Stalker,Craft,Floristry,advanced,3,
+Wilderness,Mixed,Stalker,Craft,Instrument Making,,0,
+Wilderness,Mixed,Stalker,Craft,Jewelry Making,,0,
+Wilderness,Mixed,Stalker,Craft,Knife Making,,0,
+Wilderness,Mixed,Stalker,Craft,Leatherworking,advanced,3,
+Wilderness,Mixed,Stalker,Craft,Lumberjacking,,0,
+Wilderness,Mixed,Stalker,Craft,Pick Making,,0,
+Wilderness,Mixed,Stalker,Craft,Spear Making,,0,
+Wilderness,Mixed,Stalker,Craft,Stonecrafting,,0,
+Wilderness,Mixed,Stalker,Craft,Sword Making,,0,
+Wilderness,Mixed,Stalker,Craft,Tanning,advanced,3,
+Wilderness,Mixed,Stalker,Craft,Tent Making,,0,
+Wilderness,Mixed,Stalker,Craft,Tool Making,,0,
+Wilderness,Mixed,Stalker,Craft,Wagon Making,,0,
+Wilderness,Mixed,Stalker,Craft,Woodworking,,0,
+Wilderness,Mixed,Stalker,Language,Allundean,,0,
+Wilderness,Mixed,Stalker,Language,Bendune,,0,
+Wilderness,Mixed,Stalker,Language,Cavilish,,0,
+Wilderness,Mixed,Stalker,Language,Mirukkium,,0,
+Wilderness,Mixed,Stalker,Language,Tribal Accent,,0,
+Wilderness,Mixed,Stalker,Manipulation,Bandage,master,4,
+Wilderness,Mixed,Stalker,Manipulation,Pick,,0,
+Wilderness,Mixed,Stalker,Manipulation,Pilot,,0,
+Wilderness,Mixed,Stalker,Manipulation,Poisoning,master,4,
+Wilderness,Mixed,Stalker,Manipulation,Ride,master,4,
+Wilderness,Mixed,Stalker,Manipulation,Skinning,master,4,
+Wilderness,Mixed,Stalker,Manipulation,Sleight of Hand,,0,
+Wilderness,Mixed,Stalker,Manipulation,Steal,,0,
+Wilderness,Mixed,Stalker,Perception,Direction Sense,master,4,
+Wilderness,Mixed,Stalker,Perception,Forage,master,4,
+Wilderness,Mixed,Stalker,Perception,Hunt (city),,0,
+Wilderness,Mixed,Stalker,Perception,Hunt (wilderness),master,4,
+Wilderness,Mixed,Stalker,Perception,Listen (city),,0,
+Wilderness,Mixed,Stalker,Perception,Listen (wilderness),,0,
+Wilderness,Mixed,Stalker,Perception,Peek,,0,
+Wilderness,Mixed,Stalker,Perception,Scan,master,4,
+Wilderness,Mixed,Stalker,Perception,Search,,0,
+Wilderness,Mixed,Stalker,Perception,Watch,master,4,
+Wilderness,Mixed,Stalker,Perk,Alcohol Tolerance Perk,,0,
+Wilderness,Mixed,Stalker,Perk,Better Movement Regeneration,x,1,
+Wilderness,Mixed,Stalker,Perk,City Forage,,0,
+Wilderness,Mixed,Stalker,Perk,City Hunt,,0,
+Wilderness,Mixed,Stalker,Perk,City Stealth,,0,
+Wilderness,Mixed,Stalker,Perk,Customcraft,,0,
+Wilderness,Mixed,Stalker,Perk,Hitch 2 Mounts,x,1,
+Wilderness,Mixed,Stalker,Perk,Learn Languages Perk,,0,
+Wilderness,Mixed,Stalker,Perk,Learn Ride Faster,,0,
+Wilderness,Mixed,Stalker,Perk,Pain Tolerance Perk,,0,
+Wilderness,Mixed,Stalker,Perk,Tame Mounts,x,1,
+Wilderness,Mixed,Stalker,Perk,Wilderness Forage,x,1,
+Wilderness,Mixed,Stalker,Perk,Wilderness Hunt,x,1,
+Wilderness,Mixed,Stalker,Perk,Wilderness Quit,x,1,
+Wilderness,Mixed,Stalker,Perk,Wilderness Stealth,x,1,
+Wilderness,Mixed,Stalker,Stealth,Climb,master,4,
+Wilderness,Mixed,Stalker,Stealth,Hide (city),,0,
+Wilderness,Mixed,Stalker,Stealth,Hide (wilderness),master,4,
+Wilderness,Mixed,Stalker,Stealth,Sneak (city),,0,
+Wilderness,Mixed,Stalker,Stealth,Sneak (wilderness),master,4,
+Wilderness,Mixed,Stalker,Weapon,Bludgeoning Weapons,advanced,3,
+Wilderness,Mixed,Stalker,Weapon,Chopping Weapons,,0,
+Wilderness,Mixed,Stalker,Weapon,Piercing Weapons,advanced,3,
+Wilderness,Mixed,Stalker,Weapon,Slashing Weapons,,0,
+Wilderness,Light mercantile,Adventurer,Barter,Haggle,,0,
+Wilderness,Light mercantile,Adventurer,Barter,Value,,0,
+Wilderness,Light mercantile,Adventurer,Combat,Archery,advanced,3,
+Wilderness,Light mercantile,Adventurer,Combat,Backstab,,0,
+Wilderness,Light mercantile,Adventurer,Combat,Bash,,0,
+Wilderness,Light mercantile,Adventurer,Combat,Blind Fighting,,0,
+Wilderness,Light mercantile,Adventurer,Combat,Blowgun Use,,0,
+Wilderness,Light mercantile,Adventurer,Combat,Charge,,0,
+Wilderness,Light mercantile,Adventurer,Combat,Crossbow Use,advanced,3,
+Wilderness,Light mercantile,Adventurer,Combat,Disarm,,0,
+Wilderness,Light mercantile,Adventurer,Combat,Dual Wield,advanced,3,
+Wilderness,Light mercantile,Adventurer,Combat,Flee,journeyman,2,
+Wilderness,Light mercantile,Adventurer,Combat,Guarding,,0,
+Wilderness,Light mercantile,Adventurer,Combat,Hack,,0,
+Wilderness,Light mercantile,Adventurer,Combat,Kick,,0,
+Wilderness,Light mercantile,Adventurer,Combat,Parry,journeyman,2,
+Wilderness,Light mercantile,Adventurer,Combat,Rescue,advanced,3,
+Wilderness,Light mercantile,Adventurer,Combat,Riposte,,0,
+Wilderness,Light mercantile,Adventurer,Combat,Sap,,0,
+Wilderness,Light mercantile,Adventurer,Combat,Shield Use,journeyman,2,
+Wilderness,Light mercantile,Adventurer,Combat,Sling Use,,0,
+Wilderness,Light mercantile,Adventurer,Combat,Subdue,,0,
+Wilderness,Light mercantile,Adventurer,Combat,Threaten,,0,
+Wilderness,Light mercantile,Adventurer,Combat,Throw,,0,
+Wilderness,Light mercantile,Adventurer,Combat,Two Handed,advanced,3,
+Wilderness,Light mercantile,Adventurer,Craft,Armor Making,,0,
+Wilderness,Light mercantile,Adventurer,Craft,Armor Repair,master,4,
+Wilderness,Light mercantile,Adventurer,Craft,Axe Making,,0,
+Wilderness,Light mercantile,Adventurer,Craft,Bandage Making,master,4,
+Wilderness,Light mercantile,Adventurer,Craft,Basketweaving,,0,
+Wilderness,Light mercantile,Adventurer,Craft,Bow Making,master,4,
+Wilderness,Light mercantile,Adventurer,Craft,Brew,master,4,
+Wilderness,Light mercantile,Adventurer,Craft,Clayworking,,0,
+Wilderness,Light mercantile,Adventurer,Craft,Clothworking,,0,
+Wilderness,Light mercantile,Adventurer,Craft,Club Making,,0,
+Wilderness,Light mercantile,Adventurer,Craft,Cooking,master,4,
+Wilderness,Light mercantile,Adventurer,Craft,Dyeing,,0,
+Wilderness,Light mercantile,Adventurer,Craft,Feather Working,,0,
+Wilderness,Light mercantile,Adventurer,Craft,Fletchery,master,4,
+Wilderness,Light mercantile,Adventurer,Craft,Floristry,master,4,
+Wilderness,Light mercantile,Adventurer,Craft,Instrument Making,,0,
+Wilderness,Light mercantile,Adventurer,Craft,Jewelry Making,,0,
+Wilderness,Light mercantile,Adventurer,Craft,Knife Making,master,4,
+Wilderness,Light mercantile,Adventurer,Craft,Leatherworking,master,4,
+Wilderness,Light mercantile,Adventurer,Craft,Lumberjacking,master,4,
+Wilderness,Light mercantile,Adventurer,Craft,Pick Making,,0,
+Wilderness,Light mercantile,Adventurer,Craft,Spear Making,master,4,
+Wilderness,Light mercantile,Adventurer,Craft,Stonecrafting,,0,
+Wilderness,Light mercantile,Adventurer,Craft,Sword Making,,0,
+Wilderness,Light mercantile,Adventurer,Craft,Tanning,master,4,
+Wilderness,Light mercantile,Adventurer,Craft,Tent Making,master,4,
+Wilderness,Light mercantile,Adventurer,Craft,Tool Making,master,4,
+Wilderness,Light mercantile,Adventurer,Craft,Wagon Making,,0,
+Wilderness,Light mercantile,Adventurer,Craft,Woodworking,,0,
+Wilderness,Light mercantile,Adventurer,Language,Allundean,,0,
+Wilderness,Light mercantile,Adventurer,Language,Bendune,,0,
+Wilderness,Light mercantile,Adventurer,Language,Cavilish,,0,
+Wilderness,Light mercantile,Adventurer,Language,Mirukkium,,0,
+Wilderness,Light mercantile,Adventurer,Language,Tribal Accent,,0,
+Wilderness,Light mercantile,Adventurer,Manipulation,Bandage,advanced,3,
+Wilderness,Light mercantile,Adventurer,Manipulation,Pick,,0,
+Wilderness,Light mercantile,Adventurer,Manipulation,Pilot,master,4,
+Wilderness,Light mercantile,Adventurer,Manipulation,Poisoning,,0,
+Wilderness,Light mercantile,Adventurer,Manipulation,Ride,advanced,3,
+Wilderness,Light mercantile,Adventurer,Manipulation,Skinning,master,4,
+Wilderness,Light mercantile,Adventurer,Manipulation,Sleight of Hand,,0,
+Wilderness,Light mercantile,Adventurer,Manipulation,Steal,,0,
+Wilderness,Light mercantile,Adventurer,Perception,Direction Sense,advanced,3,
+Wilderness,Light mercantile,Adventurer,Perception,Forage,advanced,3,
+Wilderness,Light mercantile,Adventurer,Perception,Hunt (city),,0,
+Wilderness,Light mercantile,Adventurer,Perception,Hunt (wilderness),advanced,3,
+Wilderness,Light mercantile,Adventurer,Perception,Listen (city),,0,
+Wilderness,Light mercantile,Adventurer,Perception,Listen (wilderness),,0,
+Wilderness,Light mercantile,Adventurer,Perception,Peek,,0,
+Wilderness,Light mercantile,Adventurer,Perception,Scan,advanced,3,
+Wilderness,Light mercantile,Adventurer,Perception,Search,advanced,3,
+Wilderness,Light mercantile,Adventurer,Perception,Watch,,0,
+Wilderness,Light mercantile,Adventurer,Perk,Alcohol Tolerance Perk,,0,
+Wilderness,Light mercantile,Adventurer,Perk,Better Movement Regeneration,x,1,
+Wilderness,Light mercantile,Adventurer,Perk,City Forage,,0,
+Wilderness,Light mercantile,Adventurer,Perk,City Hunt,,0,
+Wilderness,Light mercantile,Adventurer,Perk,City Stealth,,0,
+Wilderness,Light mercantile,Adventurer,Perk,Customcraft,,0,
+Wilderness,Light mercantile,Adventurer,Perk,Hitch 2 Mounts,x,1,
+Wilderness,Light mercantile,Adventurer,Perk,Learn Languages Perk,,0,
+Wilderness,Light mercantile,Adventurer,Perk,Learn Ride Faster,,0,
+Wilderness,Light mercantile,Adventurer,Perk,Pain Tolerance Perk,,0,
+Wilderness,Light mercantile,Adventurer,Perk,Tame Mounts,x,1,
+Wilderness,Light mercantile,Adventurer,Perk,Wilderness Forage,x,1,
+Wilderness,Light mercantile,Adventurer,Perk,Wilderness Hunt,x,1,
+Wilderness,Light mercantile,Adventurer,Perk,Wilderness Quit,x,1,
+Wilderness,Light mercantile,Adventurer,Perk,Wilderness Stealth,x,1,
+Wilderness,Light mercantile,Adventurer,Stealth,Climb,advanced,3,
+Wilderness,Light mercantile,Adventurer,Stealth,Hide (city),,0,
+Wilderness,Light mercantile,Adventurer,Stealth,Hide (wilderness),advanced,3,
+Wilderness,Light mercantile,Adventurer,Stealth,Sneak (city),,0,
+Wilderness,Light mercantile,Adventurer,Stealth,Sneak (wilderness),advanced,3,
+Wilderness,Light mercantile,Adventurer,Weapon,Bludgeoning Weapons,journeyman,2,
+Wilderness,Light mercantile,Adventurer,Weapon,Chopping Weapons,,0,
+Wilderness,Light mercantile,Adventurer,Weapon,Piercing Weapons,journeyman,2,
+Wilderness,Light mercantile,Adventurer,Weapon,Slashing Weapons,,0,
+Wilderness,Heavy mercantile,Dune.Trader,Barter,Haggle,master,4,
+Wilderness,Heavy mercantile,Dune.Trader,Barter,Value,master,4,
+Wilderness,Heavy mercantile,Dune.Trader,Combat,Archery,journeyman,2,
+Wilderness,Heavy mercantile,Dune.Trader,Combat,Backstab,,0,
+Wilderness,Heavy mercantile,Dune.Trader,Combat,Bash,,0,
+Wilderness,Heavy mercantile,Dune.Trader,Combat,Blind Fighting,,0,
+Wilderness,Heavy mercantile,Dune.Trader,Combat,Blowgun Use,,0,
+Wilderness,Heavy mercantile,Dune.Trader,Combat,Charge,,0,
+Wilderness,Heavy mercantile,Dune.Trader,Combat,Crossbow Use,journeyman,2,
+Wilderness,Heavy mercantile,Dune.Trader,Combat,Disarm,,0,
+Wilderness,Heavy mercantile,Dune.Trader,Combat,Dual Wield,journeyman,2,
+Wilderness,Heavy mercantile,Dune.Trader,Combat,Flee,,0,
+Wilderness,Heavy mercantile,Dune.Trader,Combat,Guarding,,0,
+Wilderness,Heavy mercantile,Dune.Trader,Combat,Hack,,0,
+Wilderness,Heavy mercantile,Dune.Trader,Combat,Kick,,0,
+Wilderness,Heavy mercantile,Dune.Trader,Combat,Parry,,0,
+Wilderness,Heavy mercantile,Dune.Trader,Combat,Rescue,,0,
+Wilderness,Heavy mercantile,Dune.Trader,Combat,Riposte,,0,
+Wilderness,Heavy mercantile,Dune.Trader,Combat,Sap,,0,
+Wilderness,Heavy mercantile,Dune.Trader,Combat,Shield Use,journeyman,2,
+Wilderness,Heavy mercantile,Dune.Trader,Combat,Sling Use,,0,
+Wilderness,Heavy mercantile,Dune.Trader,Combat,Subdue,,0,
+Wilderness,Heavy mercantile,Dune.Trader,Combat,Threaten,,0,
+Wilderness,Heavy mercantile,Dune.Trader,Combat,Throw,,0,
+Wilderness,Heavy mercantile,Dune.Trader,Combat,Two Handed,journeyman,2,
+Wilderness,Heavy mercantile,Dune.Trader,Craft,Armor Making,master,4,
+Wilderness,Heavy mercantile,Dune.Trader,Craft,Armor Repair,master,4,
+Wilderness,Heavy mercantile,Dune.Trader,Craft,Axe Making,master,4,
+Wilderness,Heavy mercantile,Dune.Trader,Craft,Bandage Making,master,4,
+Wilderness,Heavy mercantile,Dune.Trader,Craft,Basketweaving,master,4,
+Wilderness,Heavy mercantile,Dune.Trader,Craft,Bow Making,master,4,
+Wilderness,Heavy mercantile,Dune.Trader,Craft,Brew,master,4,
+Wilderness,Heavy mercantile,Dune.Trader,Craft,Clayworking,,0,
+Wilderness,Heavy mercantile,Dune.Trader,Craft,Clothworking,master,4,
+Wilderness,Heavy mercantile,Dune.Trader,Craft,Club Making,master,4,
+Wilderness,Heavy mercantile,Dune.Trader,Craft,Cooking,master,4,
+Wilderness,Heavy mercantile,Dune.Trader,Craft,Dyeing,master,4,
+Wilderness,Heavy mercantile,Dune.Trader,Craft,Feather Working,master,4,
+Wilderness,Heavy mercantile,Dune.Trader,Craft,Fletchery,master,4,
+Wilderness,Heavy mercantile,Dune.Trader,Craft,Floristry,master,4,
+Wilderness,Heavy mercantile,Dune.Trader,Craft,Instrument Making,master,4,
+Wilderness,Heavy mercantile,Dune.Trader,Craft,Jewelry Making,master,4,
+Wilderness,Heavy mercantile,Dune.Trader,Craft,Knife Making,master,4,
+Wilderness,Heavy mercantile,Dune.Trader,Craft,Leatherworking,master,4,
+Wilderness,Heavy mercantile,Dune.Trader,Craft,Lumberjacking,master,4,
+Wilderness,Heavy mercantile,Dune.Trader,Craft,Pick Making,,0,
+Wilderness,Heavy mercantile,Dune.Trader,Craft,Spear Making,master,4,
+Wilderness,Heavy mercantile,Dune.Trader,Craft,Stonecrafting,master,4,
+Wilderness,Heavy mercantile,Dune.Trader,Craft,Sword Making,,0,
+Wilderness,Heavy mercantile,Dune.Trader,Craft,Tanning,master,4,
+Wilderness,Heavy mercantile,Dune.Trader,Craft,Tent Making,master,4,
+Wilderness,Heavy mercantile,Dune.Trader,Craft,Tool Making,master,4,
+Wilderness,Heavy mercantile,Dune.Trader,Craft,Wagon Making,,0,
+Wilderness,Heavy mercantile,Dune.Trader,Craft,Woodworking,master,4,
+Wilderness,Heavy mercantile,Dune.Trader,Language,Allundean,,0,
+Wilderness,Heavy mercantile,Dune.Trader,Language,Bendune,master,4,
+Wilderness,Heavy mercantile,Dune.Trader,Language,Cavilish,,0,
+Wilderness,Heavy mercantile,Dune.Trader,Language,Mirukkium,,0,
+Wilderness,Heavy mercantile,Dune.Trader,Language,Tribal Accent,,0,
+Wilderness,Heavy mercantile,Dune.Trader,Manipulation,Bandage,,0,
+Wilderness,Heavy mercantile,Dune.Trader,Manipulation,Pick,,0,
+Wilderness,Heavy mercantile,Dune.Trader,Manipulation,Pilot,master,4,
+Wilderness,Heavy mercantile,Dune.Trader,Manipulation,Poisoning,,0,
+Wilderness,Heavy mercantile,Dune.Trader,Manipulation,Ride,advanced,3,
+Wilderness,Heavy mercantile,Dune.Trader,Manipulation,Skinning,advanced,3,
+Wilderness,Heavy mercantile,Dune.Trader,Manipulation,Sleight of Hand,,0,
+Wilderness,Heavy mercantile,Dune.Trader,Manipulation,Steal,,0,
+Wilderness,Heavy mercantile,Dune.Trader,Perception,Direction Sense,advanced,3,
+Wilderness,Heavy mercantile,Dune.Trader,Perception,Forage,journeyman,2,
+Wilderness,Heavy mercantile,Dune.Trader,Perception,Hunt (city),,0,
+Wilderness,Heavy mercantile,Dune.Trader,Perception,Hunt (wilderness),,0,
+Wilderness,Heavy mercantile,Dune.Trader,Perception,Listen (city),,0,
+Wilderness,Heavy mercantile,Dune.Trader,Perception,Listen (wilderness),advanced,3,
+Wilderness,Heavy mercantile,Dune.Trader,Perception,Peek,,0,
+Wilderness,Heavy mercantile,Dune.Trader,Perception,Scan,advanced,3,
+Wilderness,Heavy mercantile,Dune.Trader,Perception,Search,,0,
+Wilderness,Heavy mercantile,Dune.Trader,Perception,Watch,,0,
+Wilderness,Heavy mercantile,Dune.Trader,Perk,Alcohol Tolerance Perk,,0,
+Wilderness,Heavy mercantile,Dune.Trader,Perk,Better Movement Regeneration,,0,
+Wilderness,Heavy mercantile,Dune.Trader,Perk,City Forage,x,1,
+Wilderness,Heavy mercantile,Dune.Trader,Perk,City Hunt,,0,
+Wilderness,Heavy mercantile,Dune.Trader,Perk,City Stealth,x,1,
+Wilderness,Heavy mercantile,Dune.Trader,Perk,Customcraft,x,1,
+Wilderness,Heavy mercantile,Dune.Trader,Perk,Hitch 2 Mounts,,0,
+Wilderness,Heavy mercantile,Dune.Trader,Perk,Learn Languages Perk,,0,
+Wilderness,Heavy mercantile,Dune.Trader,Perk,Learn Ride Faster,,0,
+Wilderness,Heavy mercantile,Dune.Trader,Perk,Pain Tolerance Perk,,0,
+Wilderness,Heavy mercantile,Dune.Trader,Perk,Tame Mounts,,0,
+Wilderness,Heavy mercantile,Dune.Trader,Perk,Wilderness Forage,,0,
+Wilderness,Heavy mercantile,Dune.Trader,Perk,Wilderness Hunt,,0,
+Wilderness,Heavy mercantile,Dune.Trader,Perk,Wilderness Quit,,0,
+Wilderness,Heavy mercantile,Dune.Trader,Perk,Wilderness Stealth,,0,
+Wilderness,Heavy mercantile,Dune.Trader,Stealth,Climb,,0,
+Wilderness,Heavy mercantile,Dune.Trader,Stealth,Hide (city),,0,
+Wilderness,Heavy mercantile,Dune.Trader,Stealth,Hide (wilderness),,0,
+Wilderness,Heavy mercantile,Dune.Trader,Stealth,Sneak (city),,0,
+Wilderness,Heavy mercantile,Dune.Trader,Stealth,Sneak (wilderness),,0,
+Wilderness,Heavy mercantile,Dune.Trader,Weapon,Bludgeoning Weapons,,0,
+Wilderness,Heavy mercantile,Dune.Trader,Weapon,Chopping Weapons,,0,
+Wilderness,Heavy mercantile,Dune.Trader,Weapon,Piercing Weapons,journeyman,2,
+Wilderness,Heavy mercantile,Dune.Trader,Weapon,Slashing Weapons,,0,
