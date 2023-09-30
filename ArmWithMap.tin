@@ -1,0 +1,595 @@
+#NOP **** MarshallDFXs TinTin++ Armageddon MUD script ****
+#NOP Special thanks to player nauta who originally posted a tintin++ script which I
+#NOP took and run with.
+
+#NOP This script requires you to separately create a map file, named 'MyMap.map' in
+#NOP TinTin because this script will load that file.  This also requires basic
+#NOP familiarity with the mapping commands within TinTin, or you're going to run
+#NOP into trouble very quickly!
+
+#CONFIG {AUTO TAB} {5000}
+#CONFIG {BUFFER SIZE} {1000000}
+#CONFIG {CHARSET} {UTF-8}
+#CONFIG {COLOR MODE} {256}
+#CONFIG {COLOR PATCH} {ON}
+#CONFIG {COMMAND COLOR} {<g08>}
+#CONFIG {COMMAND ECHO} {ON}
+#CONFIG {COMPACT} {OFF}
+#CONFIG {CONNECT RETRY} {15.0}
+#CONFIG {HISTORY SIZE} {1000}
+#CONFIG {LOG MODE} {HTML}
+#CONFIG {MOUSE} {ON}
+#CONFIG {PACKET PATCH} {0.50}
+#CONFIG {REPEAT CHAR} {!}
+#CONFIG {REPEAT ENTER} {OFF}
+#CONFIG {SCREEN READER} {OFF}
+#CONFIG {SCROLL LOCK} {ON}
+#CONFIG {SPEEDWALK} {ON}
+#CONFIG {TELNET} {ON}
+#CONFIG {TINTIN CHAR} {#}
+#CONFIG {VERBATIM} {OFF}
+#CONFIG {VERBATIM CHAR} {\}
+#CONFIG {VERBOSE} {OFF}
+#CONFIG {WORDWRAP} {ON}
+
+#nop -------------------------------------------------------------------------
+#nop CUSTOM PATHDIRs: these are necessary for mapping when you want the map
+#nop or automapper to follow you into enterable objects like tents
+#nop you may need to add to this list.
+#nop -------------------------------------------------------------------------
+
+#PATHDIR {d}  {u}  {32}
+#PATHDIR {e}  {w}  {2}
+#PATHDIR {n}  {s}  {1}
+#PATHDIR {s}  {n}  {4}
+#PATHDIR {u}  {d}  {16}
+#PATHDIR {w}  {e}  {8}
+#PATHDIR {ne}  {sw}  {3}
+#PATHDIR {nw}  {se}  {9}
+#PATHDIR {se}  {nw}  {6}
+#PATHDIR {sw}  {ne}  {12}
+#PATHDIR {enter village} {leave}
+#PATHDIR {enter tent} {leave}
+#PATHDIR {enter 2.tent} {leave}
+#PATHDIR {enter stand} {leave}
+#PATHDIR {enter stall} {leave}
+#PATHDIR {enter booth} {leave}
+#PATHDIR {enter building} {leave}
+#PATHDIR {enter pavilion} {leave}
+#PATHDIR {enter ranch} {leave}
+#PATHDIR {enter warehouse} {leave}
+#PATHDIR {enter hovel} {leave}
+#PATHDIR {enter emporium} {leave}
+#PATHDIR {enter encampment} {leave}
+#PATHDIR {enter pen} {leave}
+#PATHDIR {enter hut} {leave}
+#PATHDIR {enter fortress} {leave}
+
+#ALIAS {up} {u}
+#ALIAS {down} {d}
+#ALIAS {west} {w}
+#ALIAS {east} {e}
+#ALIAS {north} {n}
+#ALIAS {south} {s}
+#ALIAS {out} {leave}
+#ALIAS {so} {s}
+#ALIAS {no} {n}
+#ALIAS {do} {d}
+
+
+#nop -------------------------------------------------------------------------
+#nop HIGHLIGHT PACKAGE: InstallInfobar reduces the amount of default colours
+#nop used and creates client highlighting. Alias 'colorpalette' shows colcodes
+#nop -------------------------------------------------------------------------
+
+#HIGHLIGHT {A foreign presence contacts your mind%*} {<aff>} {5}
+#HIGHLIGHT {A loud bell chimes, echoing across the city%*} {<aff>} {5}
+#HIGHLIGHT {A staff member sends} {<aff>} {5}
+#HIGHLIGHT {The body of } {<add>} {5}
+#HIGHLIGHT {The head of } {<add>} {5}
+#HIGHLIGHT {To the {north|south|west|east}} {<add>} {5}
+#HIGHLIGHT {You already have} {<aff>} {5}
+#HIGHLIGHT {You are dehydrated%*} {<ffa>} {5}
+#HIGHLIGHT {You are famished%*} {<dda>} {5}
+#HIGHLIGHT {You are starving%*} {<ffa>} {5}
+#HIGHLIGHT {You are wanted in} {bold} {5}
+#HIGHLIGHT {You feel burning poison in your blood, and suffer%*} {<ffa>} {5}
+#HIGHLIGHT {You follow} {<add>} {5}
+#HIGHLIGHT {You lost your concentration} {<178>} {5}
+#HIGHLIGHT {You notice } {<add>} {5}
+#HIGHLIGHT {You subdue} {<ffa>} {5}
+#HIGHLIGHT {You suffer from dehydration%*} {<ffa>} {5}
+#HIGHLIGHT {You're now wanted%*} {bold} {5}
+#HIGHLIGHT {Your psychic barrier is crushed%*} {<aff>} {5}
+#HIGHLIGHT {[armed]} {<ffe>} {5}
+#HIGHLIGHT {[running]} {<ffe>} {5}
+#HIGHLIGHT {[sneaking]} {<ffe>} {5}
+#HIGHLIGHT {^     "%0"} {<cfa>} {5}
+#HIGHLIGHT {^<both hands> %*} {<add>} {5}
+#HIGHLIGHT {^<primary hand> %*} {<add>} {5}
+#HIGHLIGHT {^<secondary hand> %*} {<add>} {5}
+#HIGHLIGHT {^At your table,} {<add>} {5}
+#HIGHLIGHT {a glowing leather-strapped} {<bea>} {5}
+#HIGHLIGHT {a strange taste} {<ffa>} {5}
+#HIGHLIGHT {and knocks you over} {<ffa>} {5}
+#HIGHLIGHT {arrow flies in from} {<faa>} {5}
+#HIGHLIGHT {asks you,} {<aff>} {5}
+#HIGHLIGHT {attack reversed} {<faa>} {5}
+#HIGHLIGHT {attacks {the|a} } {<faa>} {5}
+#HIGHLIGHT {bat you} {<ffa>} {5}
+#HIGHLIGHT {begins fighting} {<ffa>} {5}
+#HIGHLIGHT {begins guarding } {<ffa>} {5}
+#HIGHLIGHT {chasm} {<faa>} {5}
+#HIGHLIGHT {crumples to the ground} {<faa>} {5}
+#HIGHLIGHT {darts in front of you} {<ffa>} {5}
+#HIGHLIGHT {fail the rescue} {<ffa>} {5}
+#HIGHLIGHT {falls in behind you} {<add>} {5}
+#HIGHLIGHT {from your hands} {<ffa>} {5}
+#HIGHLIGHT {fumble and drop} {<faa>} {5}
+#HIGHLIGHT {fumbles} {<faa>} {5}
+#HIGHLIGHT {gives you} {light <add>} {5}
+#HIGHLIGHT {has arrived from %*} {<ffa>} {5}
+#HIGHLIGHT {is not fighting anyone} {<ffa>} {5}
+#HIGHLIGHT {looks really sick, and shivers uncomfortably} {<ffa>} {5}
+#HIGHLIGHT {nimbly avoids your bash} {<ffa>} {5}
+#HIGHLIGHT {out of character} {<aff>} {5}
+#HIGHLIGHT {protects you from harm} {<faa>} {5}
+#HIGHLIGHT {refuses to move} {<add>} {5}
+#HIGHLIGHT {rescues the} {<ffa>} {5}
+#HIGHLIGHT {rolls with your charge} {<ffa>} {5}
+#HIGHLIGHT {says to you} {<aff>} {5}
+#HIGHLIGHT {sends you sprawling} {<ffa>} {5}
+#HIGHLIGHT {stops attacking} {<ffa>} {5}
+#HIGHLIGHT {stops fighting} {<ffa>} {5}
+#HIGHLIGHT {subdues you, despite your attempts} {<faa>} {5}
+#HIGHLIGHT {throws} {<ffa>} {5}
+#HIGHLIGHT {throws you from its back} {<add>} {5}
+#HIGHLIGHT {too fast for you, so you lag behind} {<add>} {5}
+#HIGHLIGHT {tries to protect} {<ffa>} {5}
+#HIGHLIGHT {tries unsuccessfully to dart in front} {<ffa>} {5}
+#HIGHLIGHT {{North|South|West|East} of here} {<add>} {5}
+#HIGHLIGHT {{carru|templar|tarantula|scrab|anakore|gortok|gith|bahamet|mekillot|cylops|ciclops|raptor} has arrived} {<faa>} {5}
+#HIGHLIGHT {{charge|charges} into the fight} {<ffa>} {5}
+#HIGHLIGHT {{knocks|knock} a } {<faa>} {5}
+#HIGHLIGHT {{leaps|leap} in front of } {<ffa>} {5}
+#HIGHLIGHT {{reel|reels} from the blow} {<faa>} {5}
+#HIGHLIGHT {{seem|seems} to have {your|his|her|its} hands full} {<aff>} {5}
+#HIGHLIGHT {{walks|runs|sneaks|run|sneak|walk} {north|south|west|east|up|down}} {<add>} {5}
+
+#nop -------------------------------------------------------------------------
+#nop Regex colour substitutions to make it clearer who you are attacking.
+#nop ---
+#nop -------------------------------------------------------------------------
+
+#substitute {%1 {attacks you.}} {<fef>%1<099> %2}
+#substitute {%1 {lightly|solidly|brutally|viciously} {gores|bites|claws|pecks|hits|chops|stings|stabs|whips|pinches|bludgeons|slashes|pierces} {at you|your|you}%5} {
+<fef>%1<099> %2 <170>%3<099> %4%5}
+#substitute {%1 {gores|bites|claws|pecks|hits|chops|stings|stabs|whips|pinches|bludgeons|slashes|pierces} {your|you}%4} {
+<fef>%1<099> <170>%2<099> %3%4}
+#substitute {%1 {gores|bites|claws|pecks|hits|chops|stings|stabs|whips|pinches|bludgeons|slashes|pierces} %3{'s|, barely} %5} {
+<fef>%1<099> <170>%2<099> <fef>%3<099>%4 %5}
+#substitute {%1 {lightly|solidly|brutally|viciously} {gores|bites|claws|pecks|hits|chops|stings|stabs|whips|pinches|bludgeons|slashes|pierces} %4 on %6} {
+<fef>%1<099> <170>%2 %3<099> <fef>%4<099> on %6}
+#substitute {%1 {gores|bites|claws|pecks|hits|chops|stings|stabs|whips|pinches|bludgeons|slashes|pierces} %3 on %5} {
+<fef>%1<099> <170>%2<099> <fef>%3<099> on %5}
+#substitute {{You} {lightly|solidly|brutally|viciously} {nick|slash|chop|stab|whip|bludgeon|hit|pierce} %4{'s} %6} {
+  %1 %2 %3 <fef>%4<099>%5 %6}
+#substitute {{You} {nick|slash|chop|stab|whip|bludgeon|hit|pierce} %3{'s} %5} {
+%1 %2 <fef>%3<099>%4 %5}
+#substitute {{You} {lightly|solidly|brutally|viciously} {nick|slash|chop|stab|whip|bludgeon|hit|pierce} %4 {very|on}} {
+%1 %2 %3 <fef>%4<099> %5}
+#substitute {{You} {nick|slash|chop|stab|whip|bludgeon|hit|pierce} %3{, barely| very| on}} {%1 %2 <fef>%3<099>%4}
+#substitute {{You inflict a grievous wound on} %2{'s} %4} {%1 <fef>%2<099>%3 %4}
+#substitute {{You wound} %2 {on} %4} {%1 <fef>%2<099> %3 %4}
+#substitute {{You do unspeakable damage to} %2{'s} %4} {%1 <fef>%2<099>%3 %4}
+#substitute {{You land a solid} {nick|slash|chop|stab|whip|bludgeon|hit|pierce} {to} %4{'s} %6} {%1 %2 %3 <fef>%4<099>%5 %6}
+
+#nop -------------------------------------------------------------------------
+#nop This alias gives you TinTin visually shows you colour codes so you can
+#nop colour things just how you want them
+#nop -------------------------------------------------------------------------
+
+#ALIAS {colorpalette}
+{
+    #foreach {a;b;c;d;e;f} {cnt1}
+    {
+        #foreach {a;b;c;d;e;f} {cnt2}
+        {
+            #variable result <000>;
+            #foreach {a;b;c;d;e;f} {cnt3}
+            {
+                #variable result $result  <$cnt1$cnt2$cnt3> <<888>$cnt1$cnt2$cnt3><088>
+            };
+            #showme $result
+        }
+    }
+}
+
+#ALIAS {colourpalette} {colorpalette}
+
+
+#nop -------------------------------------------------------------------------
+#nop SOUNDS ALERTS: Uses default bell command which should system beep
+#nop experiences may vary depending on what system/terminal you use
+#nop -------------------------------------------------------------------------
+
+#ACTION {beeps you.$}
+{
+    #bell
+}
+
+#ACTION {^A foreign}
+{
+    #bell
+}
+
+#ACTION {^SYSTEM:}
+{
+    #bell
+}
+
+#nop -------------------------------------------------------------------------
+#nop MOUSE NAV: can click in input bar to move cursor and use scroll wheel for
+#nop the buffer. Issue is right-click-paste doesn't work. use shift+rght clk
+#nop -------------------------------------------------------------------------
+
+#EVENT {PRESSED INPUT MOUSE BUTTON ONE}
+{
+    #cursor position %0 %1
+}
+
+#EVENT {SCROLLED MOUSE WHEEL DOWN}
+{
+    #buffer down 4
+}
+
+#EVENT {SCROLLED MOUSE WHEEL UP}
+{
+    #buffer up 4
+}
+
+#nop -------------------------------------------------------------------------
+#nop PROMPT/INFOBAR: InstallInfobar installs prompt and new arm default colors
+#nop use ManaOff or ManaOn to disable/enable mana in the infobar
+#nop -------------------------------------------------------------------------
+
+#alias {installinfobar} {InstallInfobar}
+#alias {installprompt} {InstallInfobar}
+#alias {myprompt} {InstallInfobar}
+
+#ALIAS {InstallInfobar}
+{
+    #nop PROMPT_time_day_hunger_thirst_drunk_mood_LINEONE;
+    #nop PROMPT_hp_maxhp_stamina_maxstamina_stun_maxstun_focus_maxfocus_mana_maxmana_armed_position_encumbrance_LINETWO;
+    #nop PROMPT_speed_riding_accent_language_scan_listen_LINETHREE;
+    #send {prompt PROMPT_%e_%d_%u_%U_%R_%O_LINEONE\\nPROMPT_%h_%H_%v_%V_%t_%T_%x_%X_%m_%M_%A_%s_%E_LINETWO\\nPROMPT_%w_%k_%a_%o_%p_%P_LINETHREE\\n};
+    change color none;
+    change color fg_room_name 11;
+    change color fg_room_exits 208;
+    change color fg_object 14;
+    change color fg_char 142;
+    change color emphasize off
+}
+
+#ALIAS {ManaOff}
+{
+    #variable Mana Off;
+    #showme Hiding mana values
+}
+#ALIAS {manaoff} {ManaOff}
+
+#ALIAS {ManaOn}
+{
+    #variable Mana On;
+    #showme Displaying mana values
+}
+#ALIAS {manaon} {ManaOn}
+
+#VARIABLE {Mana} {Off}
+
+#nop cval is for colour highlighting of stat values
+#ALIAS {cval}
+{
+    #variable %3 %1;
+    #math {p_h} {%1.00 / %2.00};
+    #if {$p_h <= 0.80 && $p_h > 0.70}
+    {
+        #variable %3 <ffe>${%3}<090>
+    };
+    #elseif {$p_h <= 0.70 && $p_h > 0.55}
+    {
+        #variable %3 <ffa>${%3}<090>
+    };
+    #elseif {$p_h <= 0.55 && $p_h > 0.25}
+    {
+        #variable %3 <fba>${%3}<090>
+    };
+    #elseif {$p_h <= 0.25}
+    {
+        #variable %3 <faa>${%3}<090>
+    }
+}
+
+#nop top bar
+#ACTION {PROMPT_%1_%2_%3_%4_%5_%6_LINEONE}
+{
+    #showme {- [%1 on %2] [%3] [%4] [%5] Mood: %6 - } {1}
+}
+{1}
+#nop bottom bar
+#ACTION {PROMPT_%1_%2_%3_%4_%5_%6_%7_%8_%9_%10_%11_%12_%13_LINETWO}
+{
+    cval {%1} {%2} {h};
+    cval {%3} {%4} {v};
+    cval {%5} {%6} {t};
+    cval {%7} {%8} {f};
+    cval {%9} {%10} {m};
+    #if {"$Mana" == "Off"}
+    {
+        #showme {- hp:${h}/%2 mv:${v}/%4 st:${t}/%6 fs:${f}/%8 [%11] [%12] [%13] -} {-6}
+    };
+    #else
+    {
+        #showme {- hp:${h}/%2 mv:${v}/%4 st:${t}/%6 fs:${f}/%8 mn:${m}/%10 [%11] [%12] [%13] -} {-6}
+    }
+}
+{1}
+#nop bottom bar
+#ACTION {PROMPT_%1_%2_%3_%4_%5_%6_LINETHREE}
+{
+    #showme {- [%1] [%2] [%3 %4] [%5 %6] -} {-5};
+    #variable speed %1;
+    #variable riding %2
+}
+{1}
+
+#GAG {PROMPT_%*_LINEONE}
+#GAG {PROMPT_%*_LINETHREE}
+#GAG {PROMPT_%*_LINETWO}
+
+#nop -------------------------------------------------------------------------
+#nop LOGGING: logs to HTML file with current date.
+#nop the command log can be used to turn logging on and off. 
+#nop -------------------------------------------------------------------------
+
+#SCRIPT {LogDir} {mkdir -p ~/ArmLogs; cd ~/ArmLogs; pwd}
+
+#ALIAS {log}
+{
+    #if {"%0" == "on"}
+    {
+        #if {"$logging" != "on"}
+        {
+            #format {logfile} {$LogDir[1]/%t.html} {%Y-%m-%d};
+            #log append $logfile;
+            #showme Starting logging.;
+            #variable logging on
+        };
+        #else
+        {
+            #showme You are already logging.
+        }
+    };
+    #elseif {"%0" == "off"}
+    {
+        #if {"$logging" == "on"}
+        {
+            #showme Stopping logging.;
+            #log off;
+            #variable logging off
+        };
+        #else
+        {
+            #showme You are not logging.
+        }
+    };
+    #else
+    {
+        #showme Logging is currently $logging ...
+    }
+}
+
+#nop -------------------------------------------------------------------------
+#nop MAPPING PACKAGE
+#nop 
+#nop -------------------------------------------------------------------------
+
+#NOP These actions undo a movement or creation of a new room in circumstances where 
+#NOP you could not move when you attempted to, or if you are following somebody
+#ACTION {%*You flee, heading %.} {#map move %2} 
+#ACTION {You follow %1, and walk %.} {#map move %2}
+#ACTION {You are too exhausted} {#map undo} 
+#ACTION {You cannot go '%1', there is no exit that way.} {#map undo}
+#ACTION {You'll need at least one hand free for the reins.} {#map undo}
+#ACTION {^You can't take a mount there.} {#map undo}
+#ACTION {The %1 prevents you from moving %2.} {#map undo}
+#ACTION {You attempt to walk, but trip and fall on your face.} {#map undo}
+#ACTION {^The door seems to be closed.} {#map undo}
+#ACTION {^You try to climb, but slip.} {#map undo}
+
+#NOP these aliases keep the map in line when emotes are used with move directions
+#ALIAS {{n|e|s|w|u|d} (%*)} {#send %1 (%2); #map move %1}
+#ALIAS {north (%1)} {#send n (%1); #map move n}
+#ALIAS {east (%1)} {#send e (%1); #map move e}
+#ALIAS {south (%1)} {#send s (%1); #map move s}
+#ALIAS {west (%1)} {#send w (%1); #map move w}
+
+#NOP Also stop any potential map pathing when sending stop command
+#ALIAS {stop} {#path stop; #send stop}
+
+
+#NOP This alias works the same as the log command, it turns mapping creation of new rooms in the map on and off
+
+#alias {map} {
+	#if {"%0" == "on"}
+	{
+		#if {"$mapping" != "on"}
+		{	
+		    #class mapping load;
+			#map flag static off;	
+			#showme Starting mapping. If you want to manually assign the rooms to an area, set variable manualarea.  Currently ${manualarea};
+			#var mapping on
+		};
+		#else
+		{
+			#showme You are already mapping.
+		}
+	};
+	#elseif {"%0" == "off"}
+	{
+		#if {"$mapping" == "on"}
+		{
+			#class mapping clear;
+			#map flag static on;
+			#map write MyMap.map;
+			#showme No longer mapping rooms. Map saved.;			
+			#var mapping off			
+		};
+		#else
+		{
+			#showme You are not mapping.
+		}
+	};
+	#else
+	{
+		#showme Mapping is currently $mapping ...  
+	}
+}
+
+#nop -------------------------------------------------------------------------
+#nop MAPPING MOUSE EVENTS: Click and drag the map around and it will move the centre
+#nop double click and it will show you information on that room
+#nop Click middle mouse button and it will walk you there with #map run
+#nop -------------------------------------------------------------------------
+
+
+#NOP MOUSE EVENTS
+#event {MAP REGION PRESSED MOUSE BUTTON ONE} {
+        #var {o_x} %0;
+        #var {o_y} %1;
+        #var {pressed_at} %0
+}
+
+#event {MAP REGION MOVED MOUSE BUTTON ONE} {
+            #var d_x %0;
+            #var d_y %1;
+            #math {c_x} {$o_x - $d_x};
+            #math {c_y} {$d_y - $o_y};
+            #map center $c_y $c_x 0
+}
+
+#event {MAP ROOM DOUBLE-CLICKED MOUSE BUTTON ONE} {#showme {<afa>Room: vnum %4}; #map at %4 #map set}
+
+#event {MAP ROOM PRESSED MOUSE BUTTON TWO} {
+#if {"$riding" == "riding: none" && "$speed" == "walking"} {#var pathdelay 4.0};
+#if {"$riding" == "riding: none" && "$speed" == "running"} {#var pathdelay 2.5};
+#if {"$riding" != "riding: none" && "$speed" == "walking"} {#var pathdelay 3.0};
+#if {"$riding" != "riding: none" && "$speed" == "running"} {#var pathdelay 2.0};
+#map run {%4} {$pathdelay}
+}
+
+#nop -------------------------------------------------------------------------
+#nop MAPPING ON - TRIGGERS.  These will only be activated when the mapping
+#nop variable is on.
+#nop -------------------------------------------------------------------------
+
+#nop a class saves a set of triggers into a group which can be turned on and off
+#class mapping open
+
+#NOP This action captures the room name and saves it, but also colours the square
+#NOP on the map based on the 
+
+#ACTION {~\e[38;5;11m%1\e[0m} {
+#map set roomname %1;
+#NOP Southlands;
+#regexp {%1} {Scoria} {#map set roomcolor <eba>; #map set roomarea Southlands;} {};
+#regexp {%1} {Wave Dunes} {#map set roomcolor <fed>; #map set roomarea Southlands;} {};
+#regexp {%1} {Crescent Dunes} {#map set roomcolor <fec>; #map set roomarea Southlands;} {};
+#regexp {%1} {Salt Flats} {#map set roomcolor <dff>; #map set roomarea Southlands;} {};
+#regexp {%1} {Rocky Wasteland} {#map set roomcolor <dcb>; #map set roomarea Southlands;} {};
+#regexp {%1} {Arid Fields} {#map set roomcolor <ffb>; #map set roomarea Southlands;} {};
+#regexp {%1} {Arid Plains} {#map set roomcolor <fda>; #map set roomarea Southlands;} {};
+#regexp {%1} {Dusty Plains} {#map set roomcolor <ceb>; #map set roomarea Southlands;} {};
+#regexp {%1} {Windy Plains} {#map set roomcolor <cec>; #map set roomarea Southlands;} {};
+
+#NOP Red Desert;
+#regexp {%1} {Sandy Wastes} {#map set roomcolor <ecb>; #map set roomarea {Red Desert};} {};
+
+#NOP Tablelands;
+#regexp {%1} {Base of the Shield Wall} {#map set roomcolor <aae>; #map set roomarea Tablelands;} {};
+
+#NOP Northlands;
+#regexp {%1} {Scrub Plains} {#map set roomcolor <cdb>; #map set roomarea Northlands;} {};
+#regexp {%1} {Agafari Forest} {#map set roomcolor <aca>; #map set roomarea Northlands;} {};
+
+#NOP Roads - overwrite roads with default colour because sometimes there can be like: road on the salt flats;
+#regexp {%1} {Rock-lined Road} {#map set roomcolor <099>} {};
+#regexp {%1} {North Road} {#map set roomcolor <099>} {};
+#regexp {%1} {Outer Circle} {#map set roomcolor <099>; #map set roomarea Southlands;} {};
+#regexp {%1} {The Salt Flats Road} {#map set roomcolor <099>; #map set roomarea Southlands;} {};
+
+#NOP override room area variable if user has set manualarea to something;
+#if {&{manualarea}} {#map set roomarea ${manualarea}}
+} {7}
+
+#NOP This captures the room description and also removes the prompt in case it is accidentally
+#NOP caputred as part of the room desc which it sometimes is.
+#ACTION {~\e[38;5;208m [%2]\e[0m\n%a} {
+#var roomexits %2;
+#var roomdesc %3;
+#replace {roomdesc} {PROMPT_%*_LINEONE} {};
+#replace {roomdesc} {PROMPT_%*_LINETWO} {};
+#replace {roomdesc} {PROMPT_%*_LINETHREE} {};
+#map set roomdesc ${roomdesc}
+}
+
+#NOP This action captures any shop list into the roomnote field.  Unfortunately it cant contain
+#NOP newlines so its a bit messy.
+#ACTION {%2 has the following goods to trade:\n%a} {
+#local shoplist {%2 has the following goods to trade: %3};
+#replace {shoplist} {\n} {};
+#map set roomnote ${shoplist};
+} {6}
+
+#NOP Use 'mapbranch e' to insert a hidden void room between two rooms.  This will put the two
+#NOP rooms onto different branches, which is how you might hide a city vs outdoors, where the
+#NOP rooms would otherwise overlap.
+#alias {mapbranch %.} {#map insert %1 {void;hide}}
+
+#NOP alias for highlighting shop rooms.  Can put others.
+#alias {mapshop} {#map set roomsymbol $; #map set roomcolor <fea>}
+
+#nop triggers after this point are not included in the mapping class.
+#class mapping close
+
+
+
+#nop -------------------------------------------------------------------------
+#nop SCREEN SETUP AND CONNECTION
+#nop 
+#nop -------------------------------------------------------------------------
+
+#split 2 4 0 -85 3
+
+#SESSION Armageddon ginka.armageddon.org 4050
+
+#nop logging is on by default to linux personal directory. -------------------
+#FORMAT {logfile} {$LogDir[1]/%t.html} {%Y-%m-%d};
+#LOG append $logfile
+
+#VARIABLE {logging} {on}
+#VARIABLE {mapping} {off}
+
+#nop Saving and clearing the mapping triggers need ot be after loading session.
+#class mapping save
+#class mapping clear
+
+#map read MyMap.map
+#map return
+#map flag vtmap on
+#map offset 3 87 -6 -1
+
+
+#action {Come back soon!} {#map write MyMap.map}
+
+#nop -------------------------------------------------------------------------
