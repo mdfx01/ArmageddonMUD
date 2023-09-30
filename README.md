@@ -19,8 +19,17 @@ For all of the above plus mapping capabilities:
 
 Note for the mapping to work, you need to separately create a map call "MyMap.map" from within TinTin++.  The script loads this map.  Over time you will want to add to the triggers.
 
-Then run the script with a command like:
-* tt++ ArmMobile.tin
+To create your own new blank map, launch tt++ then do:
+```
+#map create 200000
+#map goto 1
+#map flag vtmap on
+#map write MyMap.map
+```
+Then load the script with mapping capabilities, which loads MyMap.map.  You can change the names of everything if you want.
+
+You can run a script with a command like:
+* tt++ Arm.tin
 
 The commands are the same as the Mushclient infobar to make it work properly.  Run:
  - InstallInfobar
