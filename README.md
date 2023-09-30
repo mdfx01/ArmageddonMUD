@@ -15,9 +15,11 @@ For a more full featured script which does infobar, logging, highlighting, mouse
 * wget https://raw.githubusercontent.com/mdfx01/ArmageddonMUD/main/ArmBasic.tin
 
 For all of the above plus mapping capabilities:
-* COMING SOME DAY
+* wget https://raw.githubusercontent.com/mdfx01/ArmageddonMUD/main/ArmWithMap.tin
 
-Then run the script with:
+Note for the mapping to work, you need to separately create a map call "MyMap.map" from within TinTin++.  The script loads this map.  Over time you will want to add to the triggers.
+
+Then run the script with a command like:
 * tt++ ArmMobile.tin
 
 The commands are the same as the Mushclient infobar to make it work properly.  Run:
