@@ -8,9 +8,9 @@ class <- read.csv('class_data.csv', colClasses=c(rep('character',6), 'numeric'))
 subclass <- read.csv('subclass_data.csv', colClasses=c(rep('character',4), 'numeric', 'character'))
 
 classlist <- c("", unique(class$class))
-
 subclasslist <- c("", unique(subclass$subclass))
 
+classcombos <-  read.csv('widecombos.csv', colClasses=c(rep('character',3), rep('numeric',101)))
 
 # input <- data.frame(selected.class1 ='Fighter',
 #                     selected.subclass1 = '',
@@ -27,13 +27,11 @@ subclasslist <- c("", unique(subclass$subclass))
 
 
 # Define UI for application that draws a histogram
-ui <- fluidPage(theme = shinytheme("cyborg"),
+ui <- navbarPage("MarshallDFX's AmrageddonMUD Skill Tools", theme = shinytheme("cyborg"),
               
 
     # Application title
-    titlePanel("MarshallDFX's ArmageddonMud Skill Comparison Graph"),
-    tags$style("#selected.class1 {border: 2px solid #dd4b39;}"),
-
+    tabPanel("Graphical Skill Comparison",
     # Sidebar with a slider input for number of bins 
     sidebarLayout(
         sidebarPanel(
@@ -163,6 +161,124 @@ ui <- fluidPage(theme = shinytheme("cyborg"),
         )
     )
 
+    ),
+    tabPanel("Skill Picker", 
+             sidebarLayout(
+               sidebarPanel(
+                 h5('1=apprentice, 2=journeyman, 3=advanced, 4=master'),
+             h4("Combat"),
+             sliderInput("skill.Archery", "Archery", 0, 4, 0, step = 1),
+             sliderInput("skill.Backstab", "Backstab", 0, 4, 0, step = 1),
+             sliderInput("skill.Bash", "Bash", 0, 4, 0, step = 1),
+             sliderInput("skill.Blind.Fighting", "Blind.Fighting", 0, 4, 0, step = 1),
+             sliderInput("skill.Blowgun.Use", "Blowgun.Use", 0, 4, 0, step = 1),
+             sliderInput("skill.Charge", "Charge", 0, 4, 0, step = 1),
+             sliderInput("skill.Crossbow.Use", "Crossbow.Use", 0, 4, 0, step = 1),
+             sliderInput("skill.Disarm", "Disarm", 0, 4, 0, step = 1),
+             sliderInput("skill.Dual.Wield", "Dual.Wield", 0, 4, 0, step = 1),
+             sliderInput("skill.Flee", "Flee", 0, 4, 0, step = 1),
+             sliderInput("skill.Guarding", "Guarding", 0, 4, 0, step = 1),
+             sliderInput("skill.Hack", "Hack", 0, 4, 0, step = 1),
+             sliderInput("skill.Kick", "Kick", 0, 4, 0, step = 1),
+             sliderInput("skill.Parry", "Parry", 0, 4, 0, step = 1),
+             sliderInput("skill.Rescue", "Rescue", 0, 4, 0, step = 1),
+             sliderInput("skill.Riposte", "Riposte", 0, 4, 0, step = 1),
+             sliderInput("skill.Sap", "Sap", 0, 4, 0, step = 1),
+             sliderInput("skill.Shield.Use", "Shield.Use", 0, 4, 0, step = 1),
+             sliderInput("skill.Sling.Use", "Sling.Use", 0, 4, 0, step = 1),
+             sliderInput("skill.Subdue", "Subdue", 0, 4, 0, step = 1),
+             sliderInput("skill.Threaten", "Threaten", 0, 4, 0, step = 1),
+             sliderInput("skill.Throw", "Throw", 0, 4, 0, step = 1),
+             sliderInput("skill.Two.Handed", "Two.Handed", 0, 4, 0, step = 1),
+             
+             h4("Weapon"),
+             sliderInput("skill.Bludgeoning.Weapons", "Bludgeoning.Weapons", 0, 4, 0, step = 1),
+             sliderInput("skill.Chopping.Weapons", "Chopping.Weapons", 0, 4, 0, step = 1),
+             sliderInput("skill.Piercing.Weapons", "Piercing.Weapons", 0, 4, 0, step = 1),
+             sliderInput("skill.Slashing.Weapons", "Slashing.Weapons", 0, 4, 0, step = 1),
+             h4("Manipulation"),
+             sliderInput("skill.Bandage", "Bandage", 0, 4, 0, step = 1),
+             sliderInput("skill.Pick", "Pick", 0, 4, 0, step = 1),
+             sliderInput("skill.Pilot", "Pilot", 0, 4, 0, step = 1),
+             sliderInput("skill.Poisoning", "Poisoning", 0, 4, 0, step = 1),
+             sliderInput("skill.Ride", "Ride", 0, 4, 0, step = 1),
+             sliderInput("skill.Skinning", "Skinning", 0, 4, 0, step = 1),
+             sliderInput("skill.Sleight.of.Hand", "Sleight.of.Hand", 0, 4, 0, step = 1),
+             sliderInput("skill.Steal", "Steal", 0, 4, 0, step = 1),
+             h4("Perception"),
+             sliderInput("skill.Direction.Sense", "Direction.Sense", 0, 4, 0, step = 1),
+             sliderInput("skill.Forage", "Forage", 0, 4, 0, step = 1),
+             sliderInput("skill.Hunt.city", "Hunt.city", 0, 4, 0, step = 1),
+             sliderInput("skill.Hunt.wilderness", "Hunt.wilderness", 0, 4, 0, step = 1),
+             sliderInput("skill.Listen.city", "Listen.city", 0, 4, 0, step = 1),
+             sliderInput("skill.Listen.wilderness", "Listen.wilderness", 0, 4, 0, step = 1),
+             sliderInput("skill.Peek", "Peek", 0, 4, 0, step = 1),
+             sliderInput("skill.Scan", "Scan", 0, 4, 0, step = 1),
+             sliderInput("skill.Search", "Search", 0, 4, 0, step = 1),
+             sliderInput("skill.Watch", "Watch", 0, 4, 0, step = 1),
+             h4('Stealth'),
+             sliderInput("skill.Climb", "Climb", 0, 4, 0, step = 1),
+             sliderInput("skill.Hide.city", "Hide.city", 0, 4, 0, step = 1),
+             sliderInput("skill.Hide.wilderness", "Hide.wilderness", 0, 4, 0, step = 1),
+             sliderInput("skill.Sneak.city", "Sneak.city", 0, 4, 0, step = 1),
+             sliderInput("skill.Sneak.wilderness", "Sneak.wilderness", 0, 4, 0, step = 1),
+             h4('Barter'),
+             sliderInput("skill.Haggle", "Haggle", 0, 4, 0, step = 1),
+             sliderInput("skill.Value", "Value", 0, 4, 0, step = 1),
+             h4('Crafting'),
+             sliderInput("skill.Armor.Making", "Armor.Making", 0, 4, 0, step = 1),
+             sliderInput("skill.Armor.Repair", "Armor.Repair", 0, 4, 0, step = 1),
+             sliderInput("skill.Axe.Making", "Axe.Making", 0, 4, 0, step = 1),
+             sliderInput("skill.Bandage.Making", "Bandage.Making", 0, 4, 0, step = 1),
+             sliderInput("skill.Basketweaving", "Basketweaving", 0, 4, 0, step = 1),
+             sliderInput("skill.Bow.Making", "Bow.Making", 0, 4, 0, step = 1),
+             sliderInput("skill.Brew", "Brew", 0, 4, 0, step = 1),
+             sliderInput("skill.Clayworking", "Clayworking", 0, 4, 0, step = 1),
+             sliderInput("skill.Clothworking", "Clothworking", 0, 4, 0, step = 1),
+             sliderInput("skill.Club.Making", "Club.Making", 0, 4, 0, step = 1),
+             sliderInput("skill.Cooking", "Cooking", 0, 4, 0, step = 1),
+             sliderInput("skill.Dyeing", "Dyeing", 0, 4, 0, step = 1),
+             sliderInput("skill.Feather.Working", "Feather.Working", 0, 4, 0, step = 1),
+             sliderInput("skill.Fletchery", "Fletchery", 0, 4, 0, step = 1),
+             sliderInput("skill.Floristry", "Floristry", 0, 4, 0, step = 1),
+             sliderInput("skill.Instrument.Making", "Instrument.Making", 0, 4, 0, step = 1),
+             sliderInput("skill.Jewelry.Making", "Jewelry.Making", 0, 4, 0, step = 1),
+             sliderInput("skill.Knife.Making", "Knife.Making", 0, 4, 0, step = 1),
+             sliderInput("skill.Leatherworking", "Leatherworking", 0, 4, 0, step = 1),
+             sliderInput("skill.Lumberjacking", "Lumberjacking", 0, 4, 0, step = 1),
+             sliderInput("skill.Pick.Making", "Pick.Making", 0, 4, 0, step = 1),
+             sliderInput("skill.Spear.Making", "Spear.Making", 0, 4, 0, step = 1),
+             sliderInput("skill.Stonecrafting", "Stonecrafting", 0, 4, 0, step = 1),
+             sliderInput("skill.Sword.Making", "Sword.Making", 0, 4, 0, step = 1),
+             sliderInput("skill.Tanning", "Tanning", 0, 4, 0, step = 1),
+             sliderInput("skill.Tent.Making", "Tent.Making", 0, 4, 0, step = 1),
+             sliderInput("skill.Tool.Making", "Tool.Making", 0, 4, 0, step = 1),
+             sliderInput("skill.Wagon.Making", "Wagon.Making", 0, 4, 0, step = 1),
+             sliderInput("skill.Woodworking", "Woodworking", 0, 4, 0, step = 1),
+             h4('Perks'),
+             sliderInput("skill.Alcohol.Tolerance.Perk", "Alcohol.Tolerance.Perk", 0, 1, 0, step = 1),
+             sliderInput("skill.Better.Movement.Regeneration", "Better.Movement.Regeneration", 0, 1, 0, step = 1),
+             sliderInput("skill.City.Forage", "City.Forage", 0, 1, 0, step = 1),
+             sliderInput("skill.City.Hunt", "City.Hunt", 0, 1, 0, step = 1),
+             sliderInput("skill.City.Stealth", "City.Stealth", 0, 1, 0, step = 1),
+             sliderInput("skill.Customcraft", "Customcraft", 0, 1, 0, step = 1),
+             sliderInput("skill.Hitch.2.Mounts", "Hitch.2.Mounts", 0, 1, 0, step = 1),
+             sliderInput("skill.Learn.Languages.Perk", "Learn.Languages.Perk", 0, 1, 0, step = 1),
+             sliderInput("skill.Learn.Ride.Faster", "Learn.Ride.Faster", 0, 1, 0, step = 1),
+             sliderInput("skill.Pain.Tolerance.Perk", "Pain.Tolerance.Perk", 0, 1, 0, step = 1),
+             sliderInput("skill.Tame.Mounts", "Tame.Mounts", 0, 1, 0, step = 1),
+             sliderInput("skill.Wilderness.Forage", "Wilderness.Forage", 0, 1, 0, step = 1),
+             sliderInput("skill.Wilderness.Hunt", "Wilderness.Hunt", 0, 1, 0, step = 1),
+             sliderInput("skill.Wilderness.Quit", "Wilderness.Quit", 0, 1, 0, step = 1),
+             sliderInput("skill.Wilderness.Stealth", "Wilderness.Stealth", 0, 1, 0, step = 1)
+             
+             
+               ),
+             mainPanel(
+               tableOutput('tableSkillPicker')
+             )
+             )
+             )
 )
 
 # Define server logic required to draw a histogram
@@ -499,6 +615,117 @@ server <- function(input, output, session) {
       updateTextInput(session, "selected.subclass4", value = "")
       updateTextInput(session, "selected.subclass5", value = "")
     })
+    
+  skillpickerdat <- reactive({ 
+    
+    skillpickerdat <- classcombos[classcombos$Haggle >= input$skill.Haggle & 
+                                    classcombos$Value >= input$skill.Value & 
+                                    classcombos$Archery >= input$skill.Archery & 
+                                    classcombos$Backstab >= input$skill.Backstab & 
+                                    classcombos$Bash >= input$skill.Bash & 
+                                    classcombos$Blind.Fighting >= input$skill.Blind.Fighting & 
+                                    classcombos$Blowgun.Use >= input$skill.Blowgun.Use & 
+                                    classcombos$Charge >= input$skill.Charge & 
+                                    classcombos$Crossbow.Use >= input$skill.Crossbow.Use & 
+                                    classcombos$Disarm >= input$skill.Disarm & 
+                                    classcombos$Dual.Wield >= input$skill.Dual.Wield & 
+                                    classcombos$Flee >= input$skill.Flee & 
+                                    classcombos$Guarding >= input$skill.Guarding & 
+                                    classcombos$Hack >= input$skill.Hack & 
+                                    classcombos$Kick >= input$skill.Kick & 
+                                    classcombos$Parry >= input$skill.Parry & 
+                                    classcombos$Rescue >= input$skill.Rescue & 
+                                    classcombos$Riposte >= input$skill.Riposte & 
+                                    classcombos$Sap >= input$skill.Sap &
+                                    
+                                    classcombos$Shield.Use >= input$skill.Shield.Use & 
+                                    classcombos$Sling.Use >= input$skill.Sling.Use & 
+                                    classcombos$Subdue >= input$skill.Subdue & 
+                                    classcombos$Threaten >= input$skill.Threaten & 
+                                    classcombos$Throw >= input$skill.Throw & 
+                                    classcombos$Two.Handed >= input$skill.Two.Handed & 
+                                    classcombos$Armor.Making >= input$skill.Armor.Making & 
+                                    classcombos$Armor.Repair >= input$skill.Armor.Repair & 
+                                    classcombos$Axe.Making >= input$skill.Axe.Making & 
+                                    classcombos$Bandage.Making >= input$skill.Bandage.Making & 
+                                    classcombos$Basketweaving >= input$skill.Basketweaving & 
+                                    classcombos$Bow.Making >= input$skill.Bow.Making & 
+                                    classcombos$Brew >= input$skill.Brew & 
+                                    classcombos$Clayworking >= input$skill.Clayworking & 
+                                    classcombos$Clothworking >= input$skill.Clothworking & 
+                                    classcombos$Club.Making >= input$skill.Club.Making & 
+                                    classcombos$Cooking >= input$skill.Cooking & 
+                                    classcombos$Dyeing >= input$skill.Dyeing & 
+                                    classcombos$Feather.Working >= input$skill.Feather.Working & 
+                                    classcombos$Fletchery >= input$skill.Fletchery & 
+                                    classcombos$Floristry >= input$skill.Floristry & 
+                                    
+                                    classcombos$Instrument.Making >= input$skill.Instrument.Making & 
+                                    classcombos$Jewelry.Making >= input$skill.Jewelry.Making & 
+                                    classcombos$Knife.Making >= input$skill.Knife.Making & 
+                                    classcombos$Leatherworking >= input$skill.Leatherworking & 
+                                    classcombos$Lumberjacking >= input$skill.Lumberjacking & 
+                                    classcombos$Pick.Making >= input$skill.Pick.Making & 
+                                    classcombos$Spear.Making >= input$skill.Spear.Making & 
+                                    classcombos$Stonecrafting >= input$skill.Stonecrafting & 
+                                    classcombos$Sword.Making >= input$skill.Sword.Making & 
+                                    classcombos$Tanning >= input$skill.Tanning & 
+                                    
+                                    
+                                    classcombos$Tent.Making >= input$skill.Tent.Making & 
+                                    classcombos$Tool.Making >= input$skill.Tool.Making & 
+                                    classcombos$Wagon.Making >= input$skill.Wagon.Making & 
+                                    classcombos$Woodworking >= input$skill.Woodworking & 
+                                    
+                                    classcombos$Bandage >= input$skill.Bandage & 
+                                    classcombos$Pick >= input$skill.Pick & 
+                                    classcombos$Pilot >= input$skill.Pilot & 
+                                    classcombos$Poisoning >= input$skill.Poisoning & 
+                                    classcombos$Ride >= input$skill.Ride & 
+                                    classcombos$Skinning >= input$skill.Skinning & 
+                                    classcombos$Sleight.of.Hand >= input$skill.Sleight.of.Hand & 
+                                    classcombos$Steal >= input$skill.Steal & 
+                                    classcombos$Direction.Sense >= input$skill.Direction.Sense & 
+                                    classcombos$Forage >= input$skill.Forage & 
+                                    classcombos$Hunt.city >= input$skill.Hunt.city & 
+                                    classcombos$Hunt.wilderness >= input$skill.Hunt.wilderness & 
+                                    classcombos$Listen.city >= input$skill.Listen.city & 
+                                    classcombos$Listen.wilderness >= input$skill.Listen.wilderness & 
+                                    classcombos$Peek >= input$skill.Peek & 
+                                    classcombos$Scan >= input$skill.Scan & 
+                                    classcombos$Search >= input$skill.Search & 
+                                    classcombos$Watch >= input$skill.Watch & 
+                                    classcombos$Alcohol.Tolerance.Perk >= input$skill.Alcohol.Tolerance.Perk & 
+                                    classcombos$Better.Movement.Regeneration >= input$skill.Better.Movement.Regeneration & 
+                                    
+                                    classcombos$City.Forage >= input$skill.City.Forage & 
+                                    classcombos$City.Hunt >= input$skill.City.Hunt & 
+                                    classcombos$City.Stealth >= input$skill.City.Stealth & 
+                                    classcombos$Customcraft >= input$skill.Customcraft & 
+                                    classcombos$Hitch.2.Mounts >= input$skill.Hitch.2.Mounts & 
+                                    classcombos$Learn.Languages.Perk >= input$skill.Learn.Languages.Perk & 
+                                    classcombos$Learn.Ride.Faster >= input$skill.Learn.Ride.Faster & 
+                                    classcombos$Pain.Tolerance.Perk >= input$skill.Pain.Tolerance.Perk & 
+                                    classcombos$Tame.Mounts >= input$skill.Tame.Mounts & 
+                                    classcombos$Wilderness.Forage >= input$skill.Wilderness.Forage & 
+                                    classcombos$Wilderness.Hunt >= input$skill.Wilderness.Hunt & 
+                                    classcombos$Wilderness.Quit >= input$skill.Wilderness.Quit & 
+                                    classcombos$Wilderness.Stealth >= input$skill.Wilderness.Stealth & 
+                                    classcombos$Climb >= input$skill.Climb & 
+                                    classcombos$Hide.city >= input$skill.Hide.city & 
+                                    classcombos$Hide.wilderness >= input$skill.Hide.wilderness & 
+                                    classcombos$Sneak.city >= input$skill.Sneak.city & 
+                                    classcombos$Sneak.wilderness >= input$skill.Sneak.wilderness & 
+                                    classcombos$Bludgeoning.Weapons >= input$skill.Bludgeoning.Weapons & 
+                                    classcombos$Chopping.Weapons >= input$skill.Chopping.Weapons & 
+                                    classcombos$Piercing.Weapons >= input$skill.Piercing.Weapons & 
+                                    classcombos$Slashing.Weapons >= input$skill.Slashing.Weapons, 'classcombo']
+    
+    skillpickerdat
+    
+  })
+  
+  output$tableSkillPicker <- renderTable(skillpickerdat())
     
 }
 
